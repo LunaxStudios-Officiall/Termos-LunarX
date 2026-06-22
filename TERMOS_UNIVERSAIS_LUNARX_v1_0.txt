@@ -1,0 +1,839 @@
+TERMOS UNIVERSAIS DE USO, LICENÇA DE SOFTWARE E POLÍTICA DE PRIVACIDADE
+LUNARX SOFTWARE / LUNARX STUDIOS / ECOSSISTEMA LUNARX
+
+Versão: 1.0
+Data de publicação: 22/06/2026
+Documento para hospedagem em TXT/RAW GitHub e vinculação em telas de aceite dos produtos LunarX.
+
+IMPORTANTE:
+Este documento é um modelo-base de termos universais para produtos da marca LunarX. Antes de uso comercial definitivo, recomenda-se revisão por advogado, principalmente para adequar dados do responsável legal, CNPJ/CPF, endereço, e-mail de suporte, canais de atendimento, regras de cancelamento, reembolso, tributos, políticas comerciais e exigências específicas do produto.
+
+============================================================
+1. IDENTIFICAÇÃO
+============================================================
+
+Estes Termos Universais de Uso, Licença de Software e Política de Privacidade regulam o acesso, instalação, ativação, teste, contratação, uso, atualização, sincronização, suporte e demais interações relacionadas aos produtos, sistemas, aplicativos, jogos, sites, ferramentas, módulos, painéis, integrações e serviços digitais vinculados à marca LunarX.
+
+Para fins deste documento, poderão ser utilizadas as expressões:
+
+"LunarX", "LunarX Software", "LunarX Studios", "nós", "nosso" ou "fornecedor": referem-se à marca, equipe, desenvolvedor, titular ou responsável pelo produto digital oferecido.
+
+"Usuário", "cliente", "contratante", "licenciado", "administrador", "operador", "jogador" ou "você": referem-se à pessoa física ou jurídica que acessa, instala, testa, ativa, compra, assina, utiliza ou interage com qualquer produto LunarX.
+
+"Produto LunarX" ou "Produto": qualquer sistema, aplicativo, jogo, ferramenta, site, painel, módulo, integração, automação, serviço online, serviço local, APK, executável Windows, PWA, arquivo HTML, versão web, versão mobile, versão desktop, protótipo, versão de teste, versão paga ou futura tecnologia vinculada à marca LunarX.
+
+"Serviço": qualquer funcionalidade oferecida por um Produto LunarX, incluindo recursos offline, recursos online, sincronização, backup, suporte, autenticação, atualização remota, pagamentos, relatórios, jogos, cadastros, integrações com terceiros e automações.
+
+"Dados": informações inseridas, geradas, armazenadas, sincronizadas ou processadas durante o uso dos Produtos LunarX.
+
+============================================================
+2. ACEITE OBRIGATÓRIO
+============================================================
+
+Ao clicar em "Eu li e concordo", "Aceito os Termos", "Ativar", "Entrar", "Usar teste grátis", "Continuar", "Criar conta", "Usar o sistema", "Iniciar", "Jogar", "Instalar", "Atualizar" ou qualquer botão equivalente dentro de um Produto LunarX, o usuário declara que:
+
+1. leu estes Termos;
+2. entendeu as condições gerais de uso;
+3. concorda com as regras de licença, privacidade, responsabilidade e uso aceitável;
+4. aceita que o uso do Produto depende do cumprimento destes Termos;
+5. reconhece que estes Termos podem ser atualizados conforme necessário;
+6. aceita que o uso contínuo após atualização dos Termos poderá representar nova concordância, quando exibido aviso no Produto;
+7. possui capacidade legal para contratar ou autorização de responsável legal/empresa, quando aplicável;
+8. entende que o Produto pode possuir recursos gratuitos, pagos, de teste, online, offline ou limitados, conforme o caso.
+
+Caso o usuário não concorde com estes Termos, não deverá ativar, instalar, acessar, testar, contratar ou utilizar qualquer Produto LunarX.
+
+O aceite poderá ser exigido antes de:
+
+- ativar o sistema;
+- iniciar período grátis;
+- entrar em conta existente;
+- criar nova conta;
+- acessar painel administrativo;
+- abrir app;
+- iniciar jogo;
+- usar recurso online;
+- enviar suporte;
+- fazer backup;
+- sincronizar dados;
+- continuar após atualização de versão.
+
+============================================================
+3. ABRANGÊNCIA UNIVERSAL
+============================================================
+
+Estes Termos são universais e se aplicam a todos os Produtos LunarX, incluindo, mas não se limitando a:
+
+- LunarX Parking;
+- EstacioneiX;
+- LunarX Central Parking;
+- LunarX Suporte Admin;
+- LunarX Hardware Lab;
+- LunarX IA;
+- LunarX Creation;
+- jogos da LunarX Games;
+- aplicativos Android;
+- aplicativos Windows;
+- sistemas web;
+- sistemas locais;
+- painéis administrativos;
+- módulos de automação;
+- integrações com Supabase, Mercado Pago, IA, hardware, impressoras, leitores, APIs ou serviços externos;
+- versões gratuitas;
+- versões pagas;
+- versões de teste;
+- protótipos;
+- versões futuras;
+- produtos ainda não nomeados que usem a marca LunarX.
+
+Quando um Produto LunarX possuir termos próprios, manual específico, contrato comercial ou política complementar, esses documentos poderão complementar estes Termos. Em caso de conflito, prevalecerá a regra mais específica para aquele Produto, desde que não contrarie a legislação aplicável.
+
+============================================================
+4. NATUREZA DA LICENÇA
+============================================================
+
+Os Produtos LunarX são licenciados, e não vendidos.
+
+Ao usar um Produto LunarX, o usuário recebe uma licença limitada, revogável, não exclusiva, intransferível e condicionada ao cumprimento destes Termos.
+
+Essa licença permite ao usuário utilizar o Produto de acordo com:
+
+- o plano contratado;
+- o período de teste concedido;
+- as permissões internas do sistema;
+- as limitações técnicas;
+- as regras comerciais aplicáveis;
+- a finalidade normal do Produto.
+
+A licença não transfere ao usuário:
+
+- código-fonte;
+- propriedade intelectual;
+- marca;
+- direitos autorais;
+- segredos comerciais;
+- banco de dados estrutural;
+- design;
+- lógica interna;
+- identidade visual;
+- documentação privada;
+- modelos internos;
+- integrações proprietárias;
+- qualquer direito de revender, copiar ou distribuir o Produto.
+
+============================================================
+5. PROPRIEDADE INTELECTUAL
+============================================================
+
+Todos os direitos sobre os Produtos LunarX pertencem à LunarX ou aos seus respectivos titulares licenciantes.
+
+São protegidos por direitos autorais, propriedade intelectual, segredo comercial ou proteção equivalente:
+
+- nome LunarX;
+- nomes dos Produtos;
+- logotipos;
+- interface;
+- telas;
+- layout;
+- código;
+- lógica do sistema;
+- textos;
+- fluxos;
+- banco de dados estrutural;
+- modelos de negócio;
+- identidade visual;
+- imagens;
+- animações;
+- sons;
+- personagens;
+- mecânicas de jogo;
+- documentação;
+- prompts internos;
+- arquivos de configuração;
+- módulos;
+- integrações;
+- scripts;
+- executáveis;
+- APKs;
+- instaladores;
+- builds;
+- painéis administrativos.
+
+O usuário não pode, sem autorização expressa:
+
+- copiar;
+- vender;
+- sublicenciar;
+- revender;
+- alugar;
+- distribuir;
+- publicar;
+- clonar;
+- modificar para revenda;
+- remover marca;
+- usar engenharia reversa;
+- extrair código;
+- criar produto concorrente usando a base LunarX;
+- burlar licença;
+- remover travas;
+- compartilhar versão paga indevidamente;
+- transformar produto privado em público;
+- hospedar cópia não autorizada;
+- usar a marca LunarX como se fosse sua.
+
+============================================================
+6. PRODUTOS GRATUITOS, TESTES E PLANOS PAGOS
+============================================================
+
+Alguns Produtos LunarX podem oferecer:
+
+- versão gratuita;
+- demonstração;
+- modo teste;
+- período grátis;
+- plano mensal;
+- plano anual;
+- plano vitalício, se oferecido;
+- recursos bloqueados por plano;
+- ativações por dispositivo;
+- licenças por unidade, usuário, empresa ou produto;
+- recursos futuros ainda não liberados.
+
+Quando houver teste grátis, ele poderá ter:
+
+- prazo limitado;
+- funções limitadas;
+- dados de demonstração;
+- limitações técnicas;
+- bloqueios após vencimento;
+- necessidade de ativação paga para continuidade.
+
+A existência de teste grátis não obriga a LunarX a manter gratuidade permanente.
+
+Planos, preços, recursos e condições comerciais podem variar conforme Produto, versão, negociação, promoção ou atualização.
+
+Quando um valor for exibido dentro do Produto ou site oficial, ele deverá ser interpretado conforme as condições apresentadas naquele momento.
+
+============================================================
+7. ATIVAÇÃO, LOGIN E CONTAS
+============================================================
+
+Alguns Produtos LunarX podem exigir:
+
+- ativação;
+- login;
+- conta;
+- código de acesso;
+- PIN;
+- e-mail;
+- senha;
+- licença;
+- identificação de dispositivo;
+- conexão com internet;
+- vínculo com unidade;
+- vínculo com empresa;
+- confirmação de permissões.
+
+O usuário é responsável por manter suas credenciais seguras.
+
+A LunarX não se responsabiliza por prejuízos causados por:
+
+- senha compartilhada indevidamente;
+- credencial fraca;
+- acesso por pessoa não autorizada;
+- perda de conta por descuido do usuário;
+- uso do sistema por operador sem treinamento;
+- configuração incorreta feita pelo próprio usuário;
+- uso fora da finalidade prevista.
+
+A LunarX poderá bloquear, suspender ou limitar acesso em caso de:
+
+- fraude;
+- tentativa de burlar licença;
+- uso abusivo;
+- violação destes Termos;
+- risco de segurança;
+- inadimplência, quando aplicável;
+- uso que prejudique outros usuários;
+- ordem legal;
+- manutenção crítica.
+
+============================================================
+8. ATUALIZAÇÕES
+============================================================
+
+Os Produtos LunarX podem receber atualizações para:
+
+- corrigir bugs;
+- melhorar segurança;
+- adicionar recursos;
+- remover falhas;
+- ajustar compatibilidade;
+- atualizar integrações;
+- atender exigências técnicas ou legais;
+- bloquear versões obsoletas;
+- melhorar desempenho.
+
+Algumas atualizações poderão ser obrigatórias.
+
+Quando uma atualização obrigatória for exigida, o Produto poderá bloquear uso total ou parcial até a atualização.
+
+A LunarX poderá alterar funcionamento, visual, regras internas e recursos, desde que respeite direitos adquiridos e condições comerciais aplicáveis.
+
+O usuário entende que versões antigas podem deixar de receber suporte.
+
+============================================================
+9. USO ACEITÁVEL
+============================================================
+
+O usuário concorda em utilizar os Produtos LunarX de forma lícita, responsável e compatível com sua finalidade.
+
+É proibido usar Produtos LunarX para:
+
+- fraudes;
+- golpes;
+- atividades ilegais;
+- violação de direitos de terceiros;
+- invasão de sistemas;
+- envio de spam;
+- manipulação indevida de dados;
+- armazenamento de conteúdo ilícito;
+- falsificação de informações;
+- engenharia reversa indevida;
+- quebra de licença;
+- adulteração de pagamentos;
+- burlar bloqueios;
+- obter acesso não autorizado;
+- prejudicar a infraestrutura LunarX;
+- vender acesso não autorizado;
+- usar produtos para fins criminosos.
+
+A LunarX poderá suspender acesso em caso de uso abusivo ou ilegal.
+
+============================================================
+10. RESPONSABILIDADES DO USUÁRIO
+============================================================
+
+O usuário é responsável por:
+
+- inserir dados corretos;
+- conferir informações antes de salvar;
+- treinar seus operadores;
+- manter dispositivos seguros;
+- manter backups quando aplicável;
+- usar internet estável quando recursos online forem necessários;
+- manter sistema atualizado;
+- proteger senhas;
+- verificar relatórios;
+- conferir cobranças;
+- cumprir leis aplicáveis ao seu negócio;
+- informar clientes sobre tratamento de dados quando atuar como controlador;
+- respeitar direitos de consumidores, funcionários, clientes e terceiros.
+
+Em sistemas de gestão, como estacionamentos, caixas, serviços, mensalistas ou relatórios, o usuário/empresa continua responsável pela operação real do negócio.
+
+O Produto LunarX é uma ferramenta de apoio tecnológico, não substitui gestão, auditoria, contabilidade, assessoria jurídica, treinamento operacional ou responsabilidade empresarial.
+
+============================================================
+11. DADOS INSERIDOS PELO USUÁRIO
+============================================================
+
+Os dados inseridos pelo usuário continuam pertencendo ao usuário ou à empresa responsável pela operação, salvo conteúdos e elementos próprios da LunarX.
+
+Exemplos de dados do usuário:
+
+- cadastros;
+- placas;
+- nomes;
+- contatos;
+- históricos;
+- pagamentos registrados;
+- configurações;
+- mensagens;
+- preferências;
+- backups;
+- relatórios;
+- dados de clientes finais;
+- progresso de jogos, quando aplicável;
+- informações operacionais.
+
+A LunarX poderá tratar esses dados apenas na medida necessária para:
+
+- funcionamento do Produto;
+- suporte;
+- backup;
+- sincronização;
+- segurança;
+- prevenção de fraude;
+- cumprimento legal;
+- melhoria do serviço;
+- manutenção técnica;
+- integração contratada.
+
+============================================================
+12. PRIVACIDADE E LGPD
+============================================================
+
+A LunarX se compromete a tratar dados pessoais de acordo com a legislação aplicável, incluindo a Lei Geral de Proteção de Dados Pessoais (LGPD), quando aplicável.
+
+Dados pessoais podem incluir informações relacionadas a pessoa natural identificada ou identificável.
+
+Dependendo do Produto e do contexto de uso, podem ser tratados dados como:
+
+- nome;
+- e-mail;
+- telefone;
+- identificador de usuário;
+- placa de veículo;
+- histórico de uso;
+- registros de acesso;
+- endereço IP;
+- dados de dispositivo;
+- dados operacionais;
+- mensagens de suporte;
+- identificadores técnicos;
+- informações de pagamento processadas por terceiros;
+- dados necessários para segurança e autenticação.
+
+A base legal do tratamento poderá variar conforme a situação, incluindo:
+
+- execução de contrato;
+- consentimento;
+- cumprimento de obrigação legal;
+- legítimo interesse;
+- exercício regular de direitos;
+- proteção ao crédito, quando aplicável;
+- prevenção à fraude;
+- necessidade para prestação do serviço.
+
+O usuário reconhece que, em alguns Produtos, especialmente sistemas usados por empresas, o contratante pode ser o controlador dos dados pessoais de seus próprios clientes, funcionários e usuários finais. Nesses casos, a LunarX poderá atuar como operadora ou fornecedora de tecnologia, tratando dados conforme instruções do contratante e necessidade técnica do serviço.
+
+============================================================
+13. DIREITOS DO TITULAR DE DADOS
+============================================================
+
+Quando aplicável pela LGPD, titulares de dados pessoais podem solicitar:
+
+- confirmação de tratamento;
+- acesso aos dados;
+- correção;
+- anonimização;
+- bloqueio;
+- eliminação;
+- portabilidade, quando aplicável;
+- informação sobre compartilhamento;
+- revisão de decisões automatizadas, quando aplicável;
+- revogação de consentimento, quando o tratamento depender dele.
+
+Solicitações deverão ser feitas pelo canal oficial de contato informado pela LunarX ou pelo contratante controlador dos dados, conforme o caso.
+
+Quando a LunarX atuar apenas como operadora, poderá encaminhar a solicitação ao controlador responsável.
+
+============================================================
+14. SEGURANÇA
+============================================================
+
+A LunarX poderá adotar medidas técnicas e organizacionais razoáveis para proteger dados e sistemas, incluindo:
+
+- autenticação;
+- permissões;
+- logs;
+- backups;
+- criptografia, quando disponível;
+- políticas de acesso;
+- separação de ambientes;
+- atualizações;
+- monitoramento de falhas;
+- bloqueio de uso abusivo.
+
+Nenhum sistema digital é absolutamente imune a falhas, ataques, indisponibilidade, erros humanos ou eventos externos.
+
+O usuário deve colaborar mantendo dispositivos, senhas, redes e acessos seguros.
+
+============================================================
+15. BACKUP E SINCRONIZAÇÃO
+============================================================
+
+Alguns Produtos LunarX podem oferecer backup local, backup online, exportação, importação, sincronização ou restauração.
+
+O usuário entende que:
+
+- backups dependem de configuração correta;
+- backups online dependem de internet e serviços terceiros;
+- backups locais dependem do dispositivo;
+- apagar dados pode ser irreversível;
+- restaurações devem ser feitas com cuidado;
+- a LunarX não garante recuperação de dados se o usuário não realizou backup adequado;
+- recursos online podem falhar por indisponibilidade externa, internet, permissões, políticas de banco, erro de configuração ou manutenção.
+
+Sempre que possível, o usuário deve manter cópias de segurança próprias.
+
+============================================================
+16. SERVIÇOS DE TERCEIROS
+============================================================
+
+Produtos LunarX podem integrar serviços de terceiros, como:
+
+- Supabase;
+- Mercado Pago;
+- APIs de inteligência artificial;
+- provedores de hospedagem;
+- serviços de pagamento;
+- serviços de autenticação;
+- GitHub;
+- Netlify;
+- lojas de aplicativos;
+- sistemas operacionais;
+- hardware externo;
+- impressoras;
+- leitores;
+- câmeras;
+- dispositivos locais;
+- provedores de internet.
+
+A LunarX não controla integralmente serviços de terceiros.
+
+Falhas, bloqueios, alterações de preço, indisponibilidade, políticas, limites, restrições, alterações de API ou encerramento desses serviços podem afetar Produtos LunarX.
+
+O usuário também deverá cumprir termos de uso desses terceiros quando usar recursos integrados.
+
+============================================================
+17. PAGAMENTOS, ASSINATURAS, CANCELAMENTO E REEMBOLSO
+============================================================
+
+Produtos pagos podem ter cobrança:
+
+- mensal;
+- anual;
+- por licença;
+- por unidade;
+- por dispositivo;
+- por usuário;
+- por módulo;
+- por recurso adicional;
+- por serviço técnico;
+- por instalação;
+- por manutenção;
+- por plano.
+
+As condições específicas de preço, vencimento, renovação, suspensão, reativação, cancelamento e reembolso serão informadas no Produto, site, proposta comercial, contrato ou canal oficial.
+
+Em caso de atraso no pagamento, a LunarX poderá limitar, suspender ou bloquear recursos pagos, preservando, quando tecnicamente possível, acesso a dados para exportação conforme política aplicável.
+
+Pedidos de cancelamento ou reembolso serão analisados conforme:
+
+- plano contratado;
+- período de uso;
+- forma de pagamento;
+- regra comercial apresentada;
+- legislação aplicável;
+- existência de teste grátis;
+- serviço já prestado;
+- contratação personalizada;
+- boa-fé das partes.
+
+Nada neste documento busca retirar direitos legais do consumidor.
+
+============================================================
+18. SUPORTE
+============================================================
+
+A LunarX poderá oferecer suporte por canais oficiais definidos para cada Produto.
+
+O suporte pode abranger:
+
+- dúvidas de uso;
+- bugs;
+- falhas técnicas;
+- orientação de configuração;
+- atualização;
+- problemas de ativação;
+- mensagens enviadas pelo app;
+- análise de logs, quando disponível.
+
+O suporte não inclui, salvo acordo específico:
+
+- consultoria jurídica;
+- contabilidade;
+- treinamento presencial;
+- configuração de equipamentos de terceiros;
+- recuperação garantida de dados apagados pelo usuário;
+- criação de recurso personalizado;
+- manutenção de computadores;
+- garantia de internet;
+- suporte a sistemas externos não controlados pela LunarX.
+
+============================================================
+19. JOGOS LUNARX
+============================================================
+
+Quando o Produto for um jogo LunarX, o usuário entende que:
+
+- progresso, conquistas, itens e pontuações podem depender do dispositivo, conta ou servidor;
+- versões de teste podem sofrer reset;
+- recursos online podem ser alterados;
+- itens cosméticos não representam propriedade real fora do jogo;
+- trapaças, modificações indevidas, bots, exploits ou manipulação podem gerar bloqueio;
+- jogos podem conter atualizações, balanceamentos, correções e mudanças de mecânicas.
+
+Se o jogo for destinado a menores de idade, o uso deverá ocorrer com ciência e responsabilidade dos pais ou responsáveis quando exigido por lei, loja de aplicativos ou classificação indicativa.
+
+============================================================
+20. APLICATIVOS, SISTEMAS E FERRAMENTAS EMPRESARIAIS
+============================================================
+
+Quando o Produto for sistema empresarial, administrativo, operacional, financeiro ou de gestão, o usuário entende que:
+
+- deve conferir dados antes de tomar decisões;
+- relatórios dependem dos dados inseridos;
+- erros de operação podem gerar informações incorretas;
+- permissões devem ser configuradas com cuidado;
+- operadores devem ser treinados;
+- caixa, pagamentos, serviços e cobranças devem ser revisados pelo responsável;
+- o sistema auxilia a gestão, mas não substitui conferência humana;
+- a empresa usuária é responsável por seus próprios clientes, funcionários, preços, regras internas, obrigações fiscais e obrigações legais.
+
+============================================================
+21. LIMITAÇÃO DE RESPONSABILIDADE
+============================================================
+
+Na máxima extensão permitida pela legislação aplicável, a LunarX não será responsável por prejuízos causados por:
+
+- uso incorreto do Produto;
+- erro de preenchimento;
+- falta de treinamento;
+- senha compartilhada;
+- dispositivo com vírus;
+- internet instável;
+- falha de hardware;
+- falha de serviço terceiro;
+- exclusão manual de dados;
+- ausência de backup;
+- uso de versão desatualizada;
+- tentativa de modificação não autorizada;
+- quebra de licença;
+- uso fora da finalidade;
+- configuração indevida;
+- decisões comerciais tomadas pelo usuário;
+- atos de funcionários, operadores ou terceiros do usuário;
+- eventos externos fora do controle razoável da LunarX.
+
+Nada neste documento exclui responsabilidade que não possa ser excluída por lei.
+
+============================================================
+22. DISPONIBILIDADE
+============================================================
+
+A LunarX buscará manter seus Produtos funcionando da melhor forma possível, mas não garante disponibilidade contínua, ininterrupta ou livre de erros.
+
+Podem ocorrer indisponibilidades por:
+
+- manutenção;
+- atualização;
+- falha de internet;
+- falha de servidor;
+- falha de terceiro;
+- bloqueio de API;
+- erro de configuração;
+- ataques;
+- caso fortuito;
+- força maior;
+- incompatibilidade de dispositivo;
+- atualização de sistema operacional;
+- limitações de hardware.
+
+============================================================
+23. ALTERAÇÃO, SUSPENSÃO OU ENCERRAMENTO DE PRODUTOS
+============================================================
+
+A LunarX poderá alterar, suspender ou encerrar Produtos, recursos ou versões, especialmente em casos de:
+
+- produto experimental;
+- inviabilidade técnica;
+- risco de segurança;
+- manutenção;
+- substituição por versão nova;
+- falta de uso;
+- encerramento de serviço terceiro;
+- exigência legal;
+- violação destes Termos.
+
+Quando possível, a LunarX buscará informar usuários impactados e oferecer alternativas razoáveis.
+
+============================================================
+24. CONTEÚDO DO USUÁRIO
+============================================================
+
+O usuário é responsável pelo conteúdo que inserir, enviar, cadastrar ou armazenar nos Produtos LunarX.
+
+É proibido inserir conteúdo:
+
+- ilegal;
+- ofensivo;
+- discriminatório;
+- fraudulento;
+- que viole direitos de terceiros;
+- que contenha malware;
+- que exponha dados pessoais sem base legal;
+- que infrinja propriedade intelectual;
+- que prejudique funcionamento do Produto.
+
+A LunarX poderá remover, bloquear ou reportar conteúdo em caso de violação, quando tiver controle técnico e legal para isso.
+
+============================================================
+25. COMUNICAÇÕES
+============================================================
+
+A LunarX poderá enviar comunicações relacionadas a:
+
+- ativação;
+- conta;
+- suporte;
+- segurança;
+- atualização;
+- cobrança;
+- manutenção;
+- alteração de termos;
+- avisos importantes;
+- novidades de produto, quando permitido.
+
+Comunicações poderão ocorrer por:
+
+- e-mail;
+- telefone;
+- WhatsApp;
+- notificação no app;
+- mensagem dentro do sistema;
+- site;
+- repositório oficial;
+- TXT remoto;
+- painel administrativo.
+
+============================================================
+26. ACEITE DE TERMOS VIA LINK/TXT
+============================================================
+
+Quando estes Termos forem disponibilizados por link, GitHub RAW, arquivo TXT, site, modal, tela inicial ou botão dentro do Produto, o usuário reconhece que o documento acessível no link informado faz parte das condições de uso.
+
+O sistema poderá registrar tecnicamente:
+
+- data/hora de aceite;
+- versão do termo;
+- produto;
+- dispositivo;
+- usuário;
+- plano;
+- IP, quando disponível;
+- identificador técnico;
+- ação realizada após aceite.
+
+Esse registro poderá ser usado para comprovar que o usuário teve oportunidade de conhecer os Termos antes de usar, testar ou ativar o Produto.
+
+============================================================
+27. ALTERAÇÕES DESTES TERMOS
+============================================================
+
+A LunarX poderá atualizar estes Termos para refletir:
+
+- novos Produtos;
+- novas integrações;
+- alterações legais;
+- melhoria de segurança;
+- mudanças comerciais;
+- correções;
+- novos recursos;
+- adequação de privacidade;
+- expansão da marca.
+
+Quando a alteração for relevante, poderá ser solicitado novo aceite.
+
+A versão publicada no link oficial indicado pelo Produto será considerada a versão vigente para aquele momento, salvo se houver contrato específico em contrário.
+
+============================================================
+28. RESCISÃO
+============================================================
+
+O usuário pode parar de usar o Produto a qualquer momento, observadas as condições comerciais do plano contratado.
+
+A LunarX poderá encerrar ou suspender a licença se o usuário:
+
+- violar estes Termos;
+- não pagar plano contratado;
+- usar produto para finalidade ilegal;
+- burlar licença;
+- distribuir cópia não autorizada;
+- comprometer segurança;
+- causar prejuízo a terceiros;
+- violar propriedade intelectual.
+
+O encerramento não elimina obrigações já existentes, como pagamentos vencidos, deveres de confidencialidade, respeito à propriedade intelectual e responsabilidades por uso anterior.
+
+============================================================
+29. LEGISLAÇÃO APLICÁVEL
+============================================================
+
+Estes Termos serão interpretados conforme a legislação brasileira, quando aplicável.
+
+Sem limitar outras normas aplicáveis, poderão ser relevantes:
+
+- legislação civil;
+- legislação de defesa do consumidor;
+- Lei Geral de Proteção de Dados Pessoais;
+- Marco Civil da Internet;
+- normas sobre contratos eletrônicos;
+- normas de propriedade intelectual;
+- regras de lojas de aplicativos;
+- normas específicas do setor do usuário.
+
+============================================================
+30. DISPOSIÇÕES GERAIS
+============================================================
+
+Se alguma cláusula destes Termos for considerada inválida, as demais continuarão válidas.
+
+A tolerância da LunarX quanto a eventual descumprimento não significa renúncia de direito.
+
+Títulos das seções servem apenas para organização.
+
+Estes Termos não criam sociedade, vínculo empregatício, representação comercial, franquia ou mandato entre LunarX e usuário.
+
+O usuário não pode transferir sua licença sem autorização, salvo se o plano permitir.
+
+============================================================
+31. CANAIS DE CONTATO
+============================================================
+
+Antes de publicar, preencher os dados oficiais:
+
+Responsável/Marca:
+LunarX Software / LunarX Studios
+
+Responsável legal:
+[INSERIR NOME COMPLETO OU RAZÃO SOCIAL]
+
+CPF/CNPJ:
+[INSERIR CPF OU CNPJ, SE APLICÁVEL]
+
+E-mail de suporte:
+[INSERIR E-MAIL OFICIAL]
+
+Telefone/WhatsApp:
+[INSERIR CONTATO OFICIAL]
+
+Cidade/UF:
+[INSERIR CIDADE E ESTADO]
+
+Link oficial destes Termos:
+[INSERIR LINK RAW DO GITHUB OU SITE OFICIAL]
+
+============================================================
+32. DECLARAÇÃO FINAL DE ACEITE
+============================================================
+
+Ao utilizar qualquer Produto LunarX, o usuário declara:
+
+"Li, entendi e concordo com os Termos Universais de Uso, Licença de Software e Política de Privacidade da LunarX. Estou ciente de que estes Termos se aplicam aos produtos, sistemas, aplicativos, jogos, ferramentas, módulos e serviços digitais da marca LunarX, incluindo versões gratuitas, pagas, de teste, online, offline, Android, Windows, web, PWA, protótipos e versões futuras. Entendo que o uso do Produto depende do cumprimento destas regras."
+
+Caso não concorde, o usuário deve encerrar o uso e não prosseguir com ativação, teste, login, instalação, contratação ou utilização do Produto.
+
+FIM DO DOCUMENTO
