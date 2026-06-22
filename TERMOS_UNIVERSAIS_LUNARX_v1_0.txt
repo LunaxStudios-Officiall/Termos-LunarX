@@ -809,17 +809,14 @@ LunarX Software / LunarX Studios
 Responsável pelo projeto:
 João Davi Pereira da Silva
 
-Documento:
-Pessoa física, sem CNPJ no momento
+Link oficial destes Termos:
+[COLE AQUI O LINK RAW DO GITHUB OU O LINK OFICIAL DOS TERMOS]
 
 E-mail de suporte:
 suporte.lunarxstudios@gmail.com
 
 Telefone/WhatsApp:
 Não informado publicamente
-
-Cidade/UF:
-Brasil
 
 Link oficial destes Termos:
 https://prismatic-malasada-c1507f.netlify.app/
