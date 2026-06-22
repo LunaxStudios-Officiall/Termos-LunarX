@@ -803,28 +803,27 @@ O usuário não pode transferir sua licença sem autorização, salvo se o plano
 31. CANAIS DE CONTATO
 ============================================================
 
-Antes de publicar, preencher os dados oficiais:
-
 Responsável/Marca:
 LunarX Software / LunarX Studios
 
-Responsável legal:
-[INSERIR NOME COMPLETO OU RAZÃO SOCIAL]
+Responsável pelo projeto:
+João Davi Pereira da Silva
 
-CPF/CNPJ:
-[INSERIR CPF OU CNPJ, SE APLICÁVEL]
+Documento:
+Pessoa física, sem CNPJ no momento
 
 E-mail de suporte:
-[INSERIR E-MAIL OFICIAL]
+suporte.lunarxstudios@gmail.com
 
 Telefone/WhatsApp:
-[INSERIR CONTATO OFICIAL]
+Não informado publicamente
 
 Cidade/UF:
-[INSERIR CIDADE E ESTADO]
+Brasil
 
 Link oficial destes Termos:
-[INSERIR LINK RAW DO GITHUB OU SITE OFICIAL]
+https://prismatic-malasada-c1507f.netlify.app/
+
 
 ============================================================
 32. DECLARAÇÃO FINAL DE ACEITE
