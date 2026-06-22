@@ -810,7 +810,7 @@ Responsável pelo projeto:
 João Davi Pereira da Silva
 
 Link oficial destes Termos:
-[COLE AQUI O LINK RAW DO GITHUB OU O LINK OFICIAL DOS TERMOS]
+https://raw.githubusercontent.com/LunaxStudios-Officiall/LICENSA-LunarX/refs/heads/main/TERMOS_UNIVERSAIS_LUNARX_v1_0.txt
 
 E-mail de suporte:
 suporte.lunarxstudios@gmail.com
