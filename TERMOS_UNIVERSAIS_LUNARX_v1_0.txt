@@ -1,835 +1,2782 @@
-TERMOS UNIVERSAIS DE USO, LICENÇA DE SOFTWARE E POLÍTICA DE PRIVACIDADE
-LUNARX SOFTWARE / LUNARX STUDIOS / ECOSSISTEMA LUNARX
+TERMOS UNIVERSAIS DE USO, LICENÇA DE SOFTWARE, POLÍTICA DE PRIVACIDADE, CONDIÇÕES COMERCIAIS E MANIFESTO JURÍDICO DE PRODUTOS — ECOSSISTEMA LUNARX — VERSÃO 3.0
 
-Versão: 1.0
-Data de publicação: 22/06/2026
-Documento para hospedagem em TXT/RAW GitHub e vinculação em telas de aceite dos produtos LunarX.
+Versão: 3.0
+Data de revisão: 12/07/2026
+Status: Framework operacional universal condicionado; funções comerciais e tratamentos de dados dependem de ativação específica válida
+Idioma oficial: Português do Brasil
+Canal inicial de contato, suporte e privacidade: suporte.lunarxstudios@gmail.com
+Local de referência: Teresópolis/RJ, Brasil
+SHA-256 do documento-base: 1f39ed96b09ab4c94132348248ae2a61ab92055479e7fcea40e6cda0b921bae6
 
-IMPORTANTE:
-Este documento é um modelo-base de termos universais para produtos da marca LunarX. Antes de uso comercial definitivo, recomenda-se revisão por advogado, principalmente para adequar dados do responsável legal, CNPJ/CPF, endereço, e-mail de suporte, canais de atendimento, regras de cancelamento, reembolso, tributos, políticas comerciais e exigências específicas do produto.
+AVISO ESSENCIAL
 
+Este documento não transforma a marca LunarX em pessoa, fornecedor, controlador ou operador; não constitui pessoa jurídica; não inventa representante; não habilita, sozinho, cobranças; e não autoriza tratamento público de dados pessoais sem controlador real. Cada Produto depende de Manifesto Jurídico verdadeiro, implementação correspondente e requisitos legais efetivamente cumpridos.
+
+Este texto é minuta jurídica conservadora para revisão profissional. Não substitui orientação de advogado brasileiro habilitado nem garante conformidade automática.
+
+============================================================
+1. FINALIDADE E FUNCIONAMENTO DA ARQUITETURA UNIVERSAL COM MANIFESTO
+============================================================
+
+1.1. Este documento estabelece a arquitetura jurídica universal do ecossistema LunarX para distribuição de software, sistemas empresariais, aplicativos voltados ao consumidor, sites, jogos, mods, serviços locais ou online, integrações, inteligência artificial, recursos em nuvem, automações e tecnologias futuras.
+
+1.2. A arquitetura é formada por três camadas inseparáveis:
+
+a) NÚCLEO UNIVERSAL: regras fixas aplicáveis a todos os Produtos, inclusive identidade, capacidade civil, licença, propriedade intelectual, uso aceitável, segurança, atualizações, suporte, disponibilidade, responsabilidade, encerramento, comunicações, versionamento e princípios gerais de privacidade;
+
+b) MÓDULOS CONDICIONAIS: regras que já constam deste arquivo, mas somente se tornam aplicáveis ao Produto quando o respectivo Manifesto Jurídico do Produto declarar a função como existente, ativa e juridicamente habilitada;
+
+c) MANIFESTO JURÍDICO DO PRODUTO: declaração curta, humana e legível por máquina que identifica os fatos reais do Produto, ativa módulos, informa limitações, registra pendências e impede que dados ausentes sejam substituídos por ficção.
+
+1.3. O Manifesto Jurídico do Produto integra o pacote jurídico aplicável, mas não substitui estes Termos, a oferta comercial específica, o aviso de privacidade resumido, contratos empresariais, instruções de controlador, licenças de terceiros ou outros documentos exigidos pelo caso concreto.
+
+1.4. A presença de uma cláusula condicional neste arquivo não prova que o recurso exista, esteja ativo, seja tecnicamente seguro, tenha fornecedor contratado ou esteja juridicamente autorizado. A ativação exige fatos reais, implementação compatível, responsáveis identificados e, quando aplicável, representação, base legal, transparência, contrato, segurança e mecanismos de direitos.
+
+1.5. Esta Versão 3.0 foi estruturada para ser incluída, em UTF-8, em APKs, executáveis, pacotes desktop, páginas web, jogos, mods, repositórios, instaladores e distribuições offline. O arquivo universal não deve ser reescrito para cada Produto; as diferenças devem ser declaradas no Manifesto Jurídico correspondente.
+
+1.6. A finalidade é reduzir contradições e omissões sem prometer conformidade automática. A legalidade depende da operação real, do público, dos dados, dos terceiros, da oferta, da capacidade das partes e das medidas adotadas.
+
+1.7. Esta versão preserva as proteções válidas da Versão 2.2 e altera a arquitetura de um documento principalmente pré-comercial para um framework operacional condicionado. Ela não converte, sozinha, qualquer Produto em operação comercial válida nem autoriza tratamento público de dados pessoais sem controlador identificado.
+
+1.8. Para cada distribuição, devem ser disponibilizados, conforme aplicável: este arquivo; o Manifesto Jurídico humano; o manifesto JSON; o aviso resumido de privacidade; licenças de terceiros; e o histórico de alterações jurídicas.
+
+1.9. Em caso de dúvida entre uma declaração genérica e o funcionamento real do Produto, prevalecem a realidade técnica, a legislação obrigatória e a informação mais protetiva e transparente, sem prejuízo de correção imediata do manifesto.
+
+============================================================
+2. IDENTIDADE DA LUNARX E STATUS JURÍDICO ATUAL
+============================================================
+
+2.1. Para os fins deste documento, "LunarX" designa o ecossistema criativo e tecnológico formado por LunarX Studios, LunarX Software, LunarX Games, LunarX Creation e demais setores, Produtos, serviços e identidades que venham a ser legitimamente desenvolvidos sob essa denominação.
+
+2.2. Na data desta revisão, LunarX Studios é apresentada como projeto independente, identidade criativa e nome de uso empresarial vinculado a João Davi Pereira da Silva, e não como pessoa jurídica constituída, sociedade empresária registrada, titular de CNPJ ou titular de marca registrada perante o INPI.
+
+2.3. Titular declarado: João Davi Pereira da Silva.
+
+2.4. Cidade e Estado de referência: Teresópolis, Rio de Janeiro, Brasil.
+
+2.5. E-mail oficial inicial para suporte, privacidade, solicitações de titulares, segurança, direitos autorais, reclamações de conteúdo e comunicações gerais, quando não houver canal específico: suporte.lunarxstudios@gmail.com. Esse endereço é um canal de contato do ecossistema e não identifica, por si só, o controlador, o fornecedor contratante, um representante legal ou um encarregado formal.
+
+2.6. Por minimização e segurança, esta versão pública não divulga CPF, data de nascimento, endereço residencial ou outros dados pessoais desnecessários do titular declarado. A ausência desses dados no texto público não deve ser suprida por divulgação informal.
+
+2.7. Declarações de autoria, arquivos datados, registros por e-mail, códigos-fonte, históricos de versão e outros elementos documentais podem auxiliar na demonstração de cronologia, criação e vínculo. Esses elementos não equivalem automaticamente à constituição de pessoa jurídica, ao registro empresarial, ao registro de marca, à patente ou a outro título oficial que dependa de procedimento próprio.
+
+2.8. Caso futuramente seja constituída pessoa jurídica, obtido CNPJ, registrado nome empresarial, concedido registro de marca, definido endereço comercial ou formalmente indicado representante, esses dados poderão ser incorporados por nova versão transparente destes Termos ou por aviso específico de identificação comercial. Nenhuma formalização futura é declarada como já existente.
+
+2.9. Estes Termos universais não substituem a identificação do fornecedor contratante exigida em uma oferta comercial, proposta, checkout ou contrato específico, nem a identificação do controlador exigida para o tratamento de dados pessoais. Dados integrais somente deverão ser apresentados no instrumento adequado, de forma segura, necessária e compatível com a legislação, sem exposição pública indevida de dados de menor.
+
+2.10. Quando um Produto tratar dados pessoais, o Manifesto Jurídico deverá identificar a pessoa natural ou jurídica que efetivamente decide as finalidades e os elementos essenciais do tratamento. O nome LunarX, isoladamente, não será apresentado como pessoa, controlador, fornecedor ou parte contratante.
+
+============================================================
+3. CAPACIDADE CIVIL, REPRESENTAÇÃO E FORMALIZAÇÃO FUTURA
+============================================================
+
+3.1. Na data desta revisão, o titular declarado é menor de 16 anos. Nos termos da legislação civil brasileira, não pode exercer pessoalmente os atos da vida civil que exijam capacidade contratual, devendo ocorrer a representação legal efetivamente exigida para o ato.
+
+3.2. Uma cláusula genérica nestes Termos não substitui a participação real, a identificação e a manifestação válida do representante legal quando a lei as exigir.
+
+3.3. Este documento não identifica nem inventa pai, mãe, tutor, guardião, representante, CPF, endereço ou qualquer outro dado de terceiro. Enquanto não houver representante efetivamente identificado no instrumento específico, não se presume autorização para o titular declarado concluir sozinho contratos comerciais, receber cobranças contratuais, assumir obrigações empresariais ou praticar outros atos jurídicos que dependam de representação.
+
+3.4. A limitação de capacidade civil não apaga fatos materiais de criação, direção, desenvolvimento, estudo, organização de projetos ou preservação documental. Registros de autoria e cronologia podem documentar a criação de obras e programas, respeitados direitos de terceiros e eventual análise jurídica de titularidade patrimonial em cada caso.
+
+3.5. Vendas, assinaturas, cobranças recorrentes, licenças pagas, serviços personalizados remunerados, contratos empresariais e outras transações juridicamente relevantes não poderão ser concluídos pelo titular declarado agindo sozinho enquanto a representação for legalmente necessária. A oferta ou contrato específico deverá identificar o fornecedor legalmente capaz e, quando exigido, o representante participante.
+
+3.6. Após os 16 anos e antes da plena capacidade civil, os atos para os quais a legislação exigir assistência deverão observar a participação do assistente legal. Eventual emancipação ou outra forma legal de aquisição de capacidade somente poderá ser considerada mediante fato real e documentação válida, sem presunção neste texto.
+
+3.7. A obtenção futura de plena capacidade ou a formalização de representação poderá ser refletida em nova versão ou instrumento específico. Isso não torna retroativamente válidos atos que, no momento de sua prática, dependiam de requisito legal não cumprido.
+
+3.8. Enquanto a pessoa que assumiria a operação ou o papel de controlador depender de representação legal não efetivamente identificada, não deverão ser ativados publicamente recursos de tratamento de dados pessoais que exijam decisões, contratos, comunicações regulatórias ou outras providências incompatíveis com essa ausência de representação.
+
+============================================================
+4. ESCOPO, STATUS DE IMPLANTAÇÃO E HIERARQUIA DOS DOCUMENTOS
+============================================================
+
+4.1. Estes Termos aplicam-se, conforme o caso, a sistemas de gestão empresarial, estacionamento, varejo, painéis administrativos, aplicativos web, mobile e desktop, PWAs, ferramentas HTML, sites, catálogos, demonstrações, jogos, mods, recursos de inteligência artificial, automações, APIs, integrações, Produtos experimentais, gratuitos, pagos, offline, online, conectados à nuvem e tecnologias futuras vinculadas ao ecossistema LunarX.
+
+4.2. A abrangência universal não significa que todos os Produtos possuam as mesmas funções, tratem os mesmos dados, utilizem as mesmas permissões, dependam dos mesmos terceiros ou adotem o mesmo modelo comercial. Somente os módulos ativados por fatos reais no Manifesto Jurídico do Produto se aplicam.
+
+4.3. Poderão complementar estes Termos:
+
+a) o Manifesto Jurídico do Produto, em texto e JSON;
+b) o Aviso de Privacidade Resumido;
+c) a tela de oferta, preço ou plano;
+d) contrato empresarial, proposta comercial ou acordo de tratamento de dados;
+e) manual técnico, política de suporte ou nível de serviço;
+f) regras de loja de aplicativos, sistema operacional, plataforma de distribuição, jogo-base ou carregador de mods;
+g) termos de integração com terceiros;
+h) regras de teste, beta, promoção, evento, servidor ou comunidade;
+i) classificação indicativa, aviso de idade e medidas de proteção de crianças e adolescentes;
+j) instruções documentadas do controlador.
+
+4.4. Em caso de conflito, prevalecerão, nesta ordem: a legislação obrigatória; o instrumento específico válido e aplicável; a oferta efetivamente apresentada; o Manifesto Jurídico e o Aviso de Privacidade do Produto; e estes Termos universais. Uma regra específica somente prevalece no âmbito que descreve e não pode reduzir direito indisponível.
+
+4.5. Nenhuma disposição poderá afastar direitos de consumidores, titulares de dados, crianças, adolescentes, trabalhadores ou terceiros protegidos por norma obrigatória.
+
+4.6. A instalação, a disponibilização para download, a ativação técnica e a venda comercial são eventos distintos. Disponibilizar um arquivo não identifica fornecedor, não cria cobrança, não comprova representação e não autoriza tratamento opcional de dados.
+
+4.7. Antes do primeiro uso, quando tecnicamente possível, o Produto deverá permitir acesso a estes Termos e ao Manifesto. Antes do tratamento de dados pessoais, deverá disponibilizar a informação específica necessária. O mero download não vale como consentimento para tratamento opcional.
+
+4.8. Produtos offline ou de menor risco podem ser distribuídos com registro local de aceite e cópia offline dos documentos, desde que a implementação real não transmita dados, não carregue rastreadores ocultos e não dependa de recursos online não declarados.
+
+4.9. Produtos pagos somente poderão ser comercialmente ativados quando cumprida a Seção 21. Produtos que tratem dados pessoais somente poderão ser publicamente ativados quando cumpridas as Seções 26 a 31 e o Manifesto identificar o controlador real.
+
+4.10. Mudanças materiais de fornecedor, representante, controlador, preço, renovação, finalidade, dados, terceiros, transferência internacional, faixa etária ou risco exigem atualização do Manifesto e, quando necessário, novo aviso ou novo aceite.
+
+4.11. O status de implantação deve constar do Manifesto, entre valores equivalentes a: PRÉ-LANÇAMENTO; OPERACIONAL GRATUITO DE MENOR RISCO; OPERACIONAL GRATUITO; COMERCIALMENTE HABILITADO; BLOQUEADO PENDENTE DE REPRESENTAÇÃO; BLOQUEADO PENDENTE DE FORNECEDOR; BLOQUEADO PENDENTE DE CONTROLADOR; ou BLOQUEADO PENDENTE DE FATOS DE IMPLEMENTAÇÃO.
+
+4.12. Um mesmo Produto pode ter escopos diferentes: por exemplo, demonstração offline permitida e, simultaneamente, conta em nuvem bloqueada. O Manifesto deverá discriminar o que está permitido, condicionado e bloqueado.
+
+4.13. A futura constituição de pessoa jurídica, obtenção de CNPJ, registro de nome empresarial, concessão de marca, identificação de endereço comercial ou formalização de representação somente produzirá efeitos após fato real, documentação válida e atualização transparente. Nenhum fato futuro é presumido.
+
+============================================================
+5. DEFINIÇÕES
+============================================================
+
+5.1. LunarX: denominação do projeto, ecossistema, identidade criativa e tecnológica e conjunto de Produtos descritos nestes Termos. O termo não transforma o nome, a marca de uso ou o ecossistema, por si só, em pessoa natural, pessoa jurídica, controlador, operador, fornecedor ou parte contratante.
+
+5.2. Titular declarado: João Davi Pereira da Silva, identificado na Seção 2.
+
+5.3. Usuário: pessoa natural que acessa, instala, testa, joga, administra, opera ou utiliza um Produto LunarX.
+
+5.4. Consumidor: usuário ou contratante que se enquadre na legislação brasileira de defesa do consumidor.
+
+5.5. Cliente empresarial: pessoa jurídica, empresário, profissional, organização ou responsável por negócio que contrata ou utiliza um Produto LunarX para finalidade profissional, administrativa ou econômica.
+
+5.6. Administrador: pessoa autorizada a configurar contas, unidades, usuários, permissões, planos, dados ou integrações de uma organização.
+
+5.7. Operador autorizado: empregado, colaborador, prestador ou outra pessoa autorizada pelo administrador ou cliente empresarial a utilizar o Produto.
+
+5.8. Jogador: usuário de jogo ou experiência interativa LunarX.
+
+5.9. Produto: qualquer software, aplicativo, sistema, jogo, site, ferramenta, painel, módulo, API, integração, arquivo, serviço ou tecnologia digital LunarX.
+
+5.10. Serviço: funcionalidade oferecida por um Produto, incluindo recursos locais, online, sincronização, suporte, autenticação, atualização, processamento, relatórios, pagamentos, IA e integrações.
+
+5.11. Conta: cadastro ou conjunto de credenciais associado a um usuário, empresa, unidade ou dispositivo.
+
+5.12. Conteúdo: textos, imagens, arquivos, áudios, vídeos, mensagens, cadastros, prompts, configurações e demais materiais inseridos, gerados ou enviados.
+
+5.13. Dados pessoais: informação relacionada a pessoa natural identificada ou identificável, conforme a LGPD.
+
+5.14. Controlador: pessoa natural ou jurídica, de direito público ou privado, a quem competem as decisões referentes ao tratamento de dados pessoais, especialmente quanto às finalidades e aos elementos essenciais do tratamento.
+
+5.15. Operador de dados: pessoa natural ou jurídica, distinta do controlador, que realiza tratamento de dados pessoais em nome do controlador e conforme suas instruções legítimas, dentro dos limites legais e factuais da operação.
+
+5.16. Provedor terceiro: pessoa jurídica, plataforma, API, serviço de nuvem, pagamento, hospedagem, autenticação, IA, loja, sistema operacional ou hardware que não seja controlado integralmente pela pessoa responsável pela operação do Produto.
+
+5.17. Plano pago: licença, assinatura, módulo ou serviço contratado mediante pagamento.
+
+5.18. Teste: acesso temporário, demonstrativo ou limitado, gratuito ou promocional.
+
+5.19. Recurso beta ou experimental: função em desenvolvimento, sujeita a instabilidade, alteração, limitação, reinicialização ou encerramento.
+
+5.20. Recurso de inteligência artificial: funcionalidade que utiliza modelos automatizados, aprendizado de máquina, IA generativa ou serviço similar para produzir, classificar, recomendar, resumir, interpretar ou auxiliar ações.
+
+5.21. Fornecedor contratante: pessoa natural legalmente capaz ou pessoa jurídica devidamente identificada que figure na oferta ou contrato específico como responsável pela operação comercial. Quando a lei exigir, inclui a participação e identificação do representante legal competente.
+
+5.22. Oferta comercial específica: tela, proposta, checkout, contrato ou documento equivalente que identifica o fornecedor contratante e apresenta preço, pagamento, renovação, cancelamento, suporte e demais informações obrigatórias.
+
+5.23. Manifesto Jurídico do Produto: aviso conciso, acessível e vinculado ao Produto que identifica suas funções reais, responsável pela operação, Controlador dos dados pessoais, canal de privacidade, público, dados, finalidades, bases legais, permissões, terceiros, transferências, retenção, IA, analytics, publicidade, faixa etária, exercício de direitos, suporte e condições próprias.
+
+5.24. Controlador identificado: a pessoa natural ou jurídica indicada no Manifesto Jurídico do Produto que efetivamente determina as finalidades e os elementos essenciais do tratamento de dados pessoais.
+
+5.25. Responsável pela operação do Produto: a pessoa natural legalmente capaz, a pessoa representada na forma exigida ou a pessoa jurídica responsável por operar o Produto específico e cumprir os deveres jurídicos, técnicos e organizacionais que lhe sejam aplicáveis.
+
+5.26. Manifesto Jurídico do Produto: declaração específica, versionada, em formato humano e, preferencialmente, JSON, que identifica o Produto, ativa módulos, registra fatos técnicos, informa responsáveis e estabelece bloqueios quando faltarem requisitos.
+
+5.27. Módulo condicional: conjunto de cláusulas deste documento cuja incidência depende de ativação expressa e coerente no Manifesto.
+
+5.28. Núcleo universal: cláusulas que se aplicam a todo Produto independentemente de módulos, ressalvadas incompatibilidades impostas por norma obrigatória.
+
+5.29. Status de implantação: campo que informa o estágio juridicamente permitido da distribuição, sem substituir análise técnica ou jurídica.
+
+5.30. Dado empresarial: informação relacionada à atividade de uma organização. Quando puder identificar pessoa natural, como empregado, cliente, motorista, administrador ou prestador, também será dado pessoal e receberá proteção correspondente.
+
+5.31. Controladoria conjunta: situação excepcional e factual em que duas ou mais pessoas determinam conjuntamente finalidades e elementos essenciais do mesmo tratamento. A mera integração técnica, uso de marca comum ou relação contratual não cria automaticamente controladoria conjunta.
+
+5.32. Agentes independentes: pessoas que tratam dados para finalidades próprias, sem agir em nome uma da outra. A qualificação depende das decisões reais e não do título usado no contrato.
+
+5.33. Dados de placa e histórico veicular: placa, registro de entrada e saída, permanência, unidade, vaga, serviço, cobrança ou evento associado a veículo. Podem constituir dados pessoais quando relacionados ou relacionáveis a pessoa natural.
+
+5.34. PIN: código de autenticação ou verificação. Não deve ser tratado como dado anônimo quando associado a placa, conta, histórico, pessoa ou unidade.
+
+5.35. Canal de privacidade: meio de contato publicado para exercício de direitos e comunicações sobre dados. O canal, isoladamente, não identifica o controlador nem equivale à indicação formal de encarregado.
+
+5.36. Manifesto bloqueado: manifesto que registra fatos conhecidos, mas impede implantação de função porque falta identidade, representação, contrato, base legal, segurança, informação ou outro requisito obrigatório.
+
+============================================================
+6. NÚCLEO UNIVERSAL, MÓDULOS CONDICIONAIS E ACEITE ELETRÔNICO
+============================================================
+
+6.1. O núcleo universal aplica-se a todos os Produtos: identidade verdadeira; capacidade civil; licença limitada; propriedade intelectual; uso aceitável; segurança; atualização; suporte; disponibilidade compatível; responsabilidade nos limites legais; suspensão; comunicações; versionamento; lei brasileira; e princípios de proteção de dados.
+
+6.2. Os módulos condicionais usam os seguintes identificadores estáveis:
+
+MOD-01 — Sistemas empresariais.
+MOD-02 — Aplicativos voltados ao consumidor.
+MOD-03 — Sites e catálogos.
+MOD-04 — Jogos.
+MOD-05 — Mods de Minecraft e plataformas de jogos de terceiros.
+MOD-06 — Contas e autenticação.
+MOD-07 — Nuvem, banco de dados, backup online e sincronização.
+MOD-08 — Tratamento de dados de clientes empresariais.
+MOD-09 — Placas, veículos e históricos de estacionamento.
+MOD-10 — Inteligência artificial.
+MOD-11 — Câmera, microfone, localização, notificações e recursos do dispositivo.
+MOD-12 — Analytics, cookies e medição.
+MOD-13 — Publicidade.
+MOD-14 — Pagamentos.
+MOD-15 — Assinaturas e cobrança recorrente.
+MOD-16 — Testes gratuitos, beta e recursos experimentais.
+MOD-17 — Hardware, impressoras, leitores, QR, RFID, cancelas e automação.
+MOD-18 — Conteúdo gerado pelo usuário.
+MOD-19 — Ranking online, multiplayer e servidores.
+MOD-20 — Crianças e adolescentes.
+MOD-21 — Transferência internacional.
+MOD-22 — Provedores terceiros.
+MOD-23 — Lojas de aplicativos e plataformas de distribuição.
+
+6.3. Um módulo somente é considerado ativo quando: a) o Manifesto o listar; b) os campos relacionados forem coerentes; c) a função existir de fato; d) os requisitos de identidade e governança estiverem satisfeitos; e e) não houver bloqueio específico.
+
+6.4. Valor booleano positivo no JSON ativa o módulo relacionado. Valor falso o mantém inativo. Valor nulo, desconhecido ou contraditório não autoriza ativação e deverá gerar PRE_LANÇAMENTO ou BLOQUEIO PENDENTE.
+
+6.5. A ativação de MOD-14 ou MOD-15 exige fornecedor capaz, oferta específica e representação quando necessária. A ativação de qualquer módulo com dados pessoais exige controlador identificado. MOD-07, MOD-10, MOD-11, MOD-12, MOD-13, MOD-19, MOD-20 e MOD-21 exigem avaliação adicional de risco e transparência.
+
+6.6. O aceite eletrônico deverá ser livre, informado e vinculado à versão acessível. Caixas não poderão vir previamente marcadas. A ausência de aceite contratual não impede tratamentos baseados em outra hipótese legal, mas estes deverão ser transparentes e não poderão ser apresentados falsamente como consentimento.
+
+6.7. Quando o aceite for exigido, o Produto deverá oferecer acesso ao texto antes da ação. Em atualizações materiais, deverá informar a mudança e solicitar nova manifestação quando necessária.
+
+6.8. O aceite pode ser comprovado por registro eletrônico, desde que observadas autenticidade, integridade, finalidade, minimização, segurança e retenção. Assinatura ICP-Brasil não é a única forma possível de prova, sem prejuízo de exigência específica de forma.
+
+6.9. O usuário que não concordar com cláusula contratual essencial não deverá ativar ou continuar usando a funcionalidade contratual correspondente. Funções não essenciais e tratamentos opcionais devem poder ser recusados sem indução enganosa, quando juridicamente possível.
+
+6.10. O aceite destes Termos não constitui autorização para o titular declarado menor praticar sozinho ato que exija representação ou assistência; não identifica fornecedor; não identifica controlador; não cria empresa; e não valida implementação incompatível com a lei.
+
+6.11. A versão aceita, o Manifesto aplicável e a oferta específica devem ser preservados de forma verificável. A especificação mínima consta da Seção 41.
+
+============================================================
+7. LICENÇA DE SOFTWARE E USO PERMITIDO
+============================================================
+
+7.1. Os Produtos LunarX são licenciados, e não vendidos, salvo indicação expressa de cessão em instrumento específico.
+
+7.2. A licença é limitada, não exclusiva, revogável em caso de fundamento legítimo, não transferível e condicionada ao cumprimento destes Termos, do status de uso permitido e, quando houver contratação paga válida, da Oferta Comercial Específica e do plano aplicável.
+
+7.3. A licença poderá ser limitada por usuário, conta, dispositivo, empresa, unidade, módulo, prazo, versão, ambiente, volume ou finalidade, desde que essa limitação seja informada antes da contratação ou ativação.
+
+7.4. O usuário poderá instalar e usar o Produto na quantidade autorizada. Cópia de segurança poderá ser admitida quando tecnicamente possível, destinada apenas à preservação legítima e sem distribuição.
+
+7.5. A licença não transfere código-fonte, direitos autorais, marca, segredo comercial, identidade visual, documentação privada, lógica interna, modelos, banco de dados estrutural, chaves, credenciais ou direito de revenda.
+
+7.6. É proibido remover controles de licença, compartilhar acesso pago fora das permissões, publicar cópia privada, revender, sublicenciar, alugar ou distribuir o Produto sem autorização.
+
+7.7. Restrições de engenharia reversa, descompilação ou interoperabilidade serão aplicadas dentro dos limites permitidos pela legislação. Exceções legais obrigatórias não são afastadas.
+
+7.8. Componentes de código aberto ou de terceiros permanecem sujeitos às respectivas licenças. Em caso de conflito, a licença do componente prevalece sobre aquele componente específico.
+
+7.9. O uso para avaliação de segurança deverá ser responsável, limitado ao ambiente autorizado e comunicado pelo canal oficial, sem exploração abusiva, acesso a dados de terceiros ou interrupção do serviço.
+
+============================================================
+8. PROPRIEDADE INTELECTUAL
+============================================================
+
+8.1. Permanecem vinculados aos respectivos titulares os direitos sobre código, arquitetura, interface, textos, fluxos, imagens, animações, sons, personagens, mecânicas, documentação, instaladores, APKs, executáveis, configurações, modelos, prompts internos e demais elementos protegíveis.
+
+8.2. Elementos originais produzidos para a LunarX permanecem vinculados ao titular declarado ou a quem detenha validamente os direitos, sem prejuízo de componentes pertencentes a terceiros.
+
+8.3. O nome LunarX e os nomes dos produtos são usados como sinais de identificação e identidade criativa. Na data destes Termos, não se declara concessão de registro de marca. A proteção marcária oficial depende do procedimento próprio perante o INPI.
+
+8.4. É proibido, sem autorização ou base legal:
+
+a) copiar ou distribuir produto privado;
+b) vender ou sublicenciar acesso não autorizado;
+c) remover avisos de autoria ou identidade;
+d) contornar licença ou proteção técnica;
+e) usar arquivos LunarX para criar cópia substancialmente derivada destinada a concorrência desleal;
+f) apropriar-se de identidade visual, nome, código ou materiais como se fossem próprios;
+g) extrair ou divulgar segredos, chaves e documentação confidencial.
+
+8.5. Dados e conteúdos legítimos inseridos pelo usuário permanecem de propriedade de seu titular legal. O usuário concede apenas a autorização limitada necessária para processamento, armazenamento, sincronização, suporte, segurança e execução do serviço.
+
+8.6. Materiais de terceiros, inclusive Minecraft, plataformas de jogos, bibliotecas, fontes, ícones, APIs e serviços, permanecem com seus respectivos titulares. A referência a terceiro não implica patrocínio, propriedade ou associação oficial.
+
+8.7. Reclamações de direito autoral, marca, imagem ou conteúdo poderão ser enviadas ao e-mail oficial, com identificação do reclamante, obra ou direito alegado, localização do material e elementos suficientes para análise. Poderá ser solicitada complementação e oferecido canal de contestação ao responsável pelo conteúdo, quando adequado.
+
+============================================================
+9. USO ACEITÁVEL E CONDUTAS PROIBIDAS
+============================================================
+
+9.1. O Produto deve ser usado de forma lícita, segura, honesta e compatível com sua finalidade.
+
+9.2. É proibido utilizar a LunarX para fraude, golpe, lavagem de dinheiro, atividade criminosa, malware, phishing, spam, assédio, discriminação ilícita, invasão, acesso não autorizado, violação de direitos, coleta ilegal de dados, falsificação de documentos, manipulação de pagamentos ou prejuízo deliberado a terceiros.
+
+9.3. Também é proibido:
+
+a) contornar licença, autenticação, limites ou cobrança;
+b) explorar falha para obter vantagem indevida;
+c) sobrecarregar infraestrutura por automação abusiva;
+d) vender conta, item, licença ou acesso sem autorização;
+e) inserir conteúdo ilegal, infrator ou malicioso;
+f) utilizar bots, cheats ou exploits proibidos em jogos;
+g) tentar acessar dados de outro usuário, unidade ou empresa;
+h) interferir em logs, auditoria, segurança ou disponibilidade;
+i) utilizar IA para finalidade ilegal, enganosa, violenta ou violadora de direitos.
+
+9.4. O responsável pela operação do Produto poderá investigar indícios razoáveis, preservar evidências, limitar funcionalidades, solicitar esclarecimentos e adotar medidas proporcionais, dentro de sua competência e da legislação aplicável.
+
+9.5. Sempre que adequado, será oferecida oportunidade de correção ou contestação antes de sanção definitiva. Medida imediata poderá ser adotada diante de fraude, risco de segurança, dano relevante, ordem legal ou ameaça a pessoas e sistemas.
+
+============================================================
+10. CONTAS, AUTENTICAÇÃO, CREDENCIAIS E SESSÕES
+============================================================
+
+10.1. O usuário deve fornecer dados corretos, proteger senhas, PINs, códigos, chaves e dispositivos, e evitar compartilhamento indevido.
+
+10.2. O cliente empresarial deve definir administradores confiáveis, limitar permissões, remover acessos de ex-colaboradores e treinar operadores.
+
+10.3. Ações realizadas por conta autenticada poderão ser atribuídas ao usuário ou à organização, sem excluir investigação de fraude, comprometimento ou falha imputável ao responsável pela operação do Produto ou ao fornecedor identificado.
+
+10.4. O usuário deverá comunicar atividade suspeita, perda de dispositivo, vazamento de credencial ou acesso indevido pelo canal oficial.
+
+10.5. A recuperação de conta poderá exigir confirmação de identidade, propriedade da conta, vínculo com empresa, código de recuperação ou outras evidências proporcionais.
+
+10.6. Poderão existir controles de sessão, dispositivo único, autenticação adicional, bloqueio temporário, alertas e revogação de acesso.
+
+10.7. O responsável pela operação do Produto e os demais agentes identificados não excluem responsabilidade por falhas de segurança que lhes sejam legalmente imputáveis. Da mesma forma, o usuário responde por sua contribuição culposa ou dolosa, conforme a lei.
+
+============================================================
+11. SISTEMAS EMPRESARIAIS
+============================================================
+
+11.1. Esta seção aplica-se a sistemas de estacionamento, mercado, varejo, caixa, serviços, mensalistas, estoque, administração, relatórios, painéis e outros produtos empresariais.
+
+11.2. O cliente empresarial é responsável por:
+
+a) conferir cadastros, preços, cobranças e relatórios;
+b) cumprir obrigações fiscais, trabalhistas, contábeis, consumeristas e setoriais;
+c) treinar operadores e definir permissões;
+d) manter equipamentos, internet e ambiente compatíveis;
+e) obter bases legais e fornecer avisos para dados de clientes e empregados;
+f) manter cópias e exportações adequadas quando necessário;
+g) revisar decisões operacionais antes de executá-las.
+
+11.3. Relatórios, cálculos e indicadores dependem dos dados inseridos, da configuração e da disponibilidade das integrações. Devem ser conferidos por pessoa responsável.
+
+11.4. O software é ferramenta de apoio e não substitui advogado, contador, profissional fiscal, especialista em segurança, engenheiro, médico do trabalho ou outro profissional habilitado.
+
+11.5. Quando o cliente empresarial decidir as finalidades e os elementos essenciais do tratamento de dados de seus clientes, empregados ou parceiros, ele poderá atuar como controlador. A pessoa natural ou jurídica identificada como provedora da tecnologia somente poderá atuar como operadora quando for juridicamente e factualmente capaz de assumir esse papel, estiver distinta do controlador, tratar os dados em nome dele, seguir instruções legítimas e possuir instrumento compatível com o serviço.
+
+11.6. Operadores devem usar apenas dados e funções necessários ao trabalho. O administrador responde pela criação e gestão de permissões dentro de sua esfera de controle.
+
+11.7. Recursos de automação, IA, abertura de equipamento, emissão, cobrança ou comando remoto exigem supervisão humana e validação do ambiente físico antes da execução.
+
+11.11. MOD-01 e, quando houver dados de terceiros inseridos por organização, MOD-08 somente poderão ser ativados com definição clara de administrador, perfis, segregação, instruções, responsabilidades e suporte.
+
+11.12. O cliente empresarial deverá ter base jurídica e autorização para inserir dados; limitar acessos; revisar permissões; treinar operadores; manter credenciais seguras; corrigir cadastros; e responder a solicitações de pessoas sob sua esfera de decisão.
+
+11.13. A pessoa responsável pela tecnologia não se torna controladora dos dados empresariais apenas por fornecer software. Poderá atuar como operadora somente quando tratar em nome de controlador identificado, sob instruções documentadas, com capacidade e contrato compatíveis.
+
+11.14. Sistemas com múltiplas unidades devem implementar isolamento lógico, autorização por função, prevenção de acesso cruzado, revogação, trilhas de auditoria proporcionais, proteção de sessão e procedimento de incidente.
+
+============================================================
+12. APLICATIVOS VOLTADOS AO CONSUMIDOR
+============================================================
+
+12.1. MOD-02 aplica-se a aplicativos destinados a clientes, usuários finais ou público consumidor, inclusive aplicativos de consulta, fidelidade, solicitação, benefícios, histórico ou interação com estabelecimento.
+
+12.2. O aplicativo deverá informar quem opera o Produto, qual estabelecimento ou pessoa controla cada conjunto de dados e como o usuário exerce correção, acesso, oposição, eliminação ou outros direitos aplicáveis.
+
+12.3. Integração com sistema empresarial não autoriza compartilhar todos os dados disponíveis. Devem ser transmitidos apenas os campos necessários à finalidade exibida, com autenticação, autorização, registro e proteção compatíveis.
+
+12.4. Acesso por código de estabelecimento, placa, PIN ou combinação semelhante deverá possuir proteção contra tentativa automatizada, enumeração, adivinhação, reutilização indevida, exposição em tela, armazenamento inseguro e acesso a histórico de terceiro.
+
+12.5. O Produto deverá oferecer procedimento seguro para recuperação, correção de placa, contestação de histórico, revogação de acesso e comunicação de uso não autorizado. Não se deve revelar se determinada placa existe antes de verificação suficiente.
+
+12.6. Pontos, benefícios, resgates, clube e solicitações devem apresentar regras claras, prazo ou critério de validade quando existente, condições de uso, limitações e responsável pela oferta. Benefício promocional não pode ser anunciado de forma enganosa.
+
+12.7. Solicitações de vaga ou serviço não garantem disponibilidade, salvo confirmação expressa. O aplicativo deverá distinguir pedido, reserva, confirmação, atendimento e cancelamento.
+
+12.8. O aplicativo gratuito continua sujeito à LGPD, segurança, transparência, regras de plataforma e proteção do consumidor quando houver relação de consumo ou oferta.
+
+12.9. MOD-02 não ativa automaticamente pagamentos, publicidade, analytics, localização, notificações, nuvem ou conta. Cada recurso depende do módulo correspondente e do Manifesto.
+
+12.10. Quando diferentes estacionamentos estiverem disponíveis no mesmo aplicativo, o Manifesto deverá explicar se cada unidade atua como controladora independente, se há controladoria conjunta ou se existe outro arranjo factual, sem presumir uma estrutura única.
+
+============================================================
+13. SITES E CATÁLOGOS
+============================================================
+
+13.1. Sites, catálogos e páginas demonstrativas podem apresentar Produtos, recursos, imagens, vídeos, descrições e previsões de desenvolvimento.
+
+13.2. Conteúdo informativo não constitui oferta vinculante quando claramente indicado como conceito, demonstração, plano futuro, protótipo ou recurso ainda indisponível.
+
+13.3. Quando houver oferta comercial juridicamente habilitada, deverão ser apresentados de forma clara e destacada os elementos essenciais do Produto ou serviço, preço total, despesas adicionais, condições, limitações, prazo, renovação, atendimento, cancelamento e arrependimento quando aplicável.
+
+13.4. A oferta eletrônica deverá identificar o fornecedor contratante conforme a legislação aplicável, inclusive com nome ou nome empresarial, CPF ou CNPJ conforme o caso, endereço físico e eletrônico e demais dados exigidos. Estes Termos universais, o nome LunarX, a cidade de referência e o e-mail de suporte não substituem essa identificação.
+
+13.5. Não deverá ser solicitado pagamento em página, aplicativo, mensagem ou checkout que omita a identificação legalmente exigida ou que apresente informação fiscal, empresarial ou de representação enganosa.
+
+13.6. Links externos são fornecidos por conveniência. O responsável pela operação do site ou Produto não controla integralmente conteúdo, segurança ou políticas de terceiros, mas deverá agir com diligência na seleção e remoção de links sabidamente ilícitos ou perigosos sob seu controle.
+
+13.7. Formulários, cookies, armazenamento local e analytics somente serão usados conforme a função efetivamente implementada, as informações de privacidade aplicáveis e, quando envolverem dados pessoais, após a identificação do controlador e o atendimento das condições das cláusulas 4.9 e 6.5.
+
+13.8. Informações podem ser atualizadas, corrigidas ou removidas, preservadas ofertas já aceitas e direitos obrigatórios.
+
+13.9. Cada site ou Produto deverá disponibilizar Manifesto Jurídico compatível com suas funções reais, inclusive quando não houver coleta de dados, pagamento ou recurso de terceiros. Quando houver tratamento de dados pessoais, o aviso deverá identificar o Controlador dos dados pessoais antes do início do tratamento público.
+
+13.10. Página de portfólio ou site informacional sem formulário, conta, analytics facultativo, publicidade comportamental ou transmissão de identificadores poderá permanecer publicado no regime de menor risco previsto na cláusula 4.8, sem que isso constitua garantia absoluta de conformidade.
+
+============================================================
+14. JOGOS E EXPERIÊNCIAS INTERATIVAS
+============================================================
+
+14.1. Progresso, partidas, pontuações, itens, conquistas e configurações poderão ser armazenados localmente, em conta ou servidor, conforme o jogo e seu Manifesto Jurídico.
+
+14.2. Dados locais podem ser perdidos por exclusão, troca de dispositivo, falha, reinstalação ou ausência de backup. Jogos online dependem de conexão e serviço externo.
+
+14.3. Atualizações poderão corrigir bugs, alterar balanceamento, mecânicas, mapas, dificuldade, recompensas e compatibilidade. Em testes ou betas poderá ocorrer reinicialização de progresso, desde que informada de forma adequada.
+
+14.4. Cheats, bots, exploits, manipulação de placar, abuso de falhas e modificação não autorizada de serviço online poderão gerar limitação ou bloqueio proporcional.
+
+14.5. Itens virtuais não representam propriedade física, moeda legal ou valor resgatável fora do jogo, salvo oferta expressa e juridicamente válida em sentido diferente.
+
+14.6. Classificação indicativa, conteúdo, interação, comunicação, compras e publicidade deverão seguir as regras aplicáveis ao Produto e à faixa etária. Nem todo jogo LunarX é direcionado a crianças, e a ausência de direcionamento infantil não transforma o jogo em conteúdo adulto.
+
+14.7. Quando um jogo for direcionado a crianças e adolescentes ou de acesso provável por esse público, deverão ser adotadas medidas de proteção compatíveis com o ECA, a LGPD, o ECA Digital, sua regulamentação e o Marco Legal dos Jogos Eletrônicos, conforme as características reais do Produto.
+
+14.8. São vedadas caixas de recompensa pagas e aleatórias nos jogos eletrônicos direcionados a crianças e adolescentes ou de acesso provável por eles, nos termos da legislação vigente. Referências genéricas a itens ou recompensas não autorizam esse mecanismo.
+
+14.9. Publicidade comercial não poderá ser direcionada a crianças ou adolescentes por técnicas de perfilamento vedadas. Controles parentais, configurações protetivas por padrão, gerenciamento de riscos, denúncia, moderação e aferição de idade serão adotados quando legalmente exigidos e de modo proporcional, eficaz e compatível com a privacidade.
+
+14.10. Pais e responsáveis devem acompanhar o uso conforme idade, classificação, recursos sociais, compras e permissões, sem que esse dever afaste as obrigações próprias do fornecedor.
+
+============================================================
+15. MODS DE MINECRAFT E PLATAFORMAS DE TERCEIROS
+============================================================
+
+15.1. MOD-05 aplica-se a mods, complementos, mapas, pacotes ou experiências dependentes de Minecraft, carregadores de mods, servidores e outras plataformas externas.
+
+15.2. Minecraft, Mojang, Microsoft, carregadores, launchers, lojas, hospedagens e servidores externos são terceiros, salvo informação oficial diversa. O uso de nomes necessários para compatibilidade não implica patrocínio, endosso, parceria ou afiliação.
+
+15.3. O mod deverá respeitar licenças, diretrizes de uso, marcas, direitos autorais, regras de monetização, termos da plataforma e direitos de componentes incorporados. Licenças de bibliotecas, assets e dependências devem acompanhar a distribuição quando exigidas.
+
+15.4. A licença destes Termos alcança somente os elementos sobre os quais o licenciante tenha direitos. Minecraft, APIs, bibliotecas, mods de terceiros, conteúdos de usuários e servidores permanecem sujeitos aos respectivos titulares.
+
+15.5. Compatibilidade com versão de jogo, carregador, Java, modpack, servidor ou outro mod não é garantida além do que estiver documentado. Atualizações externas podem causar incompatibilidade, perda de mundo, falha ou necessidade de migração.
+
+15.6. Antes de instalar, recomenda-se backup adequado dos mundos e configurações. A responsabilidade por backup não afasta responsabilidade legal por defeito imputável, mas reduz riscos previsíveis de teste e modificação.
+
+15.7. Em multiplayer ou servidor, o administrador do servidor poderá definir regras próprias e, conforme os fatos, tratar identificadores, logs, endereços de rede, nomes de jogador, chat ou dados de mod. Esse tratamento não será atribuído automaticamente à LunarX.
+
+15.8. MOD-19 somente será ativado quando houver multiplayer, ranking, servidor, telemetria social ou interação online real. Jogo multiplayer local ou funcionalidade do jogo-base não prova que exista serviço online operado pela LunarX.
+
+15.9. Se o mod não utilizar conta LunarX, nuvem LunarX, analytics, publicidade, pagamento ou IA, tais módulos permanecerão inativos. Serviços da plataforma-base ou servidor de terceiro deverão ser descritos separadamente.
+
+15.10. Mods beta podem sofrer alterações, reinicializações, perda de compatibilidade ou remoção de recursos, com informação prévia compatível e sem exclusão de direitos obrigatórios.
+
+============================================================
+16. INTELIGÊNCIA ARTIFICIAL
+============================================================
+
+16.1. Saídas de IA podem conter erro, omissão, desatualização, viés, interpretação inadequada ou conteúdo impróprio ao contexto.
+
+16.2. O usuário deve revisar resultados antes de usar em decisões importantes. A IA não deve ser o único fundamento de decisão jurídica, médica, financeira, trabalhista, educacional, de crédito, segurança ou outra que produza efeito relevante sobre pessoas.
+
+16.3. Recursos de IA são assistivos e não constituem garantia de resultado, substituição de profissional habilitado ou certificação de exatidão.
+
+16.4. O usuário é responsável pelos prompts, arquivos e dados enviados e deve possuir direito e base legal para utilizá-los.
+
+16.5. Informações confidenciais, segredos, senhas, dados sensíveis ou dados excessivos não devem ser inseridos sem necessidade, autorização e salvaguardas adequadas.
+
+16.6. Dependendo do recurso, prompts e saídas poderão ser processados por provedor terceiro de IA. Antes da ativação pública dessa função, o Manifesto Jurídico deverá identificar o Controlador dos dados pessoais, as categorias de dados e compartilhamento, a finalidade, o provedor, a transferência internacional e os critérios de retenção aplicáveis.
+
+16.7. É proibido utilizar IA para fraude, falsificação prejudicial, malware, exploração sexual, violação de direitos, discriminação ilícita, assédio ou instruções perigosas.
+
+16.8. Quando houver decisão automatizada que afete interesses do titular, o Controlador identificado deverá assegurar os direitos de informação, contestação e revisão previstos na legislação aplicável.
+
+16.9. O processamento de conteúdo de usuários por IA permanece sujeito à restrição temporária da cláusula 6.5 até a identificação do controlador, a análise dos provedores e a implementação das salvaguardas adequadas.
+
+============================================================
+17. PERMISSÕES E RECURSOS DO DISPOSITIVO
+============================================================
+
+17.1. Dependendo do produto e da função habilitada, poderão ser solicitados acesso à câmera, microfone, localização, arquivos, armazenamento, notificações, Bluetooth, rede local, impressão, leitores ou outros recursos.
+
+17.2. Cada permissão deverá ser solicitada para finalidade específica e proporcional, no momento adequado, com informação compatível com o sistema operacional e o aviso do produto.
+
+17.3. A recusa ou revogação poderá impedir apenas a função que depende da permissão, salvo quando ela for essencial ao funcionamento principal e isso tiver sido informado.
+
+17.4. Nem todo Produto LunarX solicita todas as permissões. A simples listagem nestes Termos não significa coleta ou acesso automático.
+
+17.5. O usuário poderá gerenciar permissões nas configurações do dispositivo, sujeito às limitações técnicas do sistema operacional.
+
+17.6. Capturas de câmera, áudio ou localização não serão utilizadas para finalidade incompatível sem base legal e informação adequada.
+
+17.7. Recursos que envolvam localização, câmera, microfone ou mídia identificável não deverão ser ativados publicamente enquanto não houver Controlador identificado, Manifesto Jurídico preenchido, permissão adequada, minimização, segurança, retenção definida e demais medidas previstas nas cláusulas 4.9 e 6.5.
+
+17.8. Notificações devem ser classificadas como essenciais ou opcionais. Mensagens promocionais dependem de base apropriada, transparência e mecanismo de desativação quando aplicável.
+
+17.9. MOD-11 somente será ativado para permissões efetivamente solicitadas. A existência de código, biblioteca ou permissão no manifesto técnico da plataforma deve ser revisada, pois permissões não usadas ou excessivas devem ser removidas.
+
+============================================================
+18. NUVEM, BANCOS DE DADOS, BACKUP E SINCRONIZAÇÃO
+============================================================
+
+18.1. MOD-07 aplica-se quando o Produto envia, recebe, armazena, restaura ou sincroniza dados em banco remoto, hospedagem, API, serviço de backup ou infraestrutura em nuvem.
+
+18.2. O Manifesto deverá identificar, quando conhecido e aplicável: finalidade da nuvem; categorias de dados; controlador; operador ou provedor; região ou país; transferência internacional; criptografia; autenticação; política de backup; retenção; restauração; exclusão; exportação; indisponibilidade; e canais de suporte.
+
+18.3. A sincronização deve prevenir mistura entre clientes, unidades, usuários ou ambientes; conflitos silenciosos; duplicidade; sobrescrita não autorizada; reativação de dados eliminados; e restauração em conta errada.
+
+18.4. Sistemas multiunidade deverão adotar isolamento por tenant ou unidade, autorização de menor privilégio, controle de sessão, revogação e testes de acesso cruzado.
+
+18.5. Backup não equivale a disponibilidade permanente nem garante restauração integral. O Produto deverá informar escopo, frequência ou critério real, limitações, responsabilidades e procedimento de teste de restauração, sem inventar prazo universal.
+
+18.6. A exclusão em ambiente principal poderá refletir em backups segundo ciclo documentado e seguro. Durante esse ciclo, dados não deverão retornar à operação ordinária, salvo restauração necessária e reaplicação das exclusões.
+
+18.7. Recursos offline devem informar o que permanece somente no dispositivo. Desinstalação, limpeza, troca, falha, corrupção ou perda do dispositivo pode eliminar dados locais.
+
+18.8. Dados em nuvem somente poderão ser publicamente tratados com controlador identificado, finalidade, base legal, transparência, contratos, segurança, direitos, retenção e avaliação de transferência internacional.
+
+18.9. O uso de infraestrutura estrangeira não é proibido por si só, mas exige mecanismo válido de transferência quando aplicável e informação compatível, nos termos da LGPD e da regulamentação da ANPD.
+
+18.10. O Manifesto deverá distinguir backup local, backup em nuvem, sincronização operacional e publicação de histórico, pois possuem riscos e finalidades diferentes.
+
+============================================================
+19. HARDWARE E AUTOMAÇÃO
+============================================================
+
+19.1. MOD-17 aplica-se a impressoras, leitores de QR, código de barras, RFID, NFC, câmeras, sensores, cancelas, catracas, máquinas de pagamento, dispositivos seriais, Bluetooth, rede local, automação e hardware semelhante.
+
+19.2. O Manifesto deverá indicar integrações efetivamente existentes, permissões, modelos compatíveis quando confirmados, finalidade, dados transmitidos, responsáveis por instalação e manutenção, dependências e medidas de segurança física e lógica.
+
+19.3. Integração planejada não deverá ser apresentada como disponível. Recursos de hardware em desenvolvimento permanecerão inativos ou em pré-lançamento.
+
+19.4. Automação que possa abrir cancela, registrar pagamento, acionar equipamento ou afetar segurança física deve possuir autorização, validação de estado, prevenção de comandos repetidos, registro, modo seguro e procedimento manual de contingência.
+
+19.5. O Produto não deverá garantir compatibilidade universal com hardware. A oferta específica deverá informar requisitos, homologações existentes, responsabilidade por instalação, suporte, consumíveis, conectividade e custos adicionais.
+
+19.6. Dados capturados por hardware, como placa, imagem, identificador de cartão ou evento de acesso, somente serão tratados conforme finalidade, base legal, minimização, retenção e segurança declaradas.
+
+19.7. Equipamento ou serviço de terceiro permanece sujeito ao fabricante e a seus termos. Falha de terceiro não exclui responsabilidade que a lei atribua ao fornecedor da solução integrada.
+
+============================================================
+20. ACESSO GRATUITO, TESTE, BETA E EXPERIMENTAL
+============================================================
+
+20.1. Produtos poderão oferecer acesso gratuito, demonstração, teste temporário, beta ou função experimental.
+
+20.2. A oferta deverá informar, quando aplicável, duração, limitações, necessidade de conta, funções incluídas, possibilidade de perda de dados e condições para conversão.
+
+20.3. Não haverá conversão oculta para plano pago. Cobrança ou renovação dependerá de informação prévia clara e ação ou autorização válida do usuário.
+
+20.4. Recursos beta podem apresentar falhas, instabilidade, incompatibilidade, alterações frequentes ou encerramento. Informações críticas não devem depender exclusivamente de beta.
+
+20.5. Dados de teste poderão ser reiniciados quando isso fizer parte da natureza do ambiente e for informado.
+
+20.6. Feedback fornecido poderá ser utilizado para melhoria do Produto, sem apropriação de conteúdo confidencial ou propriedade intelectual do usuário além do necessário.
+
+20.7. A gratuidade inicial não cria obrigação de gratuidade permanente. Mudança para modelo pago deverá respeitar informação prévia, aceite, a condição de ativação comercial da Seção 21 e os direitos aplicáveis.
+
+20.8. Enquanto não houver fornecedor contratante legalmente capaz e Oferta Comercial Específica completa, o acesso poderá permanecer gratuito, demonstrativo, beta, de portfólio, informacional, interno ou não comercial, sem cobrança disfarçada ou obrigação futura oculta. Essa gratuidade não afasta a LGPD quando houver tratamento de dados pessoais fora da hipótese estritamente particular e não econômica, nem elimina deveres de segurança, transparência, representação ou proteção do público.
+
+20.9. Um Produto gratuito que crie contas, registre endereços IP, armazene nomes, receba mensagens de suporte, utilize analytics, envie conteúdo a provedores de IA ou mantenha dados em nuvem deverá observar as mesmas condições de identificação do controlador e de governança aplicáveis às operações de dados correspondentes.
+
+============================================================
+21. ATIVAÇÃO COMERCIAL
 ============================================================
-1. IDENTIFICAÇÃO
+
+21.1. As cláusulas comerciais podem constar destes Termos, mas MOD-14 e MOD-15 somente se tornam operacionais quando o Manifesto identificar fornecedor contratante legalmente capaz e a oferta específica apresentar as informações obrigatórias.
+
+21.2. Enquanto a representação for juridicamente necessária, o titular declarado não poderá, sozinho, concluir vendas, assinaturas, cobranças recorrentes, licenças pagas, serviços personalizados remunerados ou contratos empresariais. O representante real deverá participar do instrumento adequado; este documento não o inventa.
+
+21.3. Antes de checkout, cobrança ou assinatura, deverão existir, conforme o caso:
+
+a) nome civil ou razão social do fornecedor;
+b) CPF ou CNPJ no instrumento adequado, sem exposição indevida no arquivo público;
+c) endereço físico e eletrônico exigidos;
+d) identificação e participação do representante quando necessária;
+e) características essenciais, compatibilidade e limitações;
+f) preço total, tributos e despesas adicionais aplicáveis;
+g) periodicidade, duração, renovação e reajuste;
+h) meios de pagamento e momento da cobrança;
+i) teste gratuito e sua conversão, se houver;
+j) cancelamento, arrependimento, reembolso e suporte;
+k) disponibilidade do contrato e confirmação da contratação;
+l) controlador e aviso de privacidade quando houver dados pessoais.
+
+21.4. A ausência de fornecedor, representante ou controlador obrigatório gera bloqueio, não autorização tácita. Nenhum checkout ou cobrança recorrente deverá ser ativado nessas condições.
+
+21.5. O Manifesto poderá registrar preços anunciados como informação histórica ou operacional do Produto, mas somente a oferta apresentada ao consumidor no momento da contratação vincula o preço específico, respeitada a legislação.
+
+21.6. A ativação comercial não pode ser oculta, retroativa, presumida pelo uso continuado ou derivada apenas do aceite destes Termos.
+
+21.7. Contratação empresarial deverá definir escopo, usuários, unidades, suporte, implantação, dados, disponibilidade, segurança, instruções de tratamento, suboperadores, encerramento e responsabilidades, quando relevantes.
+
+21.8. Venda por loja de aplicativos ou plataforma externa também depende da identificação exigida pela plataforma e pela lei. A plataforma pode processar pagamento em nome próprio ou como intermediária; o papel real deve ser descrito.
+
+21.9. A Versão 3.0 não declara que qualquer operação paga atual já cumpre estes requisitos. O status de cada Produto consta de seu Manifesto e pode ser bloqueado.
+
+============================================================
+22. PAGAMENTOS E ASSINATURAS
 ============================================================
+
+22.1. Esta seção preserva regras para eventual operação comercial futura, mas não declara que vendas, assinaturas ou cobranças LunarX já estejam juridicamente ativadas.
+
+22.2. Nenhuma assinatura, venda, cobrança recorrente, licença paga, serviço personalizado remunerado ou contrato empresarial se torna válido apenas porque estes Termos existem ou foram aceitos.
 
-Estes Termos Universais de Uso, Licença de Software e Política de Privacidade regulam o acesso, instalação, ativação, teste, contratação, uso, atualização, sincronização, suporte e demais interações relacionadas aos produtos, sistemas, aplicativos, jogos, sites, ferramentas, módulos, painéis, integrações e serviços digitais vinculados à marca LunarX.
+22.3. A operação paga somente poderá ser iniciada mediante Oferta Comercial Específica que identifique o fornecedor contratante legalmente capaz e, quando necessário, o representante que participa do ato, além de cumprir as exigências de informação, consumo, comércio eletrônico, privacidade, tributação e atividade econômica aplicáveis.
 
-Para fins deste documento, poderão ser utilizadas as expressões:
+22.4. Produtos poderão futuramente ser oferecidos por mês, ano, dispositivo, usuário, empresa, unidade, módulo, instalação, manutenção, serviço ou licença de prazo definido. Expressões como "vitalícia" somente poderão ser usadas com definição clara de seu alcance, limitações e relação com a continuidade do Produto.
 
-"LunarX", "LunarX Software", "LunarX Studios", "nós", "nosso" ou "fornecedor": referem-se à marca, equipe, desenvolvedor, titular ou responsável pelo produto digital oferecido.
+22.5. O preço total, ciclo, tributos incluídos ou não, recursos, limites, renovação, forma de pagamento, prazo, cancelamento, suporte e eventuais despesas adicionais deverão ser exibidos antes da contratação. Estes Termos não fixam preços universais.
 
-"Usuário", "cliente", "contratante", "licenciado", "administrador", "operador", "jogador" ou "você": referem-se à pessoa física ou jurídica que acessa, instala, testa, ativa, compra, assina, utiliza ou interage com qualquer produto LunarX.
+22.6. Pagamentos poderão ser processados por provedor terceiro identificado no Manifesto Jurídico e na oferta. Dados completos de cartão normalmente deverão permanecer sob tratamento do processador, enquanto o fornecedor poderá receber somente metadados necessários à transação, conciliação, suporte, prevenção à fraude e cumprimento legal.
 
-"Produto LunarX" ou "Produto": qualquer sistema, aplicativo, jogo, ferramenta, site, painel, módulo, integração, automação, serviço online, serviço local, APK, executável Windows, PWA, arquivo HTML, versão web, versão mobile, versão desktop, protótipo, versão de teste, versão paga ou futura tecnologia vinculada à marca LunarX.
+22.7. Renovação automática somente ocorrerá quando informada de modo claro e autorizada validamente na oferta. O usuário deverá receber meio acessível de cancelamento conforme a legislação e a plataforma.
 
-"Serviço": qualquer funcionalidade oferecida por um Produto LunarX, incluindo recursos offline, recursos online, sincronização, backup, suporte, autenticação, atualização remota, pagamentos, relatórios, jogos, cadastros, integrações com terceiros e automações.
+22.8. Alterações de preço serão comunicadas antes de produzirem efeito sobre período futuro. O usuário poderá cancelar antes da renovação, quando aplicável.
 
-"Dados": informações inseridas, geradas, armazenadas, sincronizadas ou processadas durante o uso dos Produtos LunarX.
+22.9. Falha ou atraso de pagamento poderá gerar aviso, tentativa de regularização e limitação proporcional das funções pagas, observados a oferta, os direitos do consumidor e o acesso razoável a dados e exportações quando cabível.
 
+22.10. Recibos, comprovantes de pagamento e documentos fiscais deverão corresponder à identidade e à situação jurídica e tributária reais do fornecedor contratante, conforme a legislação aplicável. Não se promete emissão de nota fiscal ou documento equivalente que o fornecedor identificado não esteja legalmente apto a emitir.
+
+22.11. É proibido realizar cobrança por meio de identificação comercial, fiscal, empresarial ou de representação fictícia, incompleta ou enganosa.
+
+22.12. Contratos empresariais personalizados poderão conter condições próprias, desde que celebrados por partes capazes e identificadas, sem afastar direitos obrigatórios.
+
+22.13. Um Manifesto Jurídico poderá ativar as condições comerciais para determinado Produto sem reescrever todos estes Termos, desde que contenha a identificação e as informações obrigatórias, esteja disponível antes da contratação e não introduza alteração material oculta ou retroativa.
+
+22.14. MOD-14 abrange pagamentos efetivamente disponíveis. MOD-15 abrange assinatura ou cobrança periódica. Plano mensal sem renovação automática deverá ser descrito como tal; plano com renovação automática exige informação destacada e cancelamento facilitado.
+
+22.15. O processador de pagamento, quando houver, deverá ser identificado no Manifesto ou na oferta. Dados de cartão não deverão ser declarados como coletados diretamente se forem tratados somente pelo processador; o contrário também não poderá ser omitido.
+
+22.16. Teste gratuito que se converta em cobrança exige informação prévia clara sobre duração, preço posterior, data de cobrança, renovação e cancelamento. Não se deve solicitar pagamento ou converter automaticamente quando fornecedor ou representação estiverem pendentes.
+
+22.17. Renovação automática deverá observar autorização, transparência, lembretes ou exigências da plataforma quando aplicáveis, acesso fácil à gestão e cancelamento sem obstáculo desproporcional.
+
+22.18. Alteração de preço não produzirá efeito retroativo e deverá ser comunicada com antecedência compatível, preservando direitos de cancelamento e regras da oferta, da plataforma e da legislação.
+
+22.19. A interrupção de pagamento pode limitar recursos pagos após aviso e oportunidade razoável, sem eliminar acesso a comprovantes, exportação exigida, direitos sobre dados ou obrigações legais.
+
 ============================================================
-2. ACEITE OBRIGATÓRIO
+23. CANCELAMENTO, ARREPENDIMENTO E REEMBOLSO
 ============================================================
 
-Ao clicar em "Eu li e concordo", "Aceito os Termos", "Ativar", "Entrar", "Usar teste grátis", "Continuar", "Criar conta", "Usar o sistema", "Iniciar", "Jogar", "Instalar", "Atualizar" ou qualquer botão equivalente dentro de um Produto LunarX, o usuário declara que:
+23.1. Esta seção somente se aplica quando houver contratação paga válida, realizada por fornecedor contratante legalmente capaz e identificado em Oferta Comercial Específica.
 
-1. leu estes Termos;
-2. entendeu as condições gerais de uso;
-3. concorda com as regras de licença, privacidade, responsabilidade e uso aceitável;
-4. aceita que o uso do Produto depende do cumprimento destes Termos;
-5. reconhece que estes Termos podem ser atualizados conforme necessário;
-6. aceita que o uso contínuo após atualização dos Termos poderá representar nova concordância, quando exibido aviso no Produto;
-7. possui capacidade legal para contratar ou autorização de responsável legal/empresa, quando aplicável;
-8. entende que o Produto pode possuir recursos gratuitos, pagos, de teste, online, offline ou limitados, conforme o caso.
+23.2. O usuário poderá solicitar cancelamento pelo canal indicado na oferta ou no Produto. O e-mail suporte.lunarxstudios@gmail.com poderá funcionar como canal complementar quando expressamente mantido para essa finalidade.
 
-Caso o usuário não concorde com estes Termos, não deverá ativar, instalar, acessar, testar, contratar ou utilizar qualquer Produto LunarX.
+23.3. Cancelamento interrompe renovação ou uso futuro conforme a oferta; reembolso envolve devolução de valor e depende da lei, do tipo de contratação, do estágio de execução e das condições apresentadas.
 
-O aceite poderá ser exigido antes de:
+23.4. Nas contratações de consumo realizadas fora do estabelecimento comercial, inclusive por meio eletrônico, é preservado o direito de arrependimento no prazo legal de 7 dias, contado na forma da legislação, quando aplicável.
 
-- ativar o sistema;
-- iniciar período grátis;
-- entrar em conta existente;
-- criar nova conta;
-- acessar painel administrativo;
-- abrir app;
-- iniciar jogo;
-- usar recurso online;
-- enviar suporte;
-- fazer backup;
-- sincronizar dados;
-- continuar após atualização de versão.
+23.5. Produtos digitais de entrega imediata, serviços personalizados, instalação, configuração ou serviço já executado exigem análise concreta. Nenhuma cláusula deste documento nega de forma geral direito obrigatório, cria política universal de não reembolso ou promete reembolso em toda situação.
 
+23.6. Serão considerados: data da contratação, acesso ou uso, execução do serviço, defeito alegado, oferta, forma de pagamento, boa-fé e legislação aplicável.
+
+23.7. A solicitação deverá permitir identificação da compra e descrição do pedido. Poderão ser solicitados comprovante, e-mail da conta e dados mínimos antifraude, respeitada a minimização.
+
+23.8. O resultado deverá ser comunicado de forma clara, com registro da análise. Estornos também dependem dos prazos e procedimentos do processador de pagamento, sem redução de direitos obrigatórios.
+
 ============================================================
-3. ABRANGÊNCIA UNIVERSAL
+24. SUPORTE
 ============================================================
+
+24.1. O canal universal inicial é suporte.lunarxstudios@gmail.com, sem prejuízo de canal específico do Produto. O endereço não substitui a identificação do responsável pela operação, do controlador, do fornecedor ou de eventual encarregado formal.
 
-Estes Termos são universais e se aplicam a todos os Produtos LunarX, incluindo, mas não se limitando a:
+24.2. O suporte poderá abranger dúvidas de uso, ativação, conta, bugs, atualização, configuração, privacidade, segurança, cobrança e cancelamento.
 
-- LunarX Parking;
-- EstacioneiX;
-- LunarX Central Parking;
-- LunarX Suporte Admin;
-- LunarX Hardware Lab;
-- LunarX IA;
-- LunarX Creation;
-- jogos da LunarX Games;
-- aplicativos Android;
-- aplicativos Windows;
-- sistemas web;
-- sistemas locais;
-- painéis administrativos;
-- módulos de automação;
-- integrações com Supabase, Mercado Pago, IA, hardware, impressoras, leitores, APIs ou serviços externos;
-- versões gratuitas;
-- versões pagas;
-- versões de teste;
-- protótipos;
-- versões futuras;
-- produtos ainda não nomeados que usem a marca LunarX.
+24.3. Para diagnóstico, poderão ser solicitados versão, dispositivo, sistema operacional, descrição, passos para reprodução, logs, capturas de tela e dados mínimos da conta. Quando o suporte receber dados pessoais, o Controlador identificado, o aviso aplicável e a governança exigida deverão existir antes da ativação pública do canal. O usuário deve ocultar dados excessivos e de terceiros sempre que possível.
 
-Quando um Produto LunarX possuir termos próprios, manual específico, contrato comercial ou política complementar, esses documentos poderão complementar estes Termos. Em caso de conflito, prevalecerá a regra mais específica para aquele Produto, desde que não contrarie a legislação aplicável.
+24.4. Não é estabelecido prazo universal de atendimento ou SLA por estes Termos. O atendimento ocorrerá em prazo razoável conforme complexidade, urgência, volume e recursos disponíveis, sem prejuízo de prazo legal específico.
 
+24.5. Salvo contratação própria, suporte não inclui consultoria jurídica, contábil, fiscal, treinamento presencial, manutenção de computador, garantia de internet, reparo de hardware terceiro ou desenvolvimento personalizado.
+
+24.6. Abuso, ameaça, spam, fraude ou envio malicioso poderá gerar limitação do canal, preservado meio adequado para exercício de direitos.
+
 ============================================================
-4. NATUREZA DA LICENÇA
+25. PROVEDORES TERCEIROS, LOJAS E PLATAFORMAS
 ============================================================
-
-Os Produtos LunarX são licenciados, e não vendidos.
-
-Ao usar um Produto LunarX, o usuário recebe uma licença limitada, revogável, não exclusiva, intransferível e condicionada ao cumprimento destes Termos.
-
-Essa licença permite ao usuário utilizar o Produto de acordo com:
-
-- o plano contratado;
-- o período de teste concedido;
-- as permissões internas do sistema;
-- as limitações técnicas;
-- as regras comerciais aplicáveis;
-- a finalidade normal do Produto.
-
-A licença não transfere ao usuário:
-
-- código-fonte;
-- propriedade intelectual;
-- marca;
-- direitos autorais;
-- segredos comerciais;
-- banco de dados estrutural;
-- design;
-- lógica interna;
-- identidade visual;
-- documentação privada;
-- modelos internos;
-- integrações proprietárias;
-- qualquer direito de revender, copiar ou distribuir o Produto.
-
-============================================================
-5. PROPRIEDADE INTELECTUAL
-============================================================
-
-Todos os direitos sobre os Produtos LunarX pertencem à LunarX ou aos seus respectivos titulares licenciantes.
-
-São protegidos por direitos autorais, propriedade intelectual, segredo comercial ou proteção equivalente:
-
-- nome LunarX;
-- nomes dos Produtos;
-- logotipos;
-- interface;
-- telas;
-- layout;
-- código;
-- lógica do sistema;
-- textos;
-- fluxos;
-- banco de dados estrutural;
-- modelos de negócio;
-- identidade visual;
-- imagens;
-- animações;
-- sons;
-- personagens;
-- mecânicas de jogo;
-- documentação;
-- prompts internos;
-- arquivos de configuração;
-- módulos;
-- integrações;
-- scripts;
-- executáveis;
-- APKs;
-- instaladores;
-- builds;
-- painéis administrativos.
-
-O usuário não pode, sem autorização expressa:
-
-- copiar;
-- vender;
-- sublicenciar;
-- revender;
-- alugar;
-- distribuir;
-- publicar;
-- clonar;
-- modificar para revenda;
-- remover marca;
-- usar engenharia reversa;
-- extrair código;
-- criar produto concorrente usando a base LunarX;
-- burlar licença;
-- remover travas;
-- compartilhar versão paga indevidamente;
-- transformar produto privado em público;
-- hospedar cópia não autorizada;
-- usar a marca LunarX como se fosse sua.
-
-============================================================
-6. PRODUTOS GRATUITOS, TESTES E PLANOS PAGOS
-============================================================
-
-Alguns Produtos LunarX podem oferecer:
-
-- versão gratuita;
-- demonstração;
-- modo teste;
-- período grátis;
-- plano mensal;
-- plano anual;
-- plano vitalício, se oferecido;
-- recursos bloqueados por plano;
-- ativações por dispositivo;
-- licenças por unidade, usuário, empresa ou produto;
-- recursos futuros ainda não liberados.
-
-Quando houver teste grátis, ele poderá ter:
-
-- prazo limitado;
-- funções limitadas;
-- dados de demonstração;
-- limitações técnicas;
-- bloqueios após vencimento;
-- necessidade de ativação paga para continuidade.
-
-A existência de teste grátis não obriga a LunarX a manter gratuidade permanente.
-
-Planos, preços, recursos e condições comerciais podem variar conforme Produto, versão, negociação, promoção ou atualização.
-
-Quando um valor for exibido dentro do Produto ou site oficial, ele deverá ser interpretado conforme as condições apresentadas naquele momento.
-
-============================================================
-7. ATIVAÇÃO, LOGIN E CONTAS
-============================================================
-
-Alguns Produtos LunarX podem exigir:
-
-- ativação;
-- login;
-- conta;
-- código de acesso;
-- PIN;
-- e-mail;
-- senha;
-- licença;
-- identificação de dispositivo;
-- conexão com internet;
-- vínculo com unidade;
-- vínculo com empresa;
-- confirmação de permissões.
-
-O usuário é responsável por manter suas credenciais seguras.
-
-A LunarX não se responsabiliza por prejuízos causados por:
-
-- senha compartilhada indevidamente;
-- credencial fraca;
-- acesso por pessoa não autorizada;
-- perda de conta por descuido do usuário;
-- uso do sistema por operador sem treinamento;
-- configuração incorreta feita pelo próprio usuário;
-- uso fora da finalidade prevista.
-
-A LunarX poderá bloquear, suspender ou limitar acesso em caso de:
-
-- fraude;
-- tentativa de burlar licença;
-- uso abusivo;
-- violação destes Termos;
-- risco de segurança;
-- inadimplência, quando aplicável;
-- uso que prejudique outros usuários;
-- ordem legal;
-- manutenção crítica.
-
-============================================================
-8. ATUALIZAÇÕES
-============================================================
-
-Os Produtos LunarX podem receber atualizações para:
-
-- corrigir bugs;
-- melhorar segurança;
-- adicionar recursos;
-- remover falhas;
-- ajustar compatibilidade;
-- atualizar integrações;
-- atender exigências técnicas ou legais;
-- bloquear versões obsoletas;
-- melhorar desempenho.
-
-Algumas atualizações poderão ser obrigatórias.
-
-Quando uma atualização obrigatória for exigida, o Produto poderá bloquear uso total ou parcial até a atualização.
-
-A LunarX poderá alterar funcionamento, visual, regras internas e recursos, desde que respeite direitos adquiridos e condições comerciais aplicáveis.
-
-O usuário entende que versões antigas podem deixar de receber suporte.
-
-============================================================
-9. USO ACEITÁVEL
-============================================================
-
-O usuário concorda em utilizar os Produtos LunarX de forma lícita, responsável e compatível com sua finalidade.
-
-É proibido usar Produtos LunarX para:
-
-- fraudes;
-- golpes;
-- atividades ilegais;
-- violação de direitos de terceiros;
-- invasão de sistemas;
-- envio de spam;
-- manipulação indevida de dados;
-- armazenamento de conteúdo ilícito;
-- falsificação de informações;
-- engenharia reversa indevida;
-- quebra de licença;
-- adulteração de pagamentos;
-- burlar bloqueios;
-- obter acesso não autorizado;
-- prejudicar a infraestrutura LunarX;
-- vender acesso não autorizado;
-- usar produtos para fins criminosos.
-
-A LunarX poderá suspender acesso em caso de uso abusivo ou ilegal.
-
-============================================================
-10. RESPONSABILIDADES DO USUÁRIO
-============================================================
-
-O usuário é responsável por:
-
-- inserir dados corretos;
-- conferir informações antes de salvar;
-- treinar seus operadores;
-- manter dispositivos seguros;
-- manter backups quando aplicável;
-- usar internet estável quando recursos online forem necessários;
-- manter sistema atualizado;
-- proteger senhas;
-- verificar relatórios;
-- conferir cobranças;
-- cumprir leis aplicáveis ao seu negócio;
-- informar clientes sobre tratamento de dados quando atuar como controlador;
-- respeitar direitos de consumidores, funcionários, clientes e terceiros.
-
-Em sistemas de gestão, como estacionamentos, caixas, serviços, mensalistas ou relatórios, o usuário/empresa continua responsável pela operação real do negócio.
-
-O Produto LunarX é uma ferramenta de apoio tecnológico, não substitui gestão, auditoria, contabilidade, assessoria jurídica, treinamento operacional ou responsabilidade empresarial.
-
-============================================================
-11. DADOS INSERIDOS PELO USUÁRIO
-============================================================
-
-Os dados inseridos pelo usuário continuam pertencendo ao usuário ou à empresa responsável pela operação, salvo conteúdos e elementos próprios da LunarX.
-
-Exemplos de dados do usuário:
-
-- cadastros;
-- placas;
-- nomes;
-- contatos;
-- históricos;
-- pagamentos registrados;
-- configurações;
-- mensagens;
-- preferências;
-- backups;
-- relatórios;
-- dados de clientes finais;
-- progresso de jogos, quando aplicável;
-- informações operacionais.
+
+25.1. Conforme o Produto, poderão ser utilizados Supabase, Firebase, Mercado Pago, provedores de IA, hospedagem, GitHub, Netlify, lojas de aplicativos, sistemas operacionais, hardware, impressoras, leitores, internet e APIs externas.
+
+25.2. O uso poderá estar sujeito aos termos e políticas do terceiro.
+
+25.3. Alteração, indisponibilidade, bloqueio, limite, preço, encerramento ou falha de terceiro poderá afetar o Produto.
+
+25.4. O responsável pela operação do Produto não controla integralmente o terceiro, mas permanece responsável por suas próprias obrigações, pela seleção diligente quando aplicável, pela configuração sob seu controle e pelo tratamento de dados que lhe seja imputável.
+
+25.5. Integrações opcionais somente serão ativadas conforme configuração, permissão ou contratação.
 
-A LunarX poderá tratar esses dados apenas na medida necessária para:
+25.6. Quando um terceiro atuar como operador ou suboperador de dados, o Controlador identificado e o provedor de tecnologia responsável deverão adotar medidas contratuais, documentais e de segurança proporcionais, conforme seus papéis, a viabilidade e a legislação.
 
-- funcionamento do Produto;
-- suporte;
-- backup;
-- sincronização;
-- segurança;
-- prevenção de fraude;
-- cumprimento legal;
-- melhoria do serviço;
-- manutenção técnica;
-- integração contratada.
+25.7. MOD-22 e MOD-23 exigem lista ou categoria real dos provedores relevantes, finalidade, dados compartilhados, papel, localização quando necessária, termos aplicáveis, contingência e meio de atualização.
 
+25.8. Google Play, Apple App Store, Microsoft Store, GitHub, plataformas de mods, sistemas operacionais, serviços de hospedagem e outros canais somente serão considerados utilizados quando o Manifesto ou a distribuição real assim indicar.
+
+25.9. As informações de privacidade, segurança de dados, permissões, assinatura e conteúdo fornecidas à loja devem corresponder à implementação e ao Manifesto. Divergências deverão ser corrigidas antes da publicação.
+
 ============================================================
-12. PRIVACIDADE E LGPD
+26. PRIVACIDADE E PAPÉIS NA LGPD
 ============================================================
+
+26.1. Esta e as Seções 27 a 31 formam a Política de Privacidade integrada.
+
+26.2. O nome LunarX, o ecossistema, a marca de uso e o Produto não constituem, isoladamente, agente de tratamento. O tratamento de dados pessoais deverá ser atribuído à pessoa natural ou jurídica que efetivamente exerça o papel correspondente, com finalidade legítima, base legal aplicável, transparência, segurança, necessidade e responsabilização.
+
+26.3. Em Produtos oferecidos diretamente a usuários, a pessoa natural ou jurídica identificada no Manifesto Jurídico será a controladora dos dados de conta, suporte, segurança, pagamento e prestação direta do serviço quando ela efetivamente tomar as decisões essenciais sobre esses tratamentos.
+
+26.4. Em sistemas empresariais, o cliente empresarial poderá atuar como controlador dos dados de seus empregados, clientes, veículos, cadastros e operações quando decidir as finalidades e os elementos essenciais do tratamento.
+
+26.5. A pessoa natural ou jurídica que forneça a tecnologia LunarX poderá atuar como operadora somente quando estiver identificada, for juridicamente e factualmente capaz de assumir esse papel, tratar os dados em nome do controlador e seguir suas instruções lícitas. A classificação não será automática nem baseada apenas no nome do Produto ou em cláusula contratual.
 
-A LunarX se compromete a tratar dados pessoais de acordo com a legislação aplicável, incluindo a Lei Geral de Proteção de Dados Pessoais (LGPD), quando aplicável.
+26.6. A definição dos papéis depende das decisões e atividades efetivamente realizadas. Um instrumento específico deverá, quando aplicável, detalhar finalidade, instruções, limites, suboperadores, segurança, incidentes, atendimento a titulares e retorno, eliminação ou exportação de dados.
 
-Dados pessoais podem incluir informações relacionadas a pessoa natural identificada ou identificável.
+26.7. O Manifesto Jurídico deverá identificar o Controlador dos dados pessoais pelo nome civil real ou razão social e apresentar canal oficial de privacidade. Quando houver operador relevante, sua identidade ou categoria também deverá ser informada de modo compatível com a LGPD e com o contexto.
 
-Dependendo do Produto e do contexto de uso, podem ser tratados dados como:
+26.8. O e-mail suporte.lunarxstudios@gmail.com permanece como canal inicial de privacidade e segurança. Não se declara, sem suporte factual e ato adequado, que João Davi Pereira da Silva, LunarX Studios ou esse e-mail sejam representante legal, controlador de todos os Produtos ou encarregado formal de proteção de dados.
 
-- nome;
-- e-mail;
-- telefone;
-- identificador de usuário;
-- placa de veículo;
-- histórico de uso;
-- registros de acesso;
-- endereço IP;
-- dados de dispositivo;
-- dados operacionais;
-- mensagens de suporte;
-- identificadores técnicos;
-- informações de pagamento processadas por terceiros;
-- dados necessários para segurança e autenticação.
+26.9. Quando aplicável, titulares poderão solicitar ao Controlador identificado confirmação, acesso, correção, informação sobre compartilhamento, portabilidade, anonimização, bloqueio, eliminação, revogação de consentimento, oposição e revisão de decisão automatizada, observadas hipóteses legais, segurança e identidade.
 
-A base legal do tratamento poderá variar conforme a situação, incluindo:
+26.10. A identidade poderá ser verificada de forma proporcional para impedir acesso indevido. Quando o provedor da tecnologia atuar como operador, a solicitação deverá ser encaminhada ao controlador competente e receber a cooperação necessária conforme as informações disponíveis.
 
-- execução de contrato;
-- consentimento;
-- cumprimento de obrigação legal;
-- legítimo interesse;
-- exercício regular de direitos;
-- proteção ao crédito, quando aplicável;
-- prevenção à fraude;
-- necessidade para prestação do serviço.
+26.11. Enquanto não houver Controlador identificado e, quando necessária, representação legal válida, ficam suspensas para implantação pública as funções de maior risco descritas na cláusula 6.5.
 
-O usuário reconhece que, em alguns Produtos, especialmente sistemas usados por empresas, o contratante pode ser o controlador dos dados pessoais de seus próprios clientes, funcionários e usuários finais. Nesses casos, a LunarX poderá atuar como operadora ou fornecedora de tecnologia, tratando dados conforme instruções do contratante e necessidade técnica do serviço.
+26.12. A qualificação de controlador, operador, controladores conjuntos ou agentes independentes é factual. Contrato e Manifesto devem refletir quem decide finalidade e elementos essenciais, quem trata em nome de quem e quais decisões cada parte conserva.
 
+26.13. Um cliente empresarial poderá ser controlador dos dados de seus clientes, empregados, usuários e veículos. A pessoa ou entidade provedora da tecnologia poderá ser operadora apenas se existir de fato e de direito, tiver capacidade, tratar em nome do controlador e seguir instruções lícitas documentadas.
+
+26.14. Em aplicativo conectado a múltiplos estabelecimentos, cada estabelecimento poderá ser controlador independente, poderá haver controladoria conjunta ou outro arranjo. A conclusão depende das decisões reais sobre cadastro, histórico, benefícios, solicitações, compartilhamento e direitos.
+
+26.15. O e-mail suporte.lunarxstudios@gmail.com é canal inicial. Não identifica por si só controlador, fornecedor, operador, representante ou encarregado.
+
 ============================================================
-13. DIREITOS DO TITULAR DE DADOS
+27. INVENTÁRIO CONDICIONAL, FONTES, FINALIDADES, BASES E COMPARTILHAMENTO
 ============================================================
+
+27.1. As categorias efetivamente tratadas dependem do Produto, recurso habilitado, permissão, plano e contexto. Nenhum Produto coleta automaticamente todas as categorias descritas. O tratamento público de dados pessoais depende de Controlador identificado e do Manifesto Jurídico preenchido.
+
+27.2. Dados poderão ser fornecidos pelo usuário; gerados durante uso; recebidos do cliente empresarial; obtidos do dispositivo com permissão; ou recebidos de provedor de pagamento, autenticação, loja, integração ou segurança.
+
+27.3. Finalidades possíveis incluem:
+
+a) criar e autenticar conta;
+b) executar licença e serviço;
+c) registrar operações e progresso;
+d) processar pagamento;
+e) fornecer suporte;
+f) prevenir fraude e abuso;
+g) manter segurança e logs;
+h) sincronizar, exportar e restaurar dados;
+i) cumprir obrigação legal;
+j) exercer direitos em processo;
+k) melhorar produto e desempenho;
+l) enviar comunicação essencial;
+m) realizar analytics ou marketing quando legalmente permitido;
+n) operar IA e integrações solicitadas.
+
+27.4. Bases legais possíveis, conforme o caso, incluem execução de contrato ou procedimento preliminar, consentimento, cumprimento de obrigação legal ou regulatória, exercício regular de direitos, legítimo interesse com avaliação e salvaguardas, proteção do crédito e prevenção à fraude. Bases especiais serão aplicadas a dados sensíveis e de crianças quando necessário.
+
+27.5. Dados poderão ser compartilhados, somente na medida necessária e sob responsabilidade dos agentes identificados, com provedores de nuvem, autenticação, pagamento, IA, suporte, hospedagem, analytics, segurança, lojas, consultores sob dever de confidencialidade, autoridades e cliente controlador.
+
+27.6. Transferência internacional somente ocorrerá quando a operação real do Produto envolver tratamento de dados em outro país ou organismo internacional e houver Controlador identificado. Nesse caso, deverão ser observados a LGPD, a Resolução CD/ANPD nº 19/2024 com suas alterações e os mecanismos juridicamente adequados, como decisão de adequação, cláusulas-padrão contratuais da ANPD, cláusulas equivalentes reconhecidas, cláusulas específicas ou normas corporativas globais previamente aprovadas, além de outros mecanismos legais aplicáveis. O Manifesto Jurídico deverá informar a transferência, os agentes envolvidos e as salvaguardas pertinentes de modo compatível com o caso.
+
+27.7. O responsável identificado pela operação do Produto não deverá vender dados pessoais como atividade autônoma. Publicidade ou marketing de terceiros, se algum Produto vier a utilizar, dependerá de informação específica, Controlador identificado e regras aplicáveis.
+
+27.8. A listagem de finalidades, bases ou destinatários nesta seção é condicional e não autoriza ativação automática. Contas, nuvem, IA, analytics identificável, publicidade comportamental, suporte com dados pessoais, pagamentos e recursos envolvendo menores permanecem sujeitos às cláusulas 4.9 e 6.5.
+
+Todas as categorias abaixo são condicionais. Para cada Produto, somente serão tratados os dados necessários à função efetivamente utilizada, sob responsabilidade do Controlador identificado e após o preenchimento do Manifesto Jurídico quando houver dados pessoais.
+
+27.9. Dados de conta e cadastro
+Exemplos: nome, e-mail, telefone, nome de usuário, vínculo com empresa ou unidade.
+Finalidade: criar conta, identificar usuário, administrar acesso e executar contrato.
+Base possível: contrato, procedimento preliminar, obrigação legal ou legítimo interesse compatível.
+Retenção: durante a conta e pelo período necessário a obrigações, segurança e defesa de direitos.
+Possíveis destinatários: autenticação, nuvem, suporte e cliente empresarial responsável.
+
+27.10. Dados de contato e comunicações
+Exemplos: e-mail, telefone, mensagens, preferências de comunicação.
+Finalidade: suporte, avisos de conta, segurança, cobrança e comunicação opcional.
+Base possível: contrato, obrigação legal, consentimento ou legítimo interesse, conforme a mensagem.
+Retenção: pelo tempo da relação e histórico necessário ao atendimento e defesa de direitos.
+Possíveis destinatários: provedores de e-mail, notificação e suporte.
 
-Quando aplicável pela LGPD, titulares de dados pessoais podem solicitar:
+27.11. Dados de autenticação e segurança
+Exemplos: hash de senha, PIN, token, tentativas de acesso, recuperação, autenticação adicional.
+Finalidade: validar identidade, prevenir fraude e proteger conta.
+Base possível: contrato, legítimo interesse, obrigação legal e exercício de direitos.
+Retenção: enquanto necessário à conta, segurança e investigação.
+Possíveis destinatários: autenticação, segurança, nuvem e autoridades quando legalmente exigido.
 
-- confirmação de tratamento;
-- acesso aos dados;
-- correção;
-- anonimização;
-- bloqueio;
-- eliminação;
-- portabilidade, quando aplicável;
-- informação sobre compartilhamento;
-- revisão de decisões automatizadas, quando aplicável;
-- revogação de consentimento, quando o tratamento depender dele.
+27.12. Dados de dispositivo e sessão
+Exemplos: modelo, sistema operacional, versão, idioma, identificador de instalação, sessão e navegador.
+Finalidade: compatibilidade, licença, diagnóstico, segurança e prevenção a abuso.
+Base possível: contrato e legítimo interesse com minimização.
+Retenção: conforme ciclo técnico, segurança e necessidade de suporte.
+Possíveis destinatários: analytics técnico, nuvem, autenticação e suporte.
 
-Solicitações deverão ser feitas pelo canal oficial de contato informado pela LunarX ou pelo contratante controlador dos dados, conforme o caso.
+27.13. Logs e endereço IP
+Exemplos: data, hora, IP, evento, erro, ação administrativa e trilha de auditoria.
+Finalidade: segurança, investigação, funcionamento, prova de aceite e cumprimento legal.
+Base possível: obrigação legal, contrato, legítimo interesse e exercício de direitos.
+Retenção: conforme obrigação legal aplicável e necessidade proporcional de segurança e defesa.
+Possíveis destinatários: hospedagem, segurança, cliente controlador e autoridades competentes.
 
-Quando a LunarX atuar apenas como operadora, poderá encaminhar a solicitação ao controlador responsável.
+27.14. Dados operacionais de negócio
+Exemplos: placas, entradas e saídas, serviços, caixa, estoque, preços, mensalistas, relatórios e usuários internos.
+Finalidade: executar o sistema de gestão contratado.
+Base possível: instruções do cliente controlador, contrato, obrigação legal do cliente e bases por ele definidas.
+Retenção: conforme instrução do controlador, duração contratual e obrigações legais.
+Possíveis destinatários: cliente empresarial, operadores autorizados, nuvem, backup e integrações escolhidas.
 
+27.15. Metadados de pagamento
+Exemplos: valor, status, identificador, plano, data, método mascarado e comprovante.
+Finalidade: processar compra, ativar plano, conciliar e tratar reembolso.
+Base possível: contrato, obrigação legal e exercício de direitos.
+Retenção: conforme obrigações fiscais, financeiras, antifraude e defesa de direitos.
+Possíveis destinatários: processador de pagamento, instituição financeira e suporte.
+
+27.16. Comunicações de suporte
+Exemplos: mensagem, anexos, logs, captura de tela, diagnóstico e histórico.
+Finalidade: resolver solicitação, documentar atendimento e melhorar segurança.
+Base possível: contrato, legítimo interesse, obrigação legal e exercício de direitos.
+Retenção: pelo tempo necessário ao caso, segurança e defesa.
+Possíveis destinatários: equipe autorizada, provedor de e-mail, nuvem e fornecedor técnico necessário.
+
+27.17. Localização
+Exemplos: localização aproximada ou precisa, quando o recurso exigir e houver permissão.
+Finalidade: serviço baseado em local, unidade próxima, segurança ou função solicitada.
+Base possível: consentimento, contrato ou outra base adequada ao contexto.
+Retenção: preferencialmente pelo menor período necessário; prazo específico deve constar do aviso do Produto.
+Possíveis destinatários: provedor de mapas, nuvem e cliente controlador, quando aplicável.
+
+27.18. Câmera, microfone e mídia
+Exemplos: foto, leitura de código, documento, áudio, vídeo ou arquivo selecionado.
+Finalidade: função solicitada, cadastro, suporte, leitura, comunicação ou IA multimodal.
+Base possível: consentimento, contrato ou instrução do controlador, conforme a função.
+Retenção: somente pelo período necessário à finalidade ou conforme aviso específico.
+Possíveis destinatários: armazenamento, IA, suporte e cliente controlador, se a função exigir.
+
+27.19. Analytics e desempenho
+Exemplos: telas acessadas, evento, erro, duração, desempenho e origem de instalação.
+Finalidade: entender uso, corrigir falhas e melhorar produto.
+Base possível: consentimento ou legítimo interesse, conforme natureza, risco e tecnologia.
+Retenção: período proporcional definido por ferramenta e aviso específico.
+Possíveis destinatários: provedor de analytics, hospedagem e equipe técnica.
+
+27.20. Cookies e armazenamento local
+Exemplos: sessão, preferência, aceite, tema, cache, licença e estado offline.
+Finalidade: funcionamento, segurança, preferência, persistência e medição quando habilitada.
+Base possível: execução do serviço para itens essenciais; consentimento ou outra base adequada para itens facultativos.
+Retenção: duração da sessão, prazo técnico ou até limpeza pelo usuário, conforme categoria.
+Possíveis destinatários: navegador, aplicativo, hospedagem e fornecedor de analytics quando utilizado.
+
+27.21. Progresso de jogos
+Exemplos: fase, pontuação, inventário, conquista, configuração e histórico de partida.
+Finalidade: salvar e sincronizar experiência, ranking, anti-cheat e suporte.
+Base possível: contrato, legítimo interesse e consentimento quando necessário.
+Retenção: enquanto a conta ou jogo estiver ativo e conforme política de encerramento.
+Possíveis destinatários: servidor, plataforma de distribuição, ranking e suporte.
+
+27.22. Prompts e saídas de IA
+Exemplos: texto, arquivo, imagem, contexto, resposta e avaliação.
+Finalidade: gerar saída solicitada, segurança, diagnóstico e melhoria quando informada.
+Base possível: contrato, consentimento ou legítimo interesse compatível, conforme o recurso.
+Retenção: conforme configuração do Produto e provedor; dados sensíveis e excessivos devem ser evitados.
+Possíveis destinatários: provedor de IA, nuvem, suporte e cliente controlador.
+
+27.23. Dados de clientes empresariais e seus titulares
+Exemplos: dados de empregados, clientes finais, fornecedores e operações inseridos no sistema.
+Finalidade: prestar serviço tecnológico ao cliente empresarial.
+Base possível: definida pelo cliente controlador; a pessoa natural ou jurídica identificada como provedora da tecnologia poderá atuar conforme instruções legítimas quando preencher os requisitos factuais e jurídicos de operadora.
+Retenção: contrato, instruções do controlador, obrigação legal e defesa de direitos.
+Possíveis destinatários: cliente, operadores autorizados, suboperadores e integrações contratadas.
+
+27.24. Dados de hardware e integrações
+Exemplos: impressora, leitor, identificador de equipamento, status, comando e log técnico.
+Finalidade: conexão, automação, diagnóstico e segurança.
+Base possível: contrato e legítimo interesse técnico.
+Retenção: conforme necessidade operacional, auditoria e segurança.
+Possíveis destinatários: cliente empresarial, driver, fornecedor do equipamento e suporte.
+
+27.25. Antes da ativação pública, o mapeamento deverá registrar, para cada fluxo: fonte; campo; titular; finalidade; necessidade; hipótese legal; controlador; operador ou terceiro; sistema de destino; acesso; compartilhamento; transferência; segurança; retenção; eliminação; exportação; e resposta a direitos.
+
+27.26. As bases legais não devem ser escolhidas por conveniência. Consentimento somente será usado quando livre, informado, específico, demonstrável e revogável; execução de contrato, obrigação legal, legítimo interesse, proteção do crédito, exercício de direitos e demais hipóteses dependem de seus requisitos.
+
+27.27. Legítimo interesse exige finalidade legítima, necessidade, balanceamento, salvaguardas, transparência e respeito a direitos, com cautela reforçada para crianças, adolescentes, monitoramento, perfilamento e dados inesperados.
+
+27.28. Dados de placa, PIN, histórico, caixa, logs, credenciais, dispositivo, IA, suporte e nuvem não são automaticamente anônimos. A possibilidade razoável de associação a pessoa natural deve ser considerada.
+
+27.29. Categorias declaradas como “não tratadas” devem ser verificadas no código, SDKs, logs, servidores, analytics, lojas e provedores. Um SDK pode tratar dados ainda que a interface não os exiba.
+
 ============================================================
-14. SEGURANÇA
+28. RETENÇÃO, ELIMINAÇÃO, EXPORTAÇÃO, BACKUP E ENCERRAMENTO
 ============================================================
+
+28.1. Não existe prazo universal único. O Manifesto deverá informar critério real por categoria, considerando finalidade, duração da relação, obrigação legal ou regulatória, defesa de direitos, prevenção a fraude, segurança, instrução do controlador e minimização.
+
+28.2. Dados devem ser eliminados ou anonimizados quando a finalidade terminar e não houver fundamento de conservação, ressalvadas hipóteses legais. Bloqueio, restrição de acesso ou arquivamento podem ser usados durante retenção justificada.
+
+28.3. O usuário ou controlador deverá receber método de solicitação de acesso, correção, informação, portabilidade quando regulamentada e aplicável, revogação, oposição, revisão, eliminação e demais direitos.
+
+28.4. Encerramento de conta não significa apagamento instantâneo de todo registro. O Produto deverá explicar dados operacionais, comprovantes, logs de segurança, backups e obrigações que permaneçam, sem usar retenção indefinida genérica.
+
+28.5. Exportação deverá usar formato razoavelmente utilizável, respeitar segredo comercial, direitos de terceiros, segurança e limites técnicos. Em contexto empresarial, o contrato deverá definir formato, prazo, autenticação e responsabilidade pela importação.
+
+28.6. Backup e restauração devem ser diferenciados de sincronização. O Manifesto deverá informar se existem, onde operam, quais dados cobrem, critérios de ciclo, limitações e procedimento de exclusão ou reaplicação de exclusões.
 
-A LunarX poderá adotar medidas técnicas e organizacionais razoáveis para proteger dados e sistemas, incluindo:
+28.7. Cópias de segurança devem ser protegidas, testadas e acessíveis somente a pessoas autorizadas. Durante o ciclo de sobrescrita, não devem ser usadas para finalidade ordinária incompatível.
 
-- autenticação;
-- permissões;
-- logs;
-- backups;
-- criptografia, quando disponível;
-- políticas de acesso;
-- separação de ambientes;
-- atualizações;
-- monitoramento de falhas;
-- bloqueio de uso abusivo.
+28.8. Produtos locais podem perder dados com desinstalação, limpeza, falha, troca ou corrupção. Essa limitação deve ser informada antes de ação irreversível e não elimina responsabilidade obrigatória por defeito.
 
-Nenhum sistema digital é absolutamente imune a falhas, ataques, indisponibilidade, erros humanos ou eventos externos.
+28.9. Encerramento do serviço deverá permitir, quando técnica e juridicamente cabível, aviso, exportação e transição proporcionais, salvo urgência de segurança, fraude, ordem legal ou impossibilidade justificada.
 
-O usuário deve colaborar mantendo dispositivos, senhas, redes e acessos seguros.
+28.10. O Manifesto não deverá inventar número de dias. Critérios desconhecidos geram pendência de implantação para tratamento público relevante.
 
 ============================================================
-15. BACKUP E SINCRONIZAÇÃO
+29. ANALYTICS, COOKIES, ARMAZENAMENTO LOCAL E PUBLICIDADE
 ============================================================
 
-Alguns Produtos LunarX podem oferecer backup local, backup online, exportação, importação, sincronização ou restauração.
+29.1. Produtos web ou aplicativos poderão usar cookies, localStorage, sessionStorage, cache e tecnologias equivalentes quando efetivamente implementadas.
 
-O usuário entende que:
+29.2. Categorias essenciais poderão ser necessárias para sessão, segurança, aceite, preferência, licença, funcionamento offline e prevenção à fraude.
 
-- backups dependem de configuração correta;
-- backups online dependem de internet e serviços terceiros;
-- backups locais dependem do dispositivo;
-- apagar dados pode ser irreversível;
-- restaurações devem ser feitas com cuidado;
-- a LunarX não garante recuperação de dados se o usuário não realizou backup adequado;
-- recursos online podem falhar por indisponibilidade externa, internet, permissões, políticas de banco, erro de configuração ou manutenção.
+29.3. Analytics poderá ser utilizado para desempenho e melhoria somente quando houver Controlador identificado, base legal, transparência, minimização, configuração adequada e controles aplicáveis. Analytics identificável permanece restrito antes do cumprimento das cláusulas 4.9 e 6.5.
 
-Sempre que possível, o usuário deve manter cópias de segurança próprias.
+29.4. Marketing, publicidade comportamental ou tecnologias de terceiros somente serão aplicados se o Produto efetivamente utilizar, houver Controlador identificado e for observada base legal válida, transparência e possibilidade de controle, sem práticas enganosas ou incompatíveis com o público.
 
+29.5. O usuário poderá gerenciar preferências quando tecnicamente aplicável. Bloquear armazenamento essencial poderá impedir funções, desde que essa consequência seja informada.
+
+29.6. Não se afirma que todos os Produtos exibem publicidade. Se publicidade for introduzida, o Manifesto Jurídico deverá identificar parceiros, finalidades, categorias de dados e controles.
+
+29.7. É vedado utilizar técnicas de perfilamento para direcionar publicidade comercial a crianças e adolescentes nas hipóteses alcançadas pelo ECA Digital. Produtos dirigidos ou de acesso provável por esse público deverão evitar exploração comercial baseada em vulnerabilidades, design manipulativo e tratamento desnecessário.
+
 ============================================================
-16. SERVIÇOS DE TERCEIROS
+30. CRIANÇAS E ADOLESCENTES
 ============================================================
+
+30.1. Os Produtos LunarX não são universalmente direcionados a crianças. Sistemas empresariais destinam-se a organizações e operadores autorizados; isso não os transforma em conteúdo adulto.
+
+30.2. Jogos e conteúdos públicos podem ser acessíveis a menores conforme classificação indicativa, natureza, risco e regras específicas. Nem todo jogo é automaticamente infantil, nem toda possibilidade de acesso caracteriza, isoladamente, direcionamento deliberado.
+
+30.3. Quando um Produto for direcionado a crianças e adolescentes ou de acesso provável por eles, deverão ser observados a proteção integral, o melhor interesse, a segurança e privacidade desde a concepção, a transparência adequada à idade, a minimização de dados, o gerenciamento de riscos e configurações protetivas por padrão, na medida exigida pela legislação vigente.
+
+30.4. O tratamento de dados pessoais de crianças e adolescentes deverá respeitar a LGPD, o ECA, o ECA Digital e sua regulamentação, sempre com avaliação do melhor interesse. As hipóteses legais aplicáveis dependerão do caso concreto; consentimento genérico não substitui base legal, participação de responsável, verificação, supervisão, transparência adequada à idade ou salvaguarda específica quando necessária.
 
-Produtos LunarX podem integrar serviços de terceiros, como:
+30.5. É vedado o perfilamento para direcionamento de publicidade comercial a crianças e adolescentes nas hipóteses previstas em lei. Práticas manipulativas, enganosas ou coercitivas, permissões excessivas e uso compulsivo deverão ser prevenidos e mitigados conforme o risco e a regulamentação aplicável.
 
-- Supabase;
-- Mercado Pago;
-- APIs de inteligência artificial;
-- provedores de hospedagem;
-- serviços de pagamento;
-- serviços de autenticação;
-- GitHub;
-- Netlify;
-- lojas de aplicativos;
-- sistemas operacionais;
-- hardware externo;
-- impressoras;
-- leitores;
-- câmeras;
-- dispositivos locais;
-- provedores de internet.
+30.6. Caixas de recompensa pagas e aleatórias não deverão ser oferecidas em jogos eletrônicos direcionados a crianças e adolescentes ou de acesso provável por eles.
 
-A LunarX não controla integralmente serviços de terceiros.
+30.7. Mecanismos confiáveis de aferição de idade serão adotados quando exigidos para restringir conteúdo, Produto ou serviço impróprio, inadequado ou proibido, observando eficácia, proporcionalidade, necessidade, segurança e proteção de dados. Estes Termos não afirmam a existência de mecanismo que não esteja efetivamente implementado.
 
-Falhas, bloqueios, alterações de preço, indisponibilidade, políticas, limites, restrições, alterações de API ou encerramento desses serviços podem afetar Produtos LunarX.
+30.8. Controles parentais, informação sobre tempo de uso, moderação, denúncia, bloqueio e outras medidas deverão ser disponibilizados quando exigidos e adequados às funções reais do Produto.
 
-O usuário também deverá cumprir termos de uso desses terceiros quando usar recursos integrados.
+30.9. Responsável poderá comunicar acesso indevido, conta de menor ou risco pelo canal oficial. A situação será analisada pelo responsável pela operação e pelo Controlador identificado, e poderão ser adotadas limitação, exclusão, preservação de prova ou encaminhamento à autoridade competente.
 
+30.10. Produtos direcionados a crianças ou adolescentes, ou de acesso provável por eles, que criem contas, coletem dados, utilizem IA, publicidade, comunicação, localização, câmera, microfone, rankings online ou pagamentos não deverão ser ativados publicamente antes da identificação do controlador, da representação exigida, da avaliação de riscos e da implementação das salvaguardas legais e técnicas correspondentes.
+
+30.11. O fato de um jogo poder ser acessado por menores não significa que seja dirigido a crianças. O Manifesto deverá distinguir público pretendido, probabilidade de acesso, classificação indicativa, recursos sociais, publicidade, compras, perfilamento e riscos.
+
+30.12. Quando MOD-20 estiver ativo, deverão ser aplicados desenho protetivo, melhor interesse, minimização, linguagem adequada, controles proporcionais, prevenção de contato ou exploração, proteção contra publicidade inadequada e mecanismo confiável de aferição de idade compatível com o risco, sem coleta excessiva.
+
+30.13. A participação do responsável não substitui todas as bases legais nem autoriza tratamento desnecessário. O consentimento específico para criança somente será usado quando a hipótese e os requisitos aplicáveis estiverem presentes.
+
+30.14. Sistemas empresariais não serão descritos como conteúdo adulto apenas por serem destinados a operadores profissionais. Contas administrativas, entretanto, devem ser usadas por pessoas autorizadas e juridicamente aptas para a função.
+
 ============================================================
-17. PAGAMENTOS, ASSINATURAS, CANCELAMENTO E REEMBOLSO
+31. SEGURANÇA E INCIDENTES
 ============================================================
+
+31.1. O Controlador identificado, o responsável pela operação e os demais agentes, dentro de seus papéis, deverão adotar medidas técnicas e administrativas razoáveis e proporcionais ao risco, como controle de acesso, autenticação, atualização, logs, backup, separação, criptografia quando adequada e resposta a incidentes.
+
+31.2. Nenhum sistema é absolutamente imune. Não se garante segurança total, ausência de ataques ou recuperação integral.
 
-Produtos pagos podem ter cobrança:
+31.3. Usuários e clientes devem proteger credenciais, dispositivos, redes e permissões e comunicar suspeitas.
 
-- mensal;
-- anual;
-- por licença;
-- por unidade;
-- por dispositivo;
-- por usuário;
-- por módulo;
-- por recurso adicional;
-- por serviço técnico;
-- por instalação;
-- por manutenção;
-- por plano.
+31.4. Incidente confirmado deverá ser avaliado pelo Controlador identificado, com cooperação dos operadores e responsáveis técnicos, quanto à natureza, dados, titulares, escala, proteção existente e possível dano.
 
-As condições específicas de preço, vencimento, renovação, suspensão, reativação, cancelamento e reembolso serão informadas no Produto, site, proposta comercial, contrato ou canal oficial.
+31.5. Os agentes responsáveis deverão adotar contenção, investigação, documentação, correção e preservação de evidências, conforme seus papéis e possibilidades.
 
-Em caso de atraso no pagamento, a LunarX poderá limitar, suspender ou bloquear recursos pagos, preservando, quando tecnicamente possível, acesso a dados para exportação conforme política aplicável.
+31.6. Quando o incidente puder acarretar risco ou dano relevante, o Controlador identificado deverá comunicar a ANPD e os titulares no prazo regulatório vigente. Na data desta revisão, a regra geral da Resolução CD/ANPD nº 15/2024 é de 3 dias úteis, contados na forma do regulamento, ressalvada a existência de prazo previsto em legislação específica.
 
-Pedidos de cancelamento ou reembolso serão analisados conforme:
+31.7. Quando não for possível reunir todas as informações no prazo inicial, a comunicação preliminar deverá ser justificada e complementada, de forma fundamentada, no prazo regulatório aplicável, atualmente de 20 dias úteis contados da comunicação, sem prejuízo de atualização anterior quando possível.
 
-- plano contratado;
-- período de uso;
-- forma de pagamento;
-- regra comercial apresentada;
-- legislação aplicável;
-- existência de teste grátis;
-- serviço já prestado;
-- contratação personalizada;
-- boa-fé das partes.
+31.8. Quando a pessoa natural ou jurídica identificada como provedora da tecnologia atuar como operadora, deverá informar o controlador sem demora injustificada, fornecer as informações disponíveis e cooperar com a comunicação e a mitigação.
 
-Nada neste documento busca retirar direitos legais do consumidor.
+31.9. Relatos de vulnerabilidade ou incidente poderão ser enviados inicialmente a suporte.lunarxstudios@gmail.com, com descrição responsável e sem divulgação prejudicial prematura. O endereço funciona como canal inicial e não substitui a identidade do Controlador identificado.
 
+31.10. Antes da ativação pública de tratamento relevante, o controlador deverá possuir capacidade jurídica e meios efetivos para comunicar-se com a ANPD e com os titulares afetados, inclusive por representante ou procurador quando juridicamente necessário. Essa exigência não designa automaticamente João Davi Pereira da Silva, LunarX Studios ou o e-mail de suporte como representante, encarregado ou controlador.
+
+31.11. O controlador deverá avaliar se o incidente pode acarretar risco ou dano relevante e, quando aplicável, comunicar à ANPD e aos titulares no prazo regulamentar vigente. Conforme a Resolução CD/ANPD nº 15/2024, o prazo geral é de três dias úteis para a comunicação inicial, com complementação em até vinte dias úteis quando cabível, sem prejuízo de alteração normativa superveniente.
+
+31.12. O operador deverá informar o controlador sem demora injustificada e fornecer elementos para avaliação e resposta. O contrato deverá definir contatos, conteúdo mínimo, preservação de evidências, cooperação e suboperadores.
+
+31.13. A comunicação não deverá omitir fatos relevantes nem expor detalhes que aumentem o risco. Deverá incluir natureza, titulares, dados, medidas, riscos, contato e providências, conforme exigido.
+
 ============================================================
-18. SUPORTE
+32. CONTEÚDO DO USUÁRIO E DADOS EMPRESARIAIS
 ============================================================
+
+32.1. A titularidade permanece com o proprietário legítimo.
 
-A LunarX poderá oferecer suporte por canais oficiais definidos para cada Produto.
+32.2. O usuário concede autorização limitada para hospedar, processar, transmitir, copiar tecnicamente e exibir o conteúdo somente para operação, segurança, suporte, integração e cumprimento legal.
 
-O suporte pode abranger:
+32.3. O usuário declara possuir direitos e base legal para inserir dados, especialmente dados de clientes, empregados, imagens, áudios e documentos.
 
-- dúvidas de uso;
-- bugs;
-- falhas técnicas;
-- orientação de configuração;
-- atualização;
-- problemas de ativação;
-- mensagens enviadas pelo app;
-- análise de logs, quando disponível.
+32.4. É proibido conteúdo ilegal, infrator, discriminatório, fraudulento, malicioso, exploratório ou que exponha dados sem fundamento.
 
-O suporte não inclui, salvo acordo específico:
+32.5. Conteúdo poderá ser bloqueado, removido, preservado ou reportado quando houver obrigação legal, risco grave, denúncia fundamentada ou violação destes Termos.
 
-- consultoria jurídica;
-- contabilidade;
-- treinamento presencial;
-- configuração de equipamentos de terceiros;
-- recuperação garantida de dados apagados pelo usuário;
-- criação de recurso personalizado;
-- manutenção de computadores;
-- garantia de internet;
-- suporte a sistemas externos não controlados pela LunarX.
+32.6. Quando cabível, o responsável será informado e poderá contestar, salvo impedimento legal ou risco de dano.
 
+32.7. Dados empresariais deverão ser acessados apenas por pessoal autorizado e conforme instruções do cliente controlador.
+
 ============================================================
-19. JOGOS LUNARX
+33. SUSPENSÃO, ENCERRAMENTO E DESCONTINUAÇÃO
 ============================================================
+
+33.1. Acesso poderá ser suspenso por fraude, risco de segurança, violação grave, uso ilegal, inadimplência, ordem legal, ameaça à infraestrutura ou necessidade técnica urgente.
 
-Quando o Produto for um jogo LunarX, o usuário entende que:
+33.2. Quando adequado, haverá aviso e oportunidade de correção. Ação imediata poderá ocorrer em risco grave.
 
-- progresso, conquistas, itens e pontuações podem depender do dispositivo, conta ou servidor;
-- versões de teste podem sofrer reset;
-- recursos online podem ser alterados;
-- itens cosméticos não representam propriedade real fora do jogo;
-- trapaças, modificações indevidas, bots, exploits ou manipulação podem gerar bloqueio;
-- jogos podem conter atualizações, balanceamentos, correções e mudanças de mecânicas.
+33.3. Suspensão por pagamento deverá observar oferta, avisos e acesso razoável a dados quando possível.
 
-Se o jogo for destinado a menores de idade, o uso deverá ocorrer com ciência e responsabilidade dos pais ou responsáveis quando exigido por lei, loja de aplicativos ou classificação indicativa.
+33.4. O usuário poderá encerrar uso, observadas obrigações já vencidas e regras de cancelamento.
 
+33.5. Produtos, versões ou recursos poderão ser descontinuados por inviabilidade, baixa utilização, dependência de terceiro, segurança, mudança legal ou substituição.
+
+33.6. Quando viável, usuários impactados serão avisados e poderá ser oferecida exportação, migração ou alternativa razoável. Não se promete operação permanente.
+
+33.7. Cláusulas de propriedade intelectual, pagamentos devidos, confidencialidade, proteção de dados, responsabilidade e solução de disputas sobrevivem conforme sua natureza.
+
 ============================================================
-20. APLICATIVOS, SISTEMAS E FERRAMENTAS EMPRESARIAIS
+34. DISPONIBILIDADE E RESPONSABILIDADE
 ============================================================
+
+34.1. O responsável pela operação do Produto buscará funcionamento adequado, mas não garante disponibilidade ininterrupta, ausência de bugs, compatibilidade universal, segurança absoluta ou recuperação completa.
+
+34.2. Podem ocorrer manutenção, falha de internet, energia, hardware, sistema operacional, API, nuvem, ataque, caso fortuito ou força maior.
+
+34.3. O usuário deve mitigar danos, conferir dados, manter backup, atualizar software e evitar decisões irreversíveis sem validação.
+
+34.4. Decisões comerciais, financeiras, jurídicas, fiscais, de segurança ou operação permanecem sujeitas a revisão humana.
 
-Quando o Produto for sistema empresarial, administrativo, operacional, financeiro ou de gestão, o usuário entende que:
+34.5. A responsabilidade será apurada conforme nexo causal, culpa quando exigida, risco da atividade, contribuição das partes, dever de informação e legislação aplicável.
 
-- deve conferir dados antes de tomar decisões;
-- relatórios dependem dos dados inseridos;
-- erros de operação podem gerar informações incorretas;
-- permissões devem ser configuradas com cuidado;
-- operadores devem ser treinados;
-- caixa, pagamentos, serviços e cobranças devem ser revisados pelo responsável;
-- o sistema auxilia a gestão, mas não substitui conferência humana;
-- a empresa usuária é responsável por seus próprios clientes, funcionários, preços, regras internas, obrigações fiscais e obrigações legais.
+34.6. Nada exclui responsabilidade por dolo, conduta intencional, falha legalmente imputável, vício ou evento cuja exclusão seja proibida.
 
+34.7. Limitações relativas a danos indiretos, perda de oportunidade ou lucros cessantes somente serão aplicadas na medida permitida pela lei e conforme a relação concreta. Direitos do consumidor são preservados.
+
+34.8. Falhas de terceiros fora do controle razoável podem limitar a responsabilidade do agente identificado, sem afastar deveres próprios de seleção, informação, segurança e reparação quando aplicáveis.
+
 ============================================================
-21. LIMITAÇÃO DE RESPONSABILIDADE
+35. COMUNICAÇÕES
 ============================================================
+
+35.1. Comunicações do responsável pela operação, do fornecedor identificado ou do Controlador identificado poderão tratar de conta, segurança, suporte, pagamento, atualização, manutenção, privacidade, alteração de Termos e Produto.
 
-Na máxima extensão permitida pela legislação aplicável, a LunarX não será responsável por prejuízos causados por:
+35.2. Poderão ser enviadas por e-mail, mensagem no Produto, notificação, site oficial ou canal informado.
 
-- uso incorreto do Produto;
-- erro de preenchimento;
-- falta de treinamento;
-- senha compartilhada;
-- dispositivo com vírus;
-- internet instável;
-- falha de hardware;
-- falha de serviço terceiro;
-- exclusão manual de dados;
-- ausência de backup;
-- uso de versão desatualizada;
-- tentativa de modificação não autorizada;
-- quebra de licença;
-- uso fora da finalidade;
-- configuração indevida;
-- decisões comerciais tomadas pelo usuário;
-- atos de funcionários, operadores ou terceiros do usuário;
-- eventos externos fora do controle razoável da LunarX.
+35.3. Marketing opcional somente será enviado quando legalmente permitido e deverá oferecer forma de descadastro quando aplicável.
 
-Nada neste documento exclui responsabilidade que não possa ser excluída por lei.
+35.4. Mensagens essenciais de segurança, contrato e cobrança não são marketing e poderão ser enviadas enquanto necessárias.
 
+35.5. O usuário deve manter contato atualizado. Falha de entrega causada por dado incorreto não elimina dever de comunicação por meios razoáveis quando exigido.
+
+35.6. O e-mail oficial inicial do ecossistema LunarX é suporte.lunarxstudios@gmail.com. Esse endereço não identifica sozinho o controlador, o fornecedor ou o representante. Usuários devem desconfiar de pedidos de senha, pagamento ou dado sensível enviados por outro canal sem confirmação.
+
 ============================================================
-22. DISPONIBILIDADE
+36. ATUALIZAÇÕES, ALTERAÇÕES E VERSIONAMENTO
 ============================================================
+
+36.1. O Produto pode receber correções, melhorias, atualizações de segurança, compatibilidade, conteúdo, recursos ou interface. A versão e os requisitos devem ser informados de modo razoável.
+
+36.2. Atualizações podem exigir sistema operacional, jogo-base, biblioteca, hardware, espaço, conexão ou permissão compatível. Requisitos materiais devem ser apresentados antes da instalação quando possível.
 
-A LunarX buscará manter seus Produtos funcionando da melhor forma possível, mas não garante disponibilidade contínua, ininterrupta ou livre de erros.
+36.3. Versões antigas podem perder suporte por segurança, incompatibilidade ou custo desproporcional, mediante informação compatível. Direitos obrigatórios e acesso a dados não podem ser anulados por encerramento arbitrário.
 
-Podem ocorrer indisponibilidades por:
+36.4. Mudança material de finalidade, dados, terceiros, preço, renovação, fornecedor, controlador ou risco exige atualização do Manifesto e, quando aplicável, novo consentimento, novo aceite ou oportunidade de cancelamento.
 
-- manutenção;
-- atualização;
-- falha de internet;
-- falha de servidor;
-- falha de terceiro;
-- bloqueio de API;
-- erro de configuração;
-- ataques;
-- caso fortuito;
-- força maior;
-- incompatibilidade de dispositivo;
-- atualização de sistema operacional;
-- limitações de hardware.
+36.5. Correção urgente de segurança pode ocorrer antes de comunicação completa, desde que a transparência seja restabelecida assim que possível.
 
+36.6. Uso continuado não será tratado automaticamente como aceite de mudança material quando a lei, o contrato, a plataforma ou a natureza do tratamento exigirem manifestação afirmativa.
+
+36.7. Cada versão deverá registrar data, status, alterações principais, necessidade de novo aceite e relação com versões anteriores. O histórico consta da Seção 51.
+
+36.8. O Manifesto terá versão própria, vinculada à versão do Produto e destes Termos. Alteração de recurso sem mudança do núcleo universal pode exigir somente nova versão do Manifesto.
+
+36.9. Nenhuma atualização retroage para validar ato comercial, tratamento ou representação que era inválido ou inexistente quando praticado.
+
 ============================================================
-23. ALTERAÇÃO, SUSPENSÃO OU ENCERRAMENTO DE PRODUTOS
+37. LEI APLICÁVEL E SOLUÇÃO DE CONFLITOS
 ============================================================
+
+37.1. Aplica-se a legislação brasileira.
 
-A LunarX poderá alterar, suspender ou encerrar Produtos, recursos ou versões, especialmente em casos de:
+37.2. Antes de medida formal, recomenda-se tentativa de solução pelo canal suporte.lunarxstudios@gmail.com, sem impedir providência urgente ou direito de acesso à Justiça.
 
-- produto experimental;
-- inviabilidade técnica;
-- risco de segurança;
-- manutenção;
-- substituição por versão nova;
-- falta de uso;
-- encerramento de serviço terceiro;
-- exigência legal;
-- violação destes Termos.
+37.3. Consumidores podem utilizar Procon, consumidor.gov.br quando o fornecedor estiver disponível na plataforma, órgãos competentes e Judiciário.
 
-Quando possível, a LunarX buscará informar usuários impactados e oferecer alternativas razoáveis.
+37.4. Nenhuma cláusula impõe foro que retire ilegalmente do consumidor o direito de demandar no foro competente.
 
+37.5. Em contrato empresarial válido, foro e mediação poderão ser definidos por instrumento específico, respeitados competência obrigatória, capacidade e equilíbrio contratual.
+
 ============================================================
-24. CONTEÚDO DO USUÁRIO
+38. DISPOSIÇÕES GERAIS
 ============================================================
+
+38.1. Se uma cláusula for inválida, as demais permanecem eficazes na medida possível.
+
+38.2. Tolerância não significa renúncia.
+
+38.3. Estes Termos não criam sociedade, emprego, franquia, representação comercial ou mandato entre o usuário e o responsável identificado pela operação do Produto.
+
+38.4. O usuário não poderá ceder licença sem autorização, salvo previsão do plano ou lei.
+
+38.5. Direitos e obrigações poderão ser transferidos por instrumento válido a sucessora formal, pessoa jurídica futura ou adquirente legítimo, com a participação de pessoa legalmente capaz, representação quando necessária, comunicação e preservação de direitos.
+
+38.6. Registros eletrônicos, logs, e-mails, comprovantes e versões poderão ser usados como prova, sujeitos a autenticidade, integridade, contraditório e legislação.
+
+38.7. O idioma oficial é português do Brasil. Tradução é informativa, salvo declaração expressa em contrário.
+
+38.8. Estes Termos, junto aos documentos específicos, formam o acordo aplicável à relação.
 
-O usuário é responsável pelo conteúdo que inserir, enviar, cadastrar ou armazenar nos Produtos LunarX.
+38.9. Títulos servem à organização e não limitam a interpretação.
 
-É proibido inserir conteúdo:
+============================================================
+39. DECLARAÇÃO FINAL DE ACEITE
+============================================================
+
+Ao aceitar, declaro:
 
-- ilegal;
-- ofensivo;
-- discriminatório;
-- fraudulento;
-- que viole direitos de terceiros;
-- que contenha malware;
-- que exponha dados pessoais sem base legal;
-- que infrinja propriedade intelectual;
-- que prejudique funcionamento do Produto.
+"Li e tive oportunidade de acessar os Termos Universais de Uso, Licença de Software, Política de Privacidade e Condições Gerais — Ecossistema LunarX — Versão 3.0. Compreendi que esta é uma versão pública pré-comercial e que, no status atual, pode reger os usos gratuitos, demonstrativos, beta, de portfólio, informacionais, internos ou não comerciais permitidos, sem que a gratuidade elimine deveres legais aplicáveis. Reconheço as condições de licença, uso aceitável, privacidade, segurança e limitações aplicáveis ao Produto. Quando houver tratamento de dados pessoais, também devo receber e poder acessar o Manifesto Jurídico do Produto, que identificará o controlador real e as práticas efetivas. Sei que não devo prosseguir se não concordar."
 
-A LunarX poderá remover, bloquear ou reportar conteúdo em caso de violação, quando tiver controle técnico e legal para isso.
+O aceite não significa que um controlador já esteja identificado para todo Produto. Também não afasta direitos obrigatórios, não substitui autorização, representação, base legal, salvaguardas etárias, identificação do controlador, Manifesto Jurídico ou informação comercial exigida, nem torna válida contratação paga que careça de fornecedor capaz, oferta completa ou representação legal.
 
 ============================================================
-25. COMUNICAÇÕES
+40. AVISOS CURTOS PARA TELAS DE ACEITE
 ============================================================
+
+40.1. INSTALAÇÃO OU PRIMEIRA ABERTURA
+Texto: “Antes de instalar ou usar, leia os Termos Universais LunarX V3.0 e o Manifesto Jurídico deste Produto. Os módulos aplicáveis e as limitações estão no Manifesto.”
+Caixa: “Li e concordo com os Termos e tive acesso ao Manifesto.”
+Botão: “Aceitar e continuar”.
+
+40.2. LOGIN OU CRIAÇÃO DE CONTA
+Texto: “Para acessar a conta, leia os Termos, o Manifesto e o Aviso de Privacidade. O controlador e o canal de direitos devem estar identificados.”
+Caixa: “Li e concordo com as condições contratuais e tive acesso ao aviso de privacidade.”
+Botão: “Aceitar e entrar”.
+
+40.3. TESTE GRATUITO
+Texto: “O teste possui duração, limitações e condições descritas na oferta e no Manifesto. Se houver conversão para pagamento, preço, data de cobrança e cancelamento serão mostrados antes.”
+Caixa: “Li as condições do teste e os documentos aplicáveis.”
+Botão: “Iniciar teste”.
+
+40.4. COMPRA PAGA
+Texto: “Confira fornecedor, representante quando necessário, Produto, preço total, periodicidade, renovação, cancelamento, arrependimento e privacidade antes de contratar.”
+Caixa: “Li e aceito a oferta, os Termos e o Manifesto.”
+Botão: “Contratar com obrigação de pagamento”.
+A tela somente poderá ser usada após ativação válida da Seção 21.
 
-A LunarX poderá enviar comunicações relacionadas a:
+40.5. ASSINATURA RECORRENTE
+Texto: “Esta assinatura [renova/não renova] conforme a oferta. A periodicidade, o preço, a próxima cobrança e o meio de cancelamento estão destacados.”
+Caixa: “Autorizo a assinatura nas condições exibidas.”
+Botão: “Confirmar assinatura”.
 
-- ativação;
-- conta;
-- suporte;
-- segurança;
-- atualização;
-- cobrança;
-- manutenção;
-- alteração de termos;
-- avisos importantes;
-- novidades de produto, quando permitido.
+40.6. INÍCIO DE JOGO
+Texto: “Ao jogar, aplicam-se os Termos V3.0 e o Manifesto. Recursos online, dados, multiplayer, compras e faixa etária somente existem quando declarados.”
+Caixa: “Li e concordo com as regras aplicáveis.”
+Botão: “Aceitar e jogar”.
 
-Comunicações poderão ocorrer por:
+40.7. INSTALAÇÃO DE MOD
+Texto: “Este mod depende de plataforma de terceiro e não implica afiliação oficial. Faça backup, confira compatibilidade, licenças e o Manifesto.”
+Caixa: “Li os Termos, o Manifesto e as informações de compatibilidade.”
+Botão: “Aceitar e instalar”.
 
-- e-mail;
-- telefone;
-- WhatsApp;
-- notificação no app;
-- mensagem dentro do sistema;
-- site;
-- repositório oficial;
-- TXT remoto;
-- painel administrativo.
+40.8. ATUALIZAÇÃO MATERIAL
+Texto: “Os Termos ou o Manifesto mudaram de forma relevante. Leia o resumo antes de continuar.”
+Caixa: “Li e aceito a versão atualizada quando o aceite for necessário.”
+Botão: “Aceitar atualização”.
 
+40.9. ATUALIZAÇÃO DO AVISO DE PRIVACIDADE
+Texto: “O aviso de privacidade foi atualizado. Consulte as mudanças em dados, finalidade, controlador, terceiros, retenção ou direitos. Consentimentos opcionais serão solicitados separadamente quando necessários.”
+Botão: “Entendi” ou “Revisar opções”, conforme o caso.
+
+40.10. Nenhuma caixa poderá vir pré-marcada. Links para os documentos devem funcionar antes da ação e possuir alternativa offline quando aplicável.
+
 ============================================================
-26. ACEITE DE TERMOS VIA LINK/TXT
+41. ESPECIFICAÇÃO TÉCNICA DO REGISTRO DE ACEITE
 ============================================================
+
+41.1. Campos recomendados para registro de aceite, quando disponíveis, necessários e lícitos:
+
+a) terms_version;
+b) manifest_version;
+c) product_name e product_version;
+d) timestamp em padrão confiável e fuso;
+e) acceptance_action;
+f) account_id, installation_id ou outro identificador minimizado;
+g) organization_or_unit_id, quando indispensável;
+h) locale e interface_version;
+i) terms_hash e manifest_hash;
+j) source_screen ou fluxo;
+k) checkbox_preselected = false;
+l) resultado, revogação ou substituição do aceite.
+
+41.2. Endereço IP, identificador de dispositivo, assinatura técnica ou geolocalização somente deverão ser registrados quando necessários, proporcionais, transparentes e cobertos por hipótese legal. Não se deve coletar identificadores excessivos apenas para “fortalecer prova”.
+
+41.3. O registro deve ser protegido contra alteração indevida por controles de acesso, integridade, trilha, backup e segregação compatíveis.
+
+41.4. Produtos offline podem armazenar registro local, vinculado à instalação, e disponibilizar exportação ou visualização. Produtos online podem armazenar o registro sob governança do controlador identificado.
 
-Quando estes Termos forem disponibilizados por link, GitHub RAW, arquivo TXT, site, modal, tela inicial ou botão dentro do Produto, o usuário reconhece que o documento acessível no link informado faz parte das condições de uso.
+41.5. A retenção deverá considerar duração da relação, obrigação legal, prevenção a fraude e exercício de direitos, sem prazo universal artificial.
 
-O sistema poderá registrar tecnicamente:
+41.6. Novo aceite gera novo registro. Versões anteriores devem ser preservadas quando necessárias para prova, auditoria ou atendimento, com acesso restrito.
 
-- data/hora de aceite;
-- versão do termo;
-- produto;
-- dispositivo;
-- usuário;
-- plano;
-- IP, quando disponível;
-- identificador técnico;
-- ação realizada após aceite.
+41.7. O registro de aceite é, em si, tratamento de dados quando relacionado a pessoa. Exige finalidade, base legal, minimização, segurança, transparência, retenção e direitos.
 
-Esse registro poderá ser usado para comprovar que o usuário teve oportunidade de conhecer os Termos antes de usar, testar ou ativar o Produto.
+41.8. Exemplo de registro técnico não vinculante:
+{
+  "terms_version": "3.0",
+  "manifest_version": "1.0",
+  "product_name": "NOME_REAL_DO_PRODUTO",
+  "product_version": "VERSAO_REAL",
+  "timestamp": "DATA_HORA_REAL",
+  "acceptance_action": "install|login|trial|purchase|play|mod_install|material_update",
+  "installation_or_account_id": "IDENTIFICADOR_MINIMIZADO",
+  "terms_hash": "SHA256_REAL",
+  "manifest_hash": "SHA256_REAL",
+  "checkbox_preselected": false
+}
 
 ============================================================
-27. ALTERAÇÕES DESTES TERMOS
+42. COMO FUNCIONA O MANIFESTO JURÍDICO DO PRODUTO
 ============================================================
 
-A LunarX poderá atualizar estes Termos para refletir:
+42.1. O Manifesto Jurídico do Produto é a camada de configuração jurídica. Deve ser curto, específico, verdadeiro, versionado e distribuído junto ao Produto.
 
-- novos Produtos;
-- novas integrações;
-- alterações legais;
-- melhoria de segurança;
-- mudanças comerciais;
-- correções;
-- novos recursos;
-- adequação de privacidade;
-- expansão da marca.
+42.2. O Manifesto ativa módulos e fornece fatos que o texto universal não pode presumir: plataforma, canal, público, conta, nuvem, dados, permissões, IA, terceiros, pagamento, retenção, direitos, responsável, fornecedor, representante e controlador.
 
-Quando a alteração for relevante, poderá ser solicitado novo aceite.
+42.3. O Manifesto deverá conter versões humana e JSON equivalentes. Divergência relevante gera bloqueio até correção; a versão humana não pode esconder restrição presente no JSON.
 
-A versão publicada no link oficial indicado pelo Produto será considerada a versão vigente para aquele momento, salvo se houver contrato específico em contrário.
+42.4. Campos desconhecidos deverão ser nulos, vazios ou marcados como não identificados, acompanhados de unresolved_requirements e blocked_features. Não se deve preencher com nome de marca, e-mail ou pessoa que não exerça o papel.
 
+42.5. A ativação é cumulativa: um Produto com contas, nuvem e placas ativa MOD-06, MOD-07 e MOD-09, além das seções gerais. Um recurso bloqueado permanece juridicamente inativo mesmo que seu código exista.
+
+42.6. O Manifesto deverá distinguir: a) fatos implementados; b) recursos planejados; c) recursos inativos; d) escopo permitido; e) escopo bloqueado; e f) requisitos para ativação.
+
+42.7. O responsável pelo build deverá validar o manifesto contra a configuração real, SDKs, permissões, endpoints, provedores, loja e versão. Mudança de feature flag pode exigir nova versão do Manifesto.
+
+42.8. O Manifesto não substitui revisão por advogado, avaliação de impacto, contrato de tratamento, política interna, segurança, classificação indicativa, regras de loja ou obrigação fiscal.
+
+42.9. Para dados pessoais, controller_name é obrigatório. Para pagamento, supplier_name e, quando necessário, legal_representative_reference são obrigatórios. Campo obrigatório ausente impede a função correspondente.
+
 ============================================================
-28. RESCISÃO
+43. MODELO HUMANO DO MANIFESTO JURÍDICO DO PRODUTO
 ============================================================
+
+MANIFESTO JURÍDICO DO PRODUTO — MODELO HUMANO
+
+Nome do Produto:
+Versão do Produto:
+Versão do Manifesto:
+Data do Manifesto:
+Categoria:
+Plataformas:
+Canais de distribuição:
+Status de implantação:
+Escopo atualmente permitido:
+Recursos bloqueados:
 
-O usuário pode parar de usar o Produto a qualquer momento, observadas as condições comerciais do plano contratado.
+Criador ou titular declarado, quando relevante:
+Responsável juridicamente capaz pela operação:
+Fornecedor contratante, se pago:
+Referência privada do representante, quando exigida:
+Controlador dos dados pessoais:
+Operador(es), se factual e contratualmente aplicável:
+Canal de privacidade:
+Canal de segurança e suporte:
 
-A LunarX poderá encerrar ou suspender a licença se o usuário:
+Público esperado:
+Idade mínima ou recomendada:
+Probabilidade de acesso por crianças ou adolescentes:
+Classificação indicativa, quando aplicável:
+
+Modelo de acesso: gratuito, pago, teste, assinatura ou outro:
+Preço anunciado, se houver, sem substituir a oferta:
+Renovação automática: sim, não ou não confirmado:
+Processador de pagamento:
+Arrependimento, cancelamento e reembolso:
+
+Conta: sim/não.
+Login: sim/não.
+Nuvem ou banco online: sim/não.
+Backup online: sim/não.
+Sincronização: sim/não.
+
+Dados pessoais efetivamente tratados:
+Dados que não são tratados:
+Placas ou histórico veicular:
+Dados de clientes empresariais, empregados ou operadores:
+Fontes dos dados:
+Finalidades:
+Bases legais a validar:
+Destinatários e compartilhamentos:
+Transferência internacional:
+Critérios de retenção:
+Exclusão, exportação e encerramento:
+Método para direitos:
+
+Permissões efetivamente solicitadas:
+IA:
+Analytics:
+Publicidade:
+Notificações:
+Ranking, multiplayer ou funções sociais:
+Conteúdo do usuário:
+Hardware e automação:
+Provedores terceiros:
+
+Módulos ativos:
+Módulos inativos:
+Requisitos não resolvidos:
+Condições para ativação futura:
+Integridade ou hash do Manifesto:
+
+============================================================
+44. ESQUEMA JSON DO MANIFESTO JURÍDICO DO PRODUTO
+============================================================
 
-- violar estes Termos;
-- não pagar plano contratado;
-- usar produto para finalidade ilegal;
-- burlar licença;
-- distribuir cópia não autorizada;
-- comprometer segurança;
-- causar prejuízo a terceiros;
-- violar propriedade intelectual.
+ESQUEMA JSON RECOMENDADO (informativo; validar no processo de build):
 
-O encerramento não elimina obrigações já existentes, como pagamentos vencidos, deveres de confidencialidade, respeito à propriedade intelectual e responsabilidades por uso anterior.
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:lunarx:product-legal-manifest:3.0",
+  "title": "Manifesto Jurídico do Produto LunarX",
+  "type": "object",
+  "additionalProperties": true,
+  "required": [
+    "product_name",
+    "product_version",
+    "product_type",
+    "platforms",
+    "distribution_channels",
+    "access_model",
+    "deployment_status",
+    "active_modules",
+    "inactive_modules",
+    "blocked_features",
+    "has_accounts",
+    "has_login",
+    "uses_cloud_database",
+    "processes_personal_data",
+    "processes_license_plates",
+    "processes_business_customer_data",
+    "uses_ai",
+    "uses_camera",
+    "uses_microphone",
+    "uses_location",
+    "uses_notifications",
+    "uses_analytics",
+    "uses_advertising",
+    "has_online_payments",
+    "has_subscriptions",
+    "has_free_trial",
+    "uses_third_party_services",
+    "has_international_transfer",
+    "likely_accessible_to_minors",
+    "has_online_ranking",
+    "has_multiplayer",
+    "uses_hardware_integrations",
+    "controller_name",
+    "privacy_contact",
+    "supplier_name",
+    "legal_representative_reference",
+    "retention_summary",
+    "data_rights_method",
+    "terms_version",
+    "manifest_version",
+    "manifest_date",
+    "unresolved_requirements"
+  ],
+  "properties": {
+    "product_name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "product_version": {
+      "type": "string",
+      "minLength": 1
+    },
+    "product_type": {
+      "type": "string",
+      "minLength": 1
+    },
+    "platforms": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "distribution_channels": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "access_model": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "deployment_status": {
+      "type": "string"
+    },
+    "active_modules": {
+      "type": "array",
+      "items": {
+        "pattern": "^MOD-[0-9]{2}$"
+      }
+    },
+    "inactive_modules": {
+      "type": "array",
+      "items": {
+        "pattern": "^MOD-[0-9]{2}$"
+      }
+    },
+    "blocked_features": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "permitted_scope": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "planned_features": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "has_accounts": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "has_login": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "uses_cloud_database": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "processes_personal_data": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "processes_license_plates": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "processes_business_customer_data": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "uses_ai": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "uses_camera": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "uses_microphone": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "uses_location": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "uses_notifications": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "uses_analytics": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "uses_advertising": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "has_online_payments": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "has_subscriptions": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "has_free_trial": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "uses_third_party_services": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "has_international_transfer": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "likely_accessible_to_minors": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "has_online_ranking": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "has_multiplayer": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "uses_hardware_integrations": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "controller_name": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "privacy_contact": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "supplier_name": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "legal_representative_reference": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "retention_summary": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "data_rights_method": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "terms_version": {
+      "const": "3.0"
+    },
+    "manifest_version": {
+      "type": "string"
+    },
+    "manifest_date": {
+      "type": "string",
+      "format": "date"
+    },
+    "unresolved_requirements": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "processes_personal_data": {
+            "const": true
+          },
+          "deployment_status": {
+            "pattern": "^(OPERACIONAL|COMERCIALMENTE)"
+          }
+        },
+        "required": [
+          "processes_personal_data",
+          "deployment_status"
+        ]
+      },
+      "then": {
+        "properties": {
+          "controller_name": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "allOf": [
+          {
+            "anyOf": [
+              {
+                "properties": {
+                  "has_online_payments": {
+                    "const": true
+                  }
+                },
+                "required": [
+                  "has_online_payments"
+                ]
+              },
+              {
+                "properties": {
+                  "has_subscriptions": {
+                    "const": true
+                  }
+                },
+                "required": [
+                  "has_subscriptions"
+                ]
+              }
+            ]
+          },
+          {
+            "properties": {
+              "deployment_status": {
+                "pattern": "^COMERCIALMENTE"
+              }
+            },
+            "required": [
+              "deployment_status"
+            ]
+          }
+        ]
+      },
+      "then": {
+        "properties": {
+          "supplier_name": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "has_international_transfer": {
+            "const": true
+          }
+        },
+        "required": [
+          "has_international_transfer"
+        ]
+      },
+      "then": {
+        "required": [
+          "international_transfer_mechanism"
+        ]
+      }
+    }
+  ]
+}
 
 ============================================================
-29. LEGISLAÇÃO APLICÁVEL
+45. MANIFESTO CONCLUÍDO — LUNARX PARKING
 ============================================================
+
+45.1. IDENTIFICAÇÃO
+Produto: LunarX Parking.
+Versão do Produto: 22.5.
+Categoria: software empresarial de gestão de estacionamento.
+Plataformas: Android, Windows.
+Canais de distribuição: não informados.
+Modelo de acesso: teste gratuito de um mês anunciado, planos mensais pagos anunciados.
+Status: BLOQUEADO_PARA_OPERACAO_PUBLICA_PAGA_E_TRATAMENTO_PUBLICO_DE_DADOS_PESSOAIS.
+
+45.2. ESCOPO ATUALMENTE PERMITIDO
+- demonstração offline ou local com dados fictícios ou sintéticos
+- teste interno controlado sem dados pessoais reais e sem cobrança
+
+45.3. MÓDULOS ATIVOS
+MOD-01, MOD-06, MOD-07, MOD-08, MOD-09, MOD-10, MOD-14, MOD-15, MOD-16, MOD-17, MOD-22, MOD-23.
+A ativação é descritiva do tipo de regra aplicável; recursos bloqueados não ficam autorizados.
+
+45.4. IDENTIDADES JURÍDICAS
+Criador ou titular declarado: João Davi Pereira da Silva.
+Responsável juridicamente capaz pela operação: não identificado.
+Fornecedor contratante: não identificado.
+Representante: não identificado; deverá constar de instrumento privado quando exigido.
+Controlador: não identificado.
+Canal: suporte.lunarxstudios@gmail.com (canal inicial; não identifica o controlador).
+
+45.5. DADOS E FUNÇÕES CONFIRMADAS OU CONDICIONAIS
+- placas e registros de entrada/saída
+- históricos de veículos e estacionamento
+- dados de clientes ou mensalistas quando cadastrados
+- contas, perfis, funções e permissões de usuários
+- logs administrativos
+- registros de caixa, pagamentos, serviços e recibos quando relacionáveis a pessoas
+- dados enviados a backup, sincronização, suporte ou IA quando esses recursos forem ativados
+Retenção: critério não definido; bloqueio para tratamento público até documentação.
+Método de direitos: canal inicial de suporte; procedimento, autenticação e controlador ainda devem ser definidos.
+
+45.6. RECURSOS BLOQUEADOS
+- checkout, cobrança, assinatura e renovação
+- contas públicas e acesso remoto
+- placas e históricos reais em operação pública
+- nuvem, sincronização e backup online com dados reais
+- IA com conteúdo ou dados reais
+- integração pública com EstacioneiX ou Central Parking
+- hardware e pagamento online planejados
 
-Estes Termos serão interpretados conforme a legislação brasileira, quando aplicável.
+45.7. PENDÊNCIAS OBRIGATÓRIAS
+- fornecedor contratante legalmente capaz
+- representante real no instrumento privado quando exigido
+- controlador de cada tratamento
+- responsável juridicamente capaz pela operação
+- provedores e contratos de nuvem, IA, sincronização, pagamento e hardware
+- bases legais, retenção, direitos, segurança, incidentes e transferência internacional
+- oferta comercial completa, cancelamento, renovação e informação ao consumidor
+- validação técnica das permissões, SDKs e fluxos
 
-Sem limitar outras normas aplicáveis, poderão ser relevantes:
+45.8. MANIFESTO JSON
+O bloco abaixo é a representação legível por máquina deste manifesto. Valores null e listas vazias indicam fato não confirmado e não autorizam ativação.
 
-- legislação civil;
-- legislação de defesa do consumidor;
-- Lei Geral de Proteção de Dados Pessoais;
-- Marco Civil da Internet;
-- normas sobre contratos eletrônicos;
-- normas de propriedade intelectual;
-- regras de lojas de aplicativos;
-- normas específicas do setor do usuário.
+{
+  "product_name": "LunarX Parking",
+  "product_version": "22.5",
+  "product_type": "software empresarial de gestão de estacionamento",
+  "platforms": [
+    "Android",
+    "Windows"
+  ],
+  "distribution_channels": [],
+  "access_model": [
+    "teste gratuito de um mês anunciado",
+    "planos mensais pagos anunciados"
+  ],
+  "deployment_status": "BLOQUEADO_PARA_OPERACAO_PUBLICA_PAGA_E_TRATAMENTO_PUBLICO_DE_DADOS_PESSOAIS",
+  "permitted_scope": [
+    "demonstração offline ou local com dados fictícios ou sintéticos",
+    "teste interno controlado sem dados pessoais reais e sem cobrança"
+  ],
+  "active_modules": [
+    "MOD-01",
+    "MOD-06",
+    "MOD-07",
+    "MOD-08",
+    "MOD-09",
+    "MOD-10",
+    "MOD-14",
+    "MOD-15",
+    "MOD-16",
+    "MOD-17",
+    "MOD-22",
+    "MOD-23"
+  ],
+  "inactive_modules": [
+    "MOD-02",
+    "MOD-03",
+    "MOD-04",
+    "MOD-05",
+    "MOD-11",
+    "MOD-12",
+    "MOD-13",
+    "MOD-18",
+    "MOD-19",
+    "MOD-20",
+    "MOD-21"
+  ],
+  "blocked_features": [
+    "checkout, cobrança, assinatura e renovação",
+    "contas públicas e acesso remoto",
+    "placas e históricos reais em operação pública",
+    "nuvem, sincronização e backup online com dados reais",
+    "IA com conteúdo ou dados reais",
+    "integração pública com EstacioneiX ou Central Parking",
+    "hardware e pagamento online planejados"
+  ],
+  "planned_features": [
+    "integrações de hardware",
+    "integração de pagamento online"
+  ],
+  "declared_creator": "João Davi Pereira da Silva",
+  "responsible_operation": null,
+  "supplier_name": null,
+  "legal_representative_reference": null,
+  "controller_name": null,
+  "privacy_contact": "suporte.lunarxstudios@gmail.com (canal inicial; não identifica o controlador)",
+  "expected_audience": "estacionamentos, administradores e operadores autorizados",
+  "minimum_or_recommended_age": null,
+  "has_accounts": true,
+  "has_login": true,
+  "uses_cloud_database": true,
+  "uses_cloud_backup": true,
+  "uses_online_synchronization": true,
+  "processes_personal_data": true,
+  "processes_license_plates": true,
+  "processes_business_customer_data": true,
+  "personal_data_categories": [
+    "placas e registros de entrada/saída",
+    "históricos de veículos e estacionamento",
+    "dados de clientes ou mensalistas quando cadastrados",
+    "contas, perfis, funções e permissões de usuários",
+    "logs administrativos",
+    "registros de caixa, pagamentos, serviços e recibos quando relacionáveis a pessoas",
+    "dados enviados a backup, sincronização, suporte ou IA quando esses recursos forem ativados"
+  ],
+  "data_categories_not_confirmed": [
+    "imagem de câmera",
+    "áudio",
+    "localização precisa",
+    "biometria",
+    "dados de cartão tratados diretamente",
+    "analytics",
+    "publicidade"
+  ],
+  "uses_ai": true,
+  "ai_description": "suporte operacional por IA declarado; provedor, fluxo de dados, finalidade e salvaguardas não informados",
+  "uses_camera": null,
+  "uses_microphone": null,
+  "uses_location": null,
+  "uses_notifications": null,
+  "uses_analytics": null,
+  "uses_advertising": null,
+  "has_online_payments": false,
+  "payment_processor": null,
+  "has_subscriptions": true,
+  "automatic_renewal": null,
+  "has_free_trial": true,
+  "advertised_commercial_information": [
+    "plano Básico anunciado a partir de R$ 50 por mês",
+    "plano Pro anunciado até R$ 100 por mês",
+    "um mês de teste gratuito"
+  ],
+  "uses_third_party_services": true,
+  "third_party_services": [
+    "provedores de nuvem, IA, sincronização, pagamento ou hardware não identificados"
+  ],
+  "has_international_transfer": null,
+  "international_transfer_mechanism": null,
+  "likely_accessible_to_minors": null,
+  "has_online_ranking": false,
+  "has_multiplayer": false,
+  "uses_hardware_integrations": false,
+  "retention_summary": null,
+  "data_rights_method": "canal inicial de suporte; procedimento, autenticação e controlador ainda devem ser definidos",
+  "security_support_channel": "suporte.lunarxstudios@gmail.com",
+  "terms_version": "3.0",
+  "manifest_version": "1.0",
+  "manifest_date": "2026-07-12",
+  "conditional_roles": "O operador do estacionamento poderá ser controlador de dados de clientes, empregados, usuários e veículos. Um provedor de tecnologia legalmente identificado poderá atuar como operador apenas mediante fatos, capacidade, contrato e instruções compatíveis.",
+  "unresolved_requirements": [
+    "fornecedor contratante legalmente capaz",
+    "representante real no instrumento privado quando exigido",
+    "controlador de cada tratamento",
+    "responsável juridicamente capaz pela operação",
+    "provedores e contratos de nuvem, IA, sincronização, pagamento e hardware",
+    "bases legais, retenção, direitos, segurança, incidentes e transferência internacional",
+    "oferta comercial completa, cancelamento, renovação e informação ao consumidor",
+    "validação técnica das permissões, SDKs e fluxos"
+  ]
+}
 
 ============================================================
-30. DISPOSIÇÕES GERAIS
+46. MANIFESTO CONCLUÍDO — ESTACIONEIX
 ============================================================
 
-Se alguma cláusula destes Termos for considerada inválida, as demais continuarão válidas.
+46.1. IDENTIFICAÇÃO
+Produto: EstacioneiX.
+Versão do Produto: 3.0.
+Categoria: aplicativo de cliente de estacionamento.
+Plataformas: Android.
+Canais de distribuição: não informados.
+Modelo de acesso: gratuito.
+Status: BLOQUEADO_PARA_USO_PUBLICO_COM_DADOS_PESSOAIS_PENDENTE_DE_CONTROLADOR_E_GOVERNANCA.
 
-A tolerância da LunarX quanto a eventual descumprimento não significa renúncia de direito.
+46.2. ESCOPO ATUALMENTE PERMITIDO
+- demonstração local com dados fictícios
+- avaliação interna controlada sem placas, PINs ou históricos reais
 
-Títulos das seções servem apenas para organização.
+46.3. MÓDULOS ATIVOS
+MOD-02, MOD-06, MOD-07, MOD-09, MOD-16, MOD-22, MOD-23.
+A ativação é descritiva do tipo de regra aplicável; recursos bloqueados não ficam autorizados.
 
-Estes Termos não criam sociedade, vínculo empregatício, representação comercial, franquia ou mandato entre LunarX e usuário.
+46.4. IDENTIDADES JURÍDICAS
+Criador ou titular declarado: João Davi Pereira da Silva.
+Responsável juridicamente capaz pela operação: não identificado.
+Fornecedor contratante: não identificado.
+Representante: não identificado; deverá constar de instrumento privado quando exigido.
+Controlador: não identificado.
+Canal: suporte.lunarxstudios@gmail.com (canal inicial; controlador não identificado).
 
-O usuário não pode transferir sua licença sem autorização, salvo se o plano permitir.
+46.5. DADOS E FUNÇÕES CONFIRMADAS OU CONDICIONAIS
+- placa
+- PIN ou código de acesso
+- histórico vinculado à placa
+- pontos, benefícios e resgates
+- solicitações de vaga
+- informações de clube ou mensalista
+- estabelecimento selecionado
+Retenção: critério não definido; bloqueio para tratamento público até documentação.
+Método de direitos: canal inicial; deve haver correção de placa, contestação de histórico, recuperação segura, revogação e direitos sob o controlador identificado.
 
+46.6. RECURSOS BLOQUEADOS
+- acesso público por código, placa e PIN
+- consulta de histórico real
+- pontos, benefícios, resgates e solicitações vinculados a pessoas
+- integração pública com estacionamentos e LunarX Parking
+- contas ou nuvem com dados reais
+
+46.7. PENDÊNCIAS OBRIGATÓRIAS
+- controlador de cada estacionamento ou fluxo
+- responsável juridicamente capaz pela operação do aplicativo
+- papel da integração e eventual operador
+- segurança contra enumeração e tentativa de PIN
+- recuperação, correção, revogação e direitos
+- retenção, compartilhamentos, provedores e transferência internacional
+- aviso de privacidade e validação de permissões/SDKs
+
+46.8. MANIFESTO JSON
+O bloco abaixo é a representação legível por máquina deste manifesto. Valores null e listas vazias indicam fato não confirmado e não autorizam ativação.
+
+{
+  "product_name": "EstacioneiX",
+  "product_version": "3.0",
+  "product_type": "aplicativo de cliente de estacionamento",
+  "platforms": [
+    "Android"
+  ],
+  "distribution_channels": [],
+  "access_model": [
+    "gratuito"
+  ],
+  "deployment_status": "BLOQUEADO_PARA_USO_PUBLICO_COM_DADOS_PESSOAIS_PENDENTE_DE_CONTROLADOR_E_GOVERNANCA",
+  "permitted_scope": [
+    "demonstração local com dados fictícios",
+    "avaliação interna controlada sem placas, PINs ou históricos reais"
+  ],
+  "active_modules": [
+    "MOD-02",
+    "MOD-06",
+    "MOD-07",
+    "MOD-09",
+    "MOD-16",
+    "MOD-22",
+    "MOD-23"
+  ],
+  "inactive_modules": [
+    "MOD-01",
+    "MOD-03",
+    "MOD-04",
+    "MOD-05",
+    "MOD-08",
+    "MOD-10",
+    "MOD-11",
+    "MOD-12",
+    "MOD-13",
+    "MOD-14",
+    "MOD-15",
+    "MOD-17",
+    "MOD-18",
+    "MOD-19",
+    "MOD-20",
+    "MOD-21"
+  ],
+  "blocked_features": [
+    "acesso público por código, placa e PIN",
+    "consulta de histórico real",
+    "pontos, benefícios, resgates e solicitações vinculados a pessoas",
+    "integração pública com estacionamentos e LunarX Parking",
+    "contas ou nuvem com dados reais"
+  ],
+  "planned_features": [],
+  "declared_creator": "João Davi Pereira da Silva",
+  "responsible_operation": null,
+  "supplier_name": null,
+  "legal_representative_reference": null,
+  "controller_name": null,
+  "privacy_contact": "suporte.lunarxstudios@gmail.com (canal inicial; controlador não identificado)",
+  "expected_audience": "clientes de estacionamentos participantes",
+  "minimum_or_recommended_age": null,
+  "has_accounts": true,
+  "has_login": true,
+  "authentication_method": "código do estacionamento, placa e PIN",
+  "uses_cloud_database": true,
+  "processes_personal_data": true,
+  "processes_license_plates": true,
+  "processes_business_customer_data": true,
+  "personal_data_categories": [
+    "placa",
+    "PIN ou código de acesso",
+    "histórico vinculado à placa",
+    "pontos, benefícios e resgates",
+    "solicitações de vaga",
+    "informações de clube ou mensalista",
+    "estabelecimento selecionado"
+  ],
+  "data_categories_not_confirmed": [
+    "câmera",
+    "microfone",
+    "localização",
+    "analytics",
+    "publicidade",
+    "pagamento",
+    "dados de cartão"
+  ],
+  "uses_ai": false,
+  "uses_camera": null,
+  "uses_microphone": null,
+  "uses_location": null,
+  "uses_notifications": null,
+  "uses_analytics": null,
+  "uses_advertising": null,
+  "has_online_payments": false,
+  "has_subscriptions": false,
+  "has_free_trial": false,
+  "uses_third_party_services": true,
+  "third_party_services": [
+    "integração com LunarX Parking; demais provedores não informados"
+  ],
+  "has_international_transfer": null,
+  "international_transfer_mechanism": null,
+  "likely_accessible_to_minors": null,
+  "has_online_ranking": false,
+  "has_multiplayer": false,
+  "uses_hardware_integrations": false,
+  "retention_summary": null,
+  "data_rights_method": "canal inicial; deve haver correção de placa, contestação de histórico, recuperação segura, revogação e direitos sob o controlador identificado",
+  "security_support_channel": "suporte.lunarxstudios@gmail.com",
+  "terms_version": "3.0",
+  "manifest_version": "1.0",
+  "manifest_date": "2026-07-12",
+  "conditional_roles": "Cada estacionamento poderá controlar os dados de seus clientes; a parte que opera o aplicativo e a integração deve ser identificada. Controladoria conjunta ou operação em nome de terceiro depende dos fatos e contratos.",
+  "unresolved_requirements": [
+    "controlador de cada estacionamento ou fluxo",
+    "responsável juridicamente capaz pela operação do aplicativo",
+    "papel da integração e eventual operador",
+    "segurança contra enumeração e tentativa de PIN",
+    "recuperação, correção, revogação e direitos",
+    "retenção, compartilhamentos, provedores e transferência internacional",
+    "aviso de privacidade e validação de permissões/SDKs"
+  ]
+}
+
 ============================================================
-31. CANAIS DE CONTATO
+47. MANIFESTO CONCLUÍDO — LUNARX CENTRAL PARKING
 ============================================================
 
-Responsável/Marca:
-LunarX Software / LunarX Studios
+47.1. IDENTIFICAÇÃO
+Produto: LunarX Central Parking.
+Versão do Produto: 1.0.
+Categoria: aplicativo administrativo de gestão multiunidade.
+Plataformas: Android, Windows, Web.
+Canais de distribuição: não informados.
+Modelo de acesso: gratuito.
+Status: BLOQUEADO_PARA_USO_PUBLICO_COM_DADOS_OPERACIONAIS_OU_PESSOAIS_PENDENTE_DE_CONTROLADOR_E_OPERADOR.
 
-Responsável pelo projeto:
-João Davi Pereira da Silva
+47.2. ESCOPO ATUALMENTE PERMITIDO
+- demonstração local com dados fictícios
+- teste interno isolado sem dados reais de unidades, clientes, empregados ou caixa
 
-Link oficial destes Termos:
-https://raw.githubusercontent.com/LunaxStudios-Officiall/LICENSA-LunarX/refs/heads/main/TERMOS_UNIVERSAIS_LUNARX_v1_0.txt
+47.3. MÓDULOS ATIVOS
+MOD-01, MOD-06, MOD-07, MOD-08, MOD-16, MOD-22, MOD-23.
+A ativação é descritiva do tipo de regra aplicável; recursos bloqueados não ficam autorizados.
 
-E-mail de suporte:
-suporte.lunarxstudios@gmail.com
+47.4. IDENTIDADES JURÍDICAS
+Criador ou titular declarado: João Davi Pereira da Silva.
+Responsável juridicamente capaz pela operação: não identificado.
+Fornecedor contratante: não identificado.
+Representante: não identificado; deverá constar de instrumento privado quando exigido.
+Controlador: não identificado.
+Canal: suporte.lunarxstudios@gmail.com (canal inicial; controlador não identificado).
 
-Telefone/WhatsApp:
-Não informado publicamente
+47.5. DADOS E FUNÇÕES CONFIRMADAS OU CONDICIONAIS
+- dados de conta e sessão
+- identificadores de unidade
+- credenciais e validação administrativa
+- históricos publicados
+- registros de caixas fechados
+- registros de serviços
+- logs administrativos
+- dados operacionais que possam identificar clientes, empregados ou operadores
+Retenção: critério não definido; bloqueio para tratamento público até documentação.
+Método de direitos: canal inicial; método e controlador ainda devem ser definidos.
 
-Link oficial destes Termos:
-https://prismatic-malasada-c1507f.netlify.app/
+47.6. RECURSOS BLOQUEADOS
+- criação pública de conta
+- vinculação real de estacionamentos
+- acesso a históricos, caixas, serviços e logs reais
+- sincronização multiunidade
+- comandos administrativos planejados
 
+47.7. PENDÊNCIAS OBRIGATÓRIAS
+- controlador de cada conjunto de dados
+- responsável juridicamente capaz pela operação
+- eventual operador e contrato
+- arquitetura de isolamento multiunidade
+- provedor de nuvem e sincronização
+- retenção, exportação, exclusão, incidentes e direitos
+- validação de comandos administrativos e permissões
 
+47.8. MANIFESTO JSON
+O bloco abaixo é a representação legível por máquina deste manifesto. Valores null e listas vazias indicam fato não confirmado e não autorizam ativação.
+
+{
+  "product_name": "LunarX Central Parking",
+  "product_version": "1.0",
+  "product_type": "aplicativo administrativo de gestão multiunidade",
+  "platforms": [
+    "Android",
+    "Windows",
+    "Web"
+  ],
+  "distribution_channels": [],
+  "access_model": [
+    "gratuito"
+  ],
+  "deployment_status": "BLOQUEADO_PARA_USO_PUBLICO_COM_DADOS_OPERACIONAIS_OU_PESSOAIS_PENDENTE_DE_CONTROLADOR_E_OPERADOR",
+  "permitted_scope": [
+    "demonstração local com dados fictícios",
+    "teste interno isolado sem dados reais de unidades, clientes, empregados ou caixa"
+  ],
+  "active_modules": [
+    "MOD-01",
+    "MOD-06",
+    "MOD-07",
+    "MOD-08",
+    "MOD-16",
+    "MOD-22",
+    "MOD-23"
+  ],
+  "inactive_modules": [
+    "MOD-02",
+    "MOD-03",
+    "MOD-04",
+    "MOD-05",
+    "MOD-09",
+    "MOD-10",
+    "MOD-11",
+    "MOD-12",
+    "MOD-13",
+    "MOD-14",
+    "MOD-15",
+    "MOD-17",
+    "MOD-18",
+    "MOD-19",
+    "MOD-20",
+    "MOD-21"
+  ],
+  "blocked_features": [
+    "criação pública de conta",
+    "vinculação real de estacionamentos",
+    "acesso a históricos, caixas, serviços e logs reais",
+    "sincronização multiunidade",
+    "comandos administrativos planejados"
+  ],
+  "planned_features": [
+    "comandos administrativos"
+  ],
+  "declared_creator": "João Davi Pereira da Silva",
+  "responsible_operation": null,
+  "supplier_name": null,
+  "legal_representative_reference": null,
+  "controller_name": null,
+  "privacy_contact": "suporte.lunarxstudios@gmail.com (canal inicial; controlador não identificado)",
+  "expected_audience": "administradores e operadores autorizados de múltiplos estacionamentos",
+  "minimum_or_recommended_age": null,
+  "has_accounts": true,
+  "has_login": true,
+  "authentication_method": "conta, código central e validação de senha de administrador",
+  "uses_cloud_database": true,
+  "processes_personal_data": true,
+  "processes_license_plates": null,
+  "processes_business_customer_data": true,
+  "personal_data_categories": [
+    "dados de conta e sessão",
+    "identificadores de unidade",
+    "credenciais e validação administrativa",
+    "históricos publicados",
+    "registros de caixas fechados",
+    "registros de serviços",
+    "logs administrativos",
+    "dados operacionais que possam identificar clientes, empregados ou operadores"
+  ],
+  "data_categories_not_confirmed": [
+    "câmera",
+    "microfone",
+    "localização",
+    "analytics",
+    "publicidade",
+    "pagamento",
+    "IA"
+  ],
+  "uses_ai": false,
+  "uses_camera": null,
+  "uses_microphone": null,
+  "uses_location": null,
+  "uses_notifications": null,
+  "uses_analytics": null,
+  "uses_advertising": null,
+  "has_online_payments": false,
+  "has_subscriptions": false,
+  "has_free_trial": false,
+  "uses_third_party_services": true,
+  "third_party_services": [
+    "integração com LunarX Parking e infraestrutura de sincronização não identificada"
+  ],
+  "has_international_transfer": null,
+  "international_transfer_mechanism": null,
+  "likely_accessible_to_minors": null,
+  "has_online_ranking": false,
+  "has_multiplayer": false,
+  "uses_hardware_integrations": false,
+  "retention_summary": null,
+  "data_rights_method": "canal inicial; método e controlador ainda devem ser definidos",
+  "security_support_channel": "suporte.lunarxstudios@gmail.com",
+  "terms_version": "3.0",
+  "manifest_version": "1.0",
+  "manifest_date": "2026-07-12",
+  "required_security_controls": [
+    "isolamento por unidade/tenant",
+    "controle por função e menor privilégio",
+    "segurança de sessão",
+    "revogação de acesso",
+    "proteção contra acesso cruzado",
+    "logs proporcionais e protegidos",
+    "procedimento de incidente"
+  ],
+  "unresolved_requirements": [
+    "controlador de cada conjunto de dados",
+    "responsável juridicamente capaz pela operação",
+    "eventual operador e contrato",
+    "arquitetura de isolamento multiunidade",
+    "provedor de nuvem e sincronização",
+    "retenção, exportação, exclusão, incidentes e direitos",
+    "validação de comandos administrativos e permissões"
+  ]
+}
+
 ============================================================
-32. DECLARAÇÃO FINAL DE ACEITE
+48. MANIFESTO CONCLUÍDO — BLOCK STAFFS: CORE POWER
 ============================================================
+
+48.1. IDENTIFICAÇÃO
+Produto: Block Staffs: Core Power.
+Versão do Produto: 1.5 BETA.
+Categoria: mod de Minecraft Java.
+Plataformas: Minecraft Java Edition 1.21.1.
+Canais de distribuição: não informados.
+Modelo de acesso: gratuito, beta.
+Status: POTENCIALMENTE_DISTRIBUIVEL_GRATUITAMENTE_EM_ESCOPO_DE_MENOR_RISCO_APOS_VERIFICACAO_TECNICA_E_DE_LICENCAS.
+
+48.2. ESCOPO ATUALMENTE PERMITIDO
+- uso local em jogador único
+- multiplayer quando provido pelo jogo-base ou servidor de terceiro, sujeito às regras desse servidor
 
-Ao utilizar qualquer Produto LunarX, o usuário declara:
+48.3. MÓDULOS ATIVOS
+MOD-04, MOD-05, MOD-16, MOD-19, MOD-22, MOD-23.
+A ativação é descritiva do tipo de regra aplicável; recursos bloqueados não ficam autorizados.
 
-"Li, entendi e concordo com os Termos Universais de Uso, Licença de Software e Política de Privacidade da LunarX. Estou ciente de que estes Termos se aplicam aos produtos, sistemas, aplicativos, jogos, ferramentas, módulos e serviços digitais da marca LunarX, incluindo versões gratuitas, pagas, de teste, online, offline, Android, Windows, web, PWA, protótipos e versões futuras. Entendo que o uso do Produto depende do cumprimento destas regras."
+48.4. IDENTIDADES JURÍDICAS
+Criador ou titular declarado: João Davi Pereira da Silva.
+Responsável juridicamente capaz pela operação: não identificado.
+Fornecedor contratante: não identificado.
+Representante: não identificado; deverá constar de instrumento privado quando exigido.
+Controlador: não identificado.
+Canal: suporte.lunarxstudios@gmail.com (para suporte; não há tratamento LunarX confirmado no escopo descrito).
 
-Caso não concorde, o usuário deve encerrar o uso e não prosseguir com ativação, teste, login, instalação, contratação ou utilização do Produto.
+48.5. DADOS E FUNÇÕES CONFIRMADAS OU CONDICIONAIS
+- nenhum tratamento LunarX confirmado no escopo declarado
+Retenção: dados locais do jogo conforme arquivos do ambiente; retenção por servidores de terceiros depende de seus responsáveis.
+Método de direitos: para eventual tratamento por terceiro, consultar o responsável do servidor/plataforma; canal LunarX para suporte do mod.
+
+48.6. RECURSOS BLOQUEADOS
+- conta LunarX
+- nuvem LunarX
+- analytics LunarX
+- publicidade LunarX
+- pagamento LunarX
+- IA LunarX
+
+48.7. PENDÊNCIAS OBRIGATÓRIAS
+- canal de distribuição
+- licenças de bibliotecas, assets e dependências
+- carregador e requisitos técnicos
+- classificação e aviso de idade adequados
+- verificação de ausência de telemetria, SDKs ou chamadas externas
+- regras específicas de servidor quando houver
+
+48.8. MANIFESTO JSON
+O bloco abaixo é a representação legível por máquina deste manifesto. Valores null e listas vazias indicam fato não confirmado e não autorizam ativação.
+
+{
+  "product_name": "Block Staffs: Core Power",
+  "product_version": "1.5 BETA",
+  "product_type": "mod de Minecraft Java",
+  "platforms": [
+    "Minecraft Java Edition 1.21.1"
+  ],
+  "distribution_channels": [],
+  "access_model": [
+    "gratuito",
+    "beta"
+  ],
+  "deployment_status": "POTENCIALMENTE_DISTRIBUIVEL_GRATUITAMENTE_EM_ESCOPO_DE_MENOR_RISCO_APOS_VERIFICACAO_TECNICA_E_DE_LICENCAS",
+  "permitted_scope": [
+    "uso local em jogador único",
+    "multiplayer quando provido pelo jogo-base ou servidor de terceiro, sujeito às regras desse servidor"
+  ],
+  "active_modules": [
+    "MOD-04",
+    "MOD-05",
+    "MOD-16",
+    "MOD-19",
+    "MOD-22",
+    "MOD-23"
+  ],
+  "inactive_modules": [
+    "MOD-01",
+    "MOD-02",
+    "MOD-03",
+    "MOD-06",
+    "MOD-07",
+    "MOD-08",
+    "MOD-09",
+    "MOD-10",
+    "MOD-11",
+    "MOD-12",
+    "MOD-13",
+    "MOD-14",
+    "MOD-15",
+    "MOD-17",
+    "MOD-18",
+    "MOD-20",
+    "MOD-21"
+  ],
+  "blocked_features": [
+    "conta LunarX",
+    "nuvem LunarX",
+    "analytics LunarX",
+    "publicidade LunarX",
+    "pagamento LunarX",
+    "IA LunarX"
+  ],
+  "planned_features": [],
+  "declared_creator": "João Davi Pereira da Silva",
+  "responsible_operation": null,
+  "supplier_name": null,
+  "legal_representative_reference": null,
+  "controller_name": null,
+  "privacy_contact": "suporte.lunarxstudios@gmail.com (para suporte; não há tratamento LunarX confirmado no escopo descrito)",
+  "expected_audience": "jogadores de Minecraft Java e administradores de servidores/modpacks",
+  "minimum_or_recommended_age": null,
+  "has_accounts": false,
+  "has_login": false,
+  "uses_cloud_database": false,
+  "processes_personal_data": false,
+  "processes_license_plates": false,
+  "processes_business_customer_data": false,
+  "personal_data_categories": [],
+  "data_categories_not_confirmed": [
+    "identificadores e logs que possam ser tratados por Minecraft, launcher, plataforma, servidor ou host de terceiro"
+  ],
+  "uses_ai": false,
+  "uses_camera": false,
+  "uses_microphone": false,
+  "uses_location": false,
+  "uses_notifications": false,
+  "uses_analytics": false,
+  "uses_advertising": false,
+  "has_online_payments": false,
+  "has_subscriptions": false,
+  "has_free_trial": false,
+  "uses_third_party_services": true,
+  "third_party_services": [
+    "Minecraft Java Edition",
+    "Mojang/Microsoft",
+    "carregadores de mods",
+    "servidores, launchers, hosts e plataformas externas quando usados"
+  ],
+  "non_affiliation_notice": "Não oficial, não patrocinado e não endossado por Minecraft, Mojang, Microsoft ou plataformas externas.",
+  "has_international_transfer": null,
+  "international_transfer_mechanism": null,
+  "likely_accessible_to_minors": true,
+  "child_directed": false,
+  "has_online_ranking": false,
+  "has_multiplayer": true,
+  "uses_hardware_integrations": false,
+  "retention_summary": "dados locais do jogo conforme arquivos do ambiente; retenção por servidores de terceiros depende de seus responsáveis",
+  "data_rights_method": "para eventual tratamento por terceiro, consultar o responsável do servidor/plataforma; canal LunarX para suporte do mod",
+  "security_support_channel": "suporte.lunarxstudios@gmail.com",
+  "terms_version": "3.0",
+  "manifest_version": "1.0",
+  "manifest_date": "2026-07-12",
+  "compatibility": "Minecraft Java Edition 1.21.1; compatibilidade com carregador, modpack e servidor deve ser confirmada na distribuição",
+  "unresolved_requirements": [
+    "canal de distribuição",
+    "licenças de bibliotecas, assets e dependências",
+    "carregador e requisitos técnicos",
+    "classificação e aviso de idade adequados",
+    "verificação de ausência de telemetria, SDKs ou chamadas externas",
+    "regras específicas de servidor quando houver"
+  ]
+}
+
+============================================================
+49. MANIFESTO CONCLUÍDO — COLLECT
+============================================================
+
+49.1. IDENTIFICAÇÃO
+Produto: COLLECT.
+Versão do Produto: 1.0.
+Categoria: jogo multiplataforma.
+Plataformas: Android, Linux, iOS, Windows, macOS.
+Canais de distribuição: não informados.
+Modelo de acesso: gratuito.
+Status: POTENCIALMENTE_DISTRIBUIVEL_GRATUITAMENTE_OFFLINE_EM_ESCOPO_DE_MENOR_RISCO_APOS_VERIFICACAO_TECNICA_E_DE_PLATAFORMA.
+
+49.2. ESCOPO ATUALMENTE PERMITIDO
+- jogo local com progresso local e controles de teclado ou toque
+
+49.3. MÓDULOS ATIVOS
+MOD-04, MOD-16, MOD-23.
+A ativação é descritiva do tipo de regra aplicável; recursos bloqueados não ficam autorizados.
+
+49.4. IDENTIDADES JURÍDICAS
+Criador ou titular declarado: João Davi Pereira da Silva.
+Responsável juridicamente capaz pela operação: não identificado.
+Fornecedor contratante: não identificado.
+Representante: não identificado; deverá constar de instrumento privado quando exigido.
+Controlador: não identificado.
+Canal: suporte.lunarxstudios@gmail.com (suporte; nenhum tratamento online confirmado).
+
+49.5. DADOS E FUNÇÕES CONFIRMADAS OU CONDICIONAIS
+- nenhum tratamento LunarX confirmado no escopo declarado
+Retenção: progresso local conforme arquivos do jogo e do dispositivo; critérios específicos devem ser informados na distribuição.
+Método de direitos: não aplicável a tratamento LunarX online no escopo confirmado; canal de suporte para dúvidas.
+
+49.6. RECURSOS BLOQUEADOS
+- contas
+- nuvem
+- analytics
+- publicidade
+- pagamentos
+- ranking online
+- multiplayer online
+
+49.7. PENDÊNCIAS OBRIGATÓRIAS
+- canais de distribuição
+- classificação indicativa e idade recomendada
+- licenças de terceiros e requisitos de cada plataforma
+- verificação técnica de ausência de SDKs, telemetria ou rede não declarados
+- política de atualização e migração de progresso local
+
+49.8. MANIFESTO JSON
+O bloco abaixo é a representação legível por máquina deste manifesto. Valores null e listas vazias indicam fato não confirmado e não autorizam ativação.
+
+{
+  "product_name": "COLLECT",
+  "product_version": "1.0",
+  "product_type": "jogo multiplataforma",
+  "platforms": [
+    "Android",
+    "Linux",
+    "iOS",
+    "Windows",
+    "macOS"
+  ],
+  "distribution_channels": [],
+  "access_model": [
+    "gratuito"
+  ],
+  "deployment_status": "POTENCIALMENTE_DISTRIBUIVEL_GRATUITAMENTE_OFFLINE_EM_ESCOPO_DE_MENOR_RISCO_APOS_VERIFICACAO_TECNICA_E_DE_PLATAFORMA",
+  "permitted_scope": [
+    "jogo local com progresso local e controles de teclado ou toque"
+  ],
+  "active_modules": [
+    "MOD-04",
+    "MOD-16",
+    "MOD-23"
+  ],
+  "inactive_modules": [
+    "MOD-01",
+    "MOD-02",
+    "MOD-03",
+    "MOD-05",
+    "MOD-06",
+    "MOD-07",
+    "MOD-08",
+    "MOD-09",
+    "MOD-10",
+    "MOD-11",
+    "MOD-12",
+    "MOD-13",
+    "MOD-14",
+    "MOD-15",
+    "MOD-17",
+    "MOD-18",
+    "MOD-19",
+    "MOD-20",
+    "MOD-21",
+    "MOD-22"
+  ],
+  "blocked_features": [
+    "contas",
+    "nuvem",
+    "analytics",
+    "publicidade",
+    "pagamentos",
+    "ranking online",
+    "multiplayer online"
+  ],
+  "planned_features": [],
+  "declared_creator": "João Davi Pereira da Silva",
+  "responsible_operation": null,
+  "supplier_name": null,
+  "legal_representative_reference": null,
+  "controller_name": null,
+  "privacy_contact": "suporte.lunarxstudios@gmail.com (suporte; nenhum tratamento online confirmado)",
+  "expected_audience": "jogadores",
+  "minimum_or_recommended_age": null,
+  "has_accounts": false,
+  "has_login": false,
+  "uses_cloud_database": false,
+  "processes_personal_data": false,
+  "processes_license_plates": false,
+  "processes_business_customer_data": false,
+  "personal_data_categories": [],
+  "data_categories_not_confirmed": [
+    "identificadores técnicos eventualmente tratados por sistema operacional ou loja de distribuição"
+  ],
+  "uses_ai": false,
+  "uses_camera": false,
+  "uses_microphone": false,
+  "uses_location": false,
+  "uses_notifications": false,
+  "uses_analytics": false,
+  "uses_advertising": false,
+  "has_online_payments": false,
+  "has_subscriptions": false,
+  "has_free_trial": false,
+  "uses_third_party_services": null,
+  "third_party_services": [],
+  "has_international_transfer": null,
+  "international_transfer_mechanism": null,
+  "likely_accessible_to_minors": true,
+  "child_directed": false,
+  "has_online_ranking": false,
+  "has_multiplayer": false,
+  "uses_hardware_integrations": false,
+  "retention_summary": "progresso local conforme arquivos do jogo e do dispositivo; critérios específicos devem ser informados na distribuição",
+  "data_rights_method": "não aplicável a tratamento LunarX online no escopo confirmado; canal de suporte para dúvidas",
+  "security_support_channel": "suporte.lunarxstudios@gmail.com",
+  "terms_version": "3.0",
+  "manifest_version": "1.0",
+  "manifest_date": "2026-07-12",
+  "future_activation_rule": "qualquer conta, nuvem, analytics, publicidade, pagamento, ranking, multiplayer ou outro tratamento online exige nova versão do Manifesto, ativação dos módulos correspondentes e governança completa antes da publicação",
+  "unresolved_requirements": [
+    "canais de distribuição",
+    "classificação indicativa e idade recomendada",
+    "licenças de terceiros e requisitos de cada plataforma",
+    "verificação técnica de ausência de SDKs, telemetria ou rede não declarados",
+    "política de atualização e migração de progresso local"
+  ]
+}
+
+============================================================
+50. ESTRUTURA DE ARQUIVOS PARA DISTRIBUIÇÃO
+============================================================
+
+50.1. Estrutura recomendada para cada pacote:
+
+/LEGAL/
+  TERMOS_UNIVERSAIS_LUNARX_V3_0.txt
+  MANIFESTO_JURIDICO_DO_PRODUTO.txt
+  MANIFESTO_JURIDICO_DO_PRODUTO.json
+  AVISO_DE_PRIVACIDADE_RESUMIDO.txt
+  LICENSES_TERCEIROS.txt, quando aplicável
+  CHANGELOG_LEGAL.txt
+
+50.2. O aplicativo pode incorporar os arquivos em assets, recursos internos, diretório público ou endpoint, desde que permaneçam acessíveis antes do aceite e, quando necessário, offline.
+
+50.3. O Manifesto JSON deverá ser validado no build. O pipeline deverá falhar quando: módulo ativo não possuir seção; recurso pessoal não tiver controlador; pagamento não tiver fornecedor; campo obrigatório estiver ausente; permissão divergir da loja; ou hash não corresponder ao arquivo distribuído.
+
+50.4. Identificadores humanos e técnicos recomendados:
+terms_version = 3.0;
+manifest_version = versão independente;
+product_version = versão real do build;
+legal_bundle_id = combinação versionada;
+terms_sha256 e manifest_sha256 = hashes reais.
+
+50.5. O arquivo de licenças de terceiros deverá listar bibliotecas, assets, fontes, APIs, jogos-base, carregadores, SDKs e componentes conforme suas licenças, sem distribuir arquivos cuja licença não permita.
+
+50.6. CHANGELOG_LEGAL deverá registrar mudanças de dados, permissões, terceiros, preço, renovação, faixa etária, controlador, fornecedor, segurança e módulos.
+
+50.7. Em web, deve existir acesso persistente aos documentos. Em APK/EXE/jogo/mod, deve existir cópia incluída ou caminho funcional que não dependa exclusivamente de conexão.
+
+50.8. A distribuição não deve usar arquivos antigos ou manifestos de outro Produto. O nome, versão e hash devem ser conferidos no pacote final.
+
+============================================================
+51. HISTÓRICO DE VERSÕES
+============================================================
+
+Versão 1.0
+Publicação: 22/06/2026.
+Descrição: primeira versão universal de uso, licença e privacidade para Produtos LunarX.
+
+Versão 2.0
+Publicação e vigência declaradas no documento anterior: 12/07/2026.
+Descrição: reestruturação integral; identificação pública cautelosa; capacidade civil; proteção do consumidor; condições comerciais; LGPD ampliada; inventário condicional; IA; crianças e adolescentes; incidentes; registros de aceite; textos de tela; e mecanismos para Produtos futuros.
+
+Versão 2.1
+Revisão: 12/07/2026.
+Status: pública pré-comercial.
+Descrição: correções de capacidade e representação; remoção de data de nascimento e CPF; minimização; separação entre autoria e capacidade; restrição de operações pagas; ativação por oferta específica; comércio eletrônico; aviso específico; transferências, incidentes e proteção infantojuvenil.
+
+Versão 2.2
+Revisão: 12/07/2026.
+Status: pública pré-comercial, sujeita a controlador e representação.
+Descrição: separação entre marca, operador, fornecedor, controlador e operador de dados; usos de menor risco; restrição de recursos de maior risco; modelo de aviso específico; incidentes e textos de aceite.
+
+Versão 3.0
+Revisão: 12/07/2026.
+Status: framework operacional universal condicionado; não declara habilitação comercial geral.
+Descrição: núcleo universal; 23 módulos condicionais; Manifesto Jurídico humano e JSON; schema; bloqueios por identidade ausente; cobertura de sistemas empresariais, aplicativos de consumidor, nuvem, hardware, jogos e mods; cinco manifestos completos; estrutura de distribuição; regras de build; e preservação das salvaguardas da Versão 2.2.
+Necessidade de novo aceite: sim quando substituir versão anterior em Produto que registrava aceite, quando o Manifesto ativar módulo material, quando mudar fornecedor, controlador, preço, renovação, dados, finalidade, terceiros, transferência, faixa etária ou risco, ou quando a lei exigir.
+
+A Versão 3.0 não torna retroativamente válido ato anterior sem capacidade, representação, fornecedor, controlador, base legal ou implementação necessária.
+
+============================================================
+52. REFERÊNCIAS LEGAIS E OFICIAIS CONSULTADAS
+============================================================
+
+SEÇÃO INFORMATIVA E NÃO CONTRATUAL
+Acesso às fontes oficiais: 12/07/2026.
+
+52.1. Lei nº 10.406/2002 — Código Civil. Portal Planalto. Capacidade civil, representação, assistência, validade dos negócios, manifestação de vontade e contratos.
+
+52.2. Lei nº 8.078/1990 — Código de Defesa do Consumidor. Portal Planalto. Informação, oferta, responsabilidade, práticas e cláusulas abusivas, contratos e arrependimento.
+
+52.3. Decreto nº 7.962/2013 — Comércio eletrônico. Portal Planalto. Identificação do fornecedor, informação clara, atendimento e direito de arrependimento.
+
+52.4. Lei nº 13.709/2018, com alterações vigentes — LGPD. Portal Planalto. Princípios, hipóteses legais, direitos, agentes, segurança, crianças, transferências e incidentes.
+
+52.5. Lei nº 12.965/2014 — Marco Civil da Internet. Portal Planalto. Direitos, privacidade, registros e responsabilidade no uso da internet.
+
+52.6. Lei nº 9.609/1998 — Lei de Software. Portal Planalto. Proteção, direitos e comercialização de programas de computador.
+
+52.7. Lei nº 9.610/1998 — Lei de Direitos Autorais. Portal Planalto. Obras, autoria e direitos autorais.
+
+52.8. Lei nº 9.279/1996 — Lei da Propriedade Industrial. Portal Planalto. Marcas e outros direitos industriais.
+
+52.9. Manual de Marcas e Guia Básico de Marcas. INPI. Procedimentos e distinção entre uso de nome e exclusividade decorrente de registro.
+
+52.10. Guia e informações oficiais de registro de programa de computador. INPI. Proteção e procedimento registral facultativo.
+
+52.11. Lei nº 8.069/1990 — Estatuto da Criança e do Adolescente. Portal Planalto. Proteção integral e prevenção.
+
+52.12. Lei nº 15.211/2025 — Estatuto Digital da Criança e do Adolescente. Portal Planalto. Proteção em ambientes digitais, desenho protetivo, idade, publicidade e jogos.
+
+52.13. Decreto nº 12.622/2025. Portal Planalto. Designação da autoridade responsável pela aplicação do ECA Digital.
+
+52.14. Decreto nº 12.880/2026. Portal Planalto. Regulamentação do ECA Digital e política nacional de proteção no ambiente digital.
+
+52.15. Lei nº 15.352/2026. Portal Planalto. Transformação da ANPD em Agência Nacional de Proteção de Dados e alterações correlatas.
+
+52.16. Lei nº 14.852/2024 — Marco Legal dos Jogos Eletrônicos. Portal Planalto. Regras gerais, classificação e proteção infantojuvenil.
+
+52.17. Resolução CD/ANPD nº 2/2022, com alterações vigentes. ANPD. Agentes de tratamento de pequeno porte.
+
+52.18. Resolução CD/ANPD nº 15/2024. ANPD. Comunicação de incidente de segurança.
+
+52.19. Resolução CD/ANPD nº 18/2024. ANPD. Atuação do encarregado pelo tratamento de dados.
+
+52.20. Resolução CD/ANPD nº 19/2024, com retificação vigente. ANPD. Transferência internacional e cláusulas-padrão.
+
+52.21. Resolução CD/ANPD nº 32/2026. ANPD. Reconhecimento de adequação da União Europeia nos limites da decisão.
+
+52.22. Guia Orientativo para Definições dos Agentes de Tratamento e do Encarregado. ANPD. Qualificação factual de controlador, operador e pessoas subordinadas.
+
+52.23. Guia Orientativo sobre Legítimo Interesse. ANPD. Teste, salvaguardas e transparência.
+
+52.24. Materiais oficiais da ANPD sobre direitos dos titulares, incidentes, transferências, ECA Digital e mecanismos confiáveis de aferição de idade.
+
+52.25. Enunciado CD/ANPD nº 1/2023. ANPD. Hipóteses legais e melhor interesse no tratamento de dados de crianças e adolescentes.
+
+52.26. Medida Provisória nº 2.200-2/2001. Portal Planalto. ICP-Brasil e outros meios de comprovação de autoria e integridade.
+
+52.27. Lei nº 14.063/2020. Portal Planalto. Assinaturas eletrônicas em interações com entes públicos e classificação de assinaturas.
+
+52.28. Lei nº 13.105/2015 — Código de Processo Civil. Portal Planalto. Meios de prova, autenticidade e contraditório.
+
+52.29. Materiais oficiais de defesa do consumidor do Ministério da Justiça e da plataforma Consumidor.gov.br sobre comércio eletrônico e arrependimento.
+
+52.30. Documentação oficial Google Play sobre segurança de dados, política de dados do usuário, assinaturas e cancelamento, quando a distribuição utilizar essa plataforma.
+
+52.31. Documentação oficial Apple Developer sobre App Review, privacidade, compras e assinaturas, quando a distribuição utilizar essa plataforma.
+
+52.32. As fontes devem ser verificadas novamente antes de implantação, pois legislação, regulamentação, guias e políticas de plataformas podem mudar.
 
 FIM DO DOCUMENTO
